@@ -1,11 +1,26 @@
 type: object
 additionalProperties: false
+required:
+  - id
+  - name
 properties:
   id:
     type: string
     pattern: "^[a-z0-9-]+$"
   name:
     type: string
+  countries:
+    type: array
+    items:
+      # ISO 3166-1 alpha-2 (2-letter)
+      type: string
+      format: "^[a-z]{2}$"
+  languages:
+    type: array
+    items:
+      # ISO 639-1 (2-letter)
+      type: string
+      format: "^[a-z]{2}$"
   links:
     type: object
     additionalProperties:

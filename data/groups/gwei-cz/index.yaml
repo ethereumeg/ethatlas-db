@@ -1,4 +1,6 @@
 name: Gwei.cz
+countries: [ cz, sk ]
+languages: [ cs, sk, en ]
 links:
   web: https://gwei.cz
   twitter: https://twitter.com/gweicz
