@@ -1,1 +1,1 @@
-# ethatlas-db
+# Ethereum Community Directory (ethcd)
