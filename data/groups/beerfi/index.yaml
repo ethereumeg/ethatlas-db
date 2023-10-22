@@ -1,4 +1,11 @@
 name: BeerFi Prague
+abbreviations:
+  - BeerFi
 countries: [ cz ]
+languages: [ en ]
+cities:
+  - Prague, CZ
+features:
+  - meetups
 links:
   web: https://beerfi.gwei.cz

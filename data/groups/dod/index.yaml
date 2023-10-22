@@ -1,6 +1,15 @@
 name: Department of Decentralization
+abbreviations:
+  - DoD
 countries: [ de ]
 languages: [ de, en ]
+cities:
+  - Berlin, DE
+founded: "2018"
+features:
+  - non-profit
+description: |
+  Collective of people from various crypto, decentralization and peer-to-peer communities in and around Berlin. The group assembled in 2018 to organize ETHBerlin and has been active since.
 links:
   url: https://dod.ngo/
   twitter: https://twitter.com/ETHBerlin

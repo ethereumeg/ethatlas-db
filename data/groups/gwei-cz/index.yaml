@@ -1,6 +1,13 @@
 name: Gwei.cz
 countries: [ cz, sk ]
 languages: [ cs, sk, en ]
+cities:
+  - Prague, CZ
+  - Brno, CZ
+founded: "2020-01-19"
+features:
+  - non-profit
+  - meetups
 links:
   web: https://gwei.cz
   twitter: https://twitter.com/gweicz

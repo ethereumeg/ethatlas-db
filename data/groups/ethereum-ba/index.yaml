@@ -1,5 +1,7 @@
 title: Ethereum Buenos Aires
 countries: [ ar ]
+cities:
+  - Buenos Aires, AR
 links:
   web: https://ethereumba.com/
   meetup: https://www.meetup.com/ethereum-ba/

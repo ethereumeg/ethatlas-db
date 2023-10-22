@@ -9,6 +9,10 @@ properties:
     pattern: "^[a-z0-9-]+$"
   name:
     type: string
+  abbreviations:
+    type: array
+    items:
+      type: string
   countries:
     type: array
     items:
@@ -21,6 +25,25 @@ properties:
       # ISO 639-1 (2-letter)
       type: string
       format: "^[a-z]{2}$"
+  cities:
+    type: array
+    items:
+      # example: Prague, CZ
+      type: string
+  founded:
+    # year (2022) or date (2022-02-23)
+    type: string
+    format: "^(\\d{4}|\\d{4}-\\d{2}-\\d{2})$"
+  features:
+    type: array
+    items:
+      type: string
+      enum:
+        - non-profit
+        - meetups
+        - dao
+  description:
+    type: string
   links:
     type: object
     additionalProperties:

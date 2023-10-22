@@ -1,6 +1,10 @@
 name: Kyiv Ethereum
 countries: [ ua ]
 languages: [ uk, en ]
+cities:
+  - Kyiv, UA
+features:
+  - meetups
 links:
   web: https://kyivethereum.com/
   twitter: https://twitter.com/kyiv_ethereum

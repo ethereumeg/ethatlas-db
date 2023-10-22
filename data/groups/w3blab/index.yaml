@@ -1,4 +1,6 @@
 name: W3B Lab
+abbreviations:
+  - W3BLab
 countries: [ nl, es, de, pt ]
 links:
   web: https://w3blab.io/

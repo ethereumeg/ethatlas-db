@@ -1,6 +1,12 @@
 name: CryptoCanal
 countries: [ nl, ch ]
 languages: [ nl, en ]
+cities:
+  - Amsterdam, NL
+  - Rotterdam, NL
+  - Zurich, CH
+features:
+  - meetups
 links:
   web: https://www.cryptocanal.org/
   linktree: https://linktr.ee/cryptocanal

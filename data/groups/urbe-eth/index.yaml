@@ -1,6 +1,11 @@
 name: urbe.eth
 countries: [ it ]
 languages: [ it, en ]
+cities:
+  - Rome, IT
+features:
+  - non-profit
+  - meetups
 links:
   linktree: https://linktr.ee/urbe.eth
   twitter: https://twitter.com/urbeEth
