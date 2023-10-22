@@ -9,6 +9,19 @@ properties:
     pattern: "^[a-z0-9-]+$"
   name:
     type: string
+  positions:
+    type: array
+    items:
+      type: object
+      additionalProperties: false
+      required:
+        - where
+        - role
+      properties:
+        where:
+          type: string
+        role:
+          type: string
   links:
     type: object
     additionalProperties:

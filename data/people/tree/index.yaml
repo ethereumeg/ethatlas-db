@@ -1,0 +1,10 @@
+name: Tree
+positions:
+  - where: ~group:fa8 # gwei-cz
+    role: Founder
+  - where: ~group:ee4 # w3pn
+    role: Events
+  - where: ~group:ee0 # eeg
+    role: Gardener
+links:
+  farcaster: https://warpcast.com/tree
