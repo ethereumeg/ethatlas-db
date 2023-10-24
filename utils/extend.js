@@ -2,6 +2,7 @@ import Engine from "./engine.js";
 import cheerio from "npm:cheerio@1.0.0-rc.12";
 import { ensureDir, exists } from "https://deno.land/std@0.173.0/fs/mod.ts";
 import * as yaml from "https://deno.land/std@0.204.0/yaml/mod.ts";
+import { slugify } from "https://deno.land/x/slugify/mod.ts";
 
 const e = new Engine();
 await e.init();
@@ -59,7 +60,8 @@ const tools = {
         await Deno.writeTextFile(cacheFn, output);
         return output;
     },
-    yaml
+    yaml,
+    slugify,
 }
 
 for (const extId in e.config.extenders) {

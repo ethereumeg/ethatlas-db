@@ -1,5 +1,5 @@
 {
-  "time": "2023-10-24T09:33:42.489Z",
+  "time": "2023-10-24T09:48:39.838Z",
   "eips": [
     {
       "eip": 1,
@@ -262,6 +262,18 @@
       "category": "Core",
       "status": "Withdrawn",
       "created": "2018-07-21T00:00:00.000Z"
+    },
+    {
+      "eip": 1459,
+      "title": "Node Discovery via DNS",
+      "description": "Scheme for authenticated updateable Ethereum node lists via DNS.",
+      "author": "Felix Lange (@fjl), Péter Szilágyi (@karalabe)",
+      "discussions-to": "https://github.com/ethereum/devp2p/issues/50",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Networking",
+      "created": "2018-09-26T00:00:00.000Z",
+      "requires": 778
     },
     {
       "eip": 1559,

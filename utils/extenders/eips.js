@@ -94,6 +94,8 @@ export async function process(db, _) {
 
         //console.log(`-----\n${p.info.name} (${JSON.stringify(p)})\n`)
         //prompt("Do you want to create new one?")
+
+        await db.itemCreate('people', _.slugify(p.info.name).toLowerCase(), { name: p.info.name })
     }
 
     const output = {
