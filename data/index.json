@@ -279,6 +279,2496 @@
     ],
     "people": [
       {
+        "slug": "pelle-braendgaard",
+        "name": "Pelle Braendgaard",
+        "links": {
+          "github": "https://github.com/pelle"
+        },
+        "emails": [
+          "pelle.braendgaard@consensys.net"
+        ],
+        "eips": [
+          1056,
+          1812
+        ]
+      },
+      {
+        "slug": "paul-sullivan",
+        "name": "Paul Sullivan",
+        "links": {
+          "github": "https://github.com/sullivph"
+        },
+        "emails": [
+          "paul.sullivan@manifold.xyz"
+        ],
+        "eips": [
+          6551,
+          6981
+        ]
+      },
+      {
+        "slug": "blockdev",
+        "name": "blockdev",
+        "links": {
+          "github": "https://github.com/0xbok"
+        },
+        "eips": [
+          4883
+        ]
+      },
+      {
+        "slug": "alex-klasma",
+        "name": "Alex",
+        "links": {
+          "github": "https://github.com/Alex-Klasma"
+        },
+        "eips": [
+          6065
+        ]
+      },
+      {
+        "slug": "jim-mcdonald",
+        "name": "Jim McDonald",
+        "links": {
+          "github": "https://github.com/mcdee"
+        },
+        "emails": [
+          "Jim@mcdee.net"
+        ],
+        "eips": [
+          1185,
+          2386,
+          2680,
+          4736
+        ]
+      },
+      {
+        "slug": "yaroslav-sergievsky",
+        "name": "Yaroslav Sergievsky",
+        "links": {
+          "github": "https://github.com/everdimension"
+        },
+        "eips": [
+          6963
+        ]
+      },
+      {
+        "slug": "adam-egyed",
+        "name": "Adam Egyed",
+        "links": {
+          "github": "https://github.com/adamegyed"
+        },
+        "eips": [
+          6900
+        ]
+      },
+      {
+        "slug": "alex-vlasov",
+        "name": "Alex Vlasov",
+        "links": {
+          "github": "https://github.com/shamatar"
+        },
+        "eips": [
+          1962,
+          2537,
+          2539,
+          2666
+        ]
+      },
+      {
+        "slug": "fangting-liu",
+        "name": "Fangting Liu",
+        "links": {
+          "github": "https://github.com/trinity-0111"
+        },
+        "eips": [
+          6900
+        ]
+      },
+      {
+        "slug": "edward-amor",
+        "name": "Edward Amor",
+        "links": {
+          "github": "https://github.com/skellet0r"
+        },
+        "eips": [
+          5202
+        ]
+      },
+      {
+        "slug": "rick-dudley",
+        "name": "Rick Dudley",
+        "links": {
+          "github": "https://github.com/AFDudley"
+        },
+        "eips": [
+          1559
+        ]
+      },
+      {
+        "slug": "pedro-gomes",
+        "name": "Pedro Gomes",
+        "links": {
+          "github": "https://github.com/pedrouid"
+        },
+        "eips": [
+          1328,
+          2015,
+          3085,
+          3091,
+          3770,
+          6963
+        ]
+      },
+      {
+        "slug": "christopher-gewecke",
+        "name": "Christopher Gewecke",
+        "emails": [
+          "christophergewecke@gmail.com"
+        ],
+        "eips": [
+          1319
+        ]
+      },
+      {
+        "slug": "jarno-marttila",
+        "name": "Jarno Marttila",
+        "links": {
+          "github": "https://github.com/yaruno"
+        },
+        "eips": [
+          5023
+        ]
+      },
+      {
+        "slug": "tommy-nicholas",
+        "name": "Tommy Nicholas",
+        "links": {
+          "github": "https://github.com/tomasienrbc"
+        },
+        "eips": [
+          1046
+        ]
+      },
+      {
+        "slug": "brendan-asselstine",
+        "name": "Brendan Asselstine",
+        "links": {
+          "github": "https://github.com/asselstine"
+        },
+        "eips": [
+          5164
+        ]
+      },
+      {
+        "slug": "zheng-han",
+        "name": "Zheng Han",
+        "links": {
+          "github": "https://github.com/hanbsd"
+        },
+        "eips": [
+          7507
+        ]
+      },
+      {
+        "slug": "lucas-cullen",
+        "name": "Lucas Cullen",
+        "links": {
+          "github": "https://github.com/BitcoinBrisbane"
+        },
+        "eips": [
+          1753
+        ]
+      },
+      {
+        "slug": "yin-xu",
+        "name": "Yin Xu",
+        "links": {
+          "github": "https://github.com/yingogobot"
+        },
+        "eips": [
+          1202
+        ]
+      },
+      {
+        "slug": "christophe-le-bars",
+        "name": "Christophe Le Bars",
+        "links": {
+          "github": "https://github.com/clbrge"
+        },
+        "eips": [
+          5185
+        ]
+      },
+      {
+        "slug": "navid-x",
+        "name": "Navid X.",
+        "links": {
+          "github": "https://github.com/xuxinlai2002"
+        },
+        "eips": [
+          7231
+        ]
+      },
+      {
+        "slug": "alan-scarpellini",
+        "name": "Alan Scarpellini",
+        "links": {
+          "github": "https://github.com/alanscarpellini"
+        },
+        "eips": [
+          2980
+        ]
+      },
+      {
+        "slug": "dan-phifer",
+        "name": "Dan Phifer",
+        "emails": [
+          "dp@musiconomi.com"
+        ],
+        "eips": [
+          867
+        ]
+      },
+      {
+        "slug": "toni-wahrstatter",
+        "name": "Toni Wahrstätter",
+        "links": {
+          "github": "https://github.com/nerolation"
+        },
+        "eips": [
+          5564,
+          6538
+        ]
+      },
+      {
+        "slug": "ben-tinner",
+        "name": "Ben Tinner",
+        "links": {
+          "github": "https://github.com/Terra854"
+        },
+        "eips": [
+          3143
+        ]
+      },
+      {
+        "slug": "pavel-sinelnikov",
+        "name": "Pavel Sinelnikov",
+        "links": {
+          "github": "https://github.com/psinelnikov"
+        },
+        "eips": [
+          6734
+        ]
+      },
+      {
+        "slug": "gavin-fu",
+        "name": "Gavin Fu",
+        "links": {
+          "github": "https://github.com/gavfu"
+        },
+        "eips": [
+          5625
+        ]
+      },
+      {
+        "slug": "kevin-britz",
+        "name": "Kevin Britz",
+        "links": {
+          "github": "https://github.com/kbrizzle"
+        },
+        "eips": [
+          3009
+        ]
+      },
+      {
+        "slug": "martin-becze",
+        "name": "Martin Becze",
+        "emails": [
+          "mb@ethereum.org"
+        ],
+        "eips": [
+          1
+        ]
+      },
+      {
+        "slug": "jay-paik",
+        "name": "Jay Paik",
+        "links": {
+          "github": "https://github.com/jaypaik"
+        },
+        "eips": [
+          6900
+        ]
+      },
+      {
+        "slug": "james",
+        "name": "James",
+        "links": {
+          "github": "https://github.com/JamesSmartCell"
+        },
+        "eips": [
+          5169
+        ]
+      },
+      {
+        "slug": "peter-kohl-landgraf",
+        "name": "Peter Kohl-Landgraf",
+        "links": {
+          "github": "https://github.com/pekola"
+        },
+        "eips": [
+          6123
+        ]
+      },
+      {
+        "slug": "mike",
+        "name": "mike",
+        "links": {
+          "github": "https://github.com/michaelneuder"
+        },
+        "eips": [
+          7251
+        ]
+      },
+      {
+        "slug": "chuqiao-ren",
+        "name": "Chuqiao Ren",
+        "emails": [
+          "cr025@bucknell.edu"
+        ],
+        "eips": [
+          1504
+        ]
+      },
+      {
+        "slug": "xuanzhe-liu",
+        "name": "Xuanzhe Liu",
+        "emails": [
+          "liuxuanzhe@pku.edu.cn"
+        ],
+        "eips": [
+          1504
+        ]
+      },
+      {
+        "slug": "raymond-huynh",
+        "name": "Raymond Huynh",
+        "links": {
+          "github": "https://github.com/huynhr"
+        },
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "khemraj-adhawade",
+        "name": "Khemraj Adhawade",
+        "links": {
+          "github": "https://github.com/akhemraj"
+        },
+        "eips": [
+          5606
+        ]
+      },
+      {
+        "slug": "green",
+        "name": "Green",
+        "links": {
+          "github": "https://github.com/greenlucid"
+        },
+        "eips": [
+          5022
+        ]
+      },
+      {
+        "slug": "andrei-maiboroda",
+        "name": "Andrei Maiboroda",
+        "links": {
+          "github": "https://github.com/gumb0"
+        },
+        "eips": [
+          3540,
+          3541,
+          3670,
+          3690,
+          3860,
+          4200,
+          4750,
+          5450,
+          6206,
+          7069,
+          7480
+        ]
+      },
+      {
+        "slug": "juliano-rizzo",
+        "name": "Juliano Rizzo",
+        "links": {
+          "github": "https://github.com/juli"
+        },
+        "eips": [
+          1191
+        ]
+      },
+      {
+        "slug": "joseph-chow",
+        "name": "Joseph Chow",
+        "links": {
+          "github": "https://github.com/ethers"
+        },
+        "eips": [
+          4
+        ]
+      },
+      {
+        "slug": "msfew",
+        "name": "msfew",
+        "emails": [
+          "msfew@hyperoracle.io"
+        ],
+        "eips": [
+          6150
+        ]
+      },
+      {
+        "slug": "pk910",
+        "name": "pk910",
+        "links": {
+          "github": "https://github.com/pk910"
+        },
+        "eips": [
+          6916
+        ]
+      },
+      {
+        "slug": "vlad-gluhovsky",
+        "name": "Vlad Gluhovsky",
+        "emails": [
+          "gluk256@gmail.com"
+        ],
+        "eips": [
+          627
+        ]
+      },
+      {
+        "slug": "khanh-pham",
+        "name": "Khanh Pham",
+        "links": {
+          "github": "https://github.com/blackskin18"
+        },
+        "eips": [
+          6120
+        ]
+      },
+      {
+        "slug": "michael-seiler",
+        "name": "Michael Seiler",
+        "emails": [
+          "mgs33@cornell.edu"
+        ],
+        "eips": [
+          918
+        ]
+      },
+      {
+        "slug": "pierrick-turelier",
+        "name": "Pierrick Turelier",
+        "links": {
+          "github": "https://github.com/PierrickGT"
+        },
+        "eips": [
+          5164
+        ]
+      },
+      {
+        "slug": "joseph-stockermans",
+        "name": "Joseph Stockermans",
+        "links": {
+          "github": "https://github.com/jstoxrocky"
+        },
+        "eips": [
+          2566
+        ]
+      },
+      {
+        "slug": "sean-gulley",
+        "name": "Sean Gulley",
+        "links": {
+          "github": "https://github.com/sean-sn"
+        },
+        "eips": [
+          2565
+        ]
+      },
+      {
+        "slug": "song-z",
+        "name": "Song Z",
+        "emails": [
+          "s@misfit.id"
+        ],
+        "eips": [
+          7522
+        ]
+      },
+      {
+        "slug": "mojtaba-tefagh",
+        "name": "Mojtaba Tefagh",
+        "links": {
+          "github": "https://github.com/mtefagh"
+        },
+        "eips": [
+          3416
+        ]
+      },
+      {
+        "slug": "kevin-seagraves",
+        "name": "Kevin Seagraves",
+        "emails": [
+          "k.s.seagraves@gmail.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "herman-junge",
+        "name": "Herman Junge",
+        "links": {
+          "github": "https://github.com/hermanjunge"
+        },
+        "eips": [
+          3030
+        ]
+      },
+      {
+        "slug": "martin-mcconnell",
+        "name": "Martin McConnell",
+        "links": {
+          "github": "https://github.com/offgridgecko"
+        },
+        "eips": [
+          6105
+        ]
+      },
+      {
+        "slug": "vittorio-minacori",
+        "name": "Vittorio Minacori",
+        "links": {
+          "github": "https://github.com/vittominacori"
+        },
+        "eips": [
+          1363
+        ]
+      },
+      {
+        "slug": "kohshi-shiba",
+        "name": "Kohshi Shiba",
+        "emails": [
+          "kohshi.shiba@gmail.com"
+        ],
+        "eips": [
+          2615
+        ]
+      },
+      {
+        "slug": "konrad-kopp",
+        "name": "Konrad Kopp",
+        "links": {
+          "github": "https://github.com/kopy-kat"
+        },
+        "eips": [
+          7484
+        ]
+      },
+      {
+        "slug": "george-spasov",
+        "name": "George Spasov",
+        "links": {
+          "github": "https://github.com/Perseverance"
+        },
+        "eips": [
+          4400
+        ]
+      },
+      {
+        "slug": "allen-zhou",
+        "name": "Allen Zhou",
+        "emails": [
+          "allen@ubiloan.io"
+        ],
+        "eips": [
+          5604
+        ]
+      },
+      {
+        "slug": "omnus-sunmo",
+        "name": "Omnus Sunmo",
+        "links": {
+          "github": "https://github.com/omnus"
+        },
+        "eips": [
+          4886
+        ]
+      },
+      {
+        "slug": "bofu-chen",
+        "name": "Bofu Chen",
+        "links": {
+          "github": "https://github.com/bafu"
+        },
+        "eips": [
+          7053
+        ]
+      },
+      {
+        "slug": "baptiste-vauthey",
+        "name": "Baptiste Vauthey",
+        "links": {
+          "github": "https://github.com/thabaptiser"
+        },
+        "eips": [
+          3455
+        ]
+      },
+      {
+        "slug": "defifofum",
+        "name": "DeFiFoFum",
+        "links": {
+          "github": "https://github.com/DeFiFoFum"
+        },
+        "eips": [
+          5725
+        ]
+      },
+      {
+        "slug": "ben-fusek",
+        "name": "Ben Fusek",
+        "links": {
+          "github": "https://github.com/bfusek"
+        },
+        "eips": [
+          6065
+        ]
+      },
+      {
+        "slug": "peter-robinson",
+        "name": "Peter Robinson",
+        "links": {
+          "github": "https://github.com/drinkcoffee"
+        },
+        "eips": [
+          3220
+        ]
+      },
+      {
+        "slug": "jonathan-underwood",
+        "name": "Jonathan Underwood",
+        "links": {
+          "github": "https://github.com/junderw"
+        },
+        "eips": [
+          2876
+        ]
+      },
+      {
+        "slug": "david-laprade",
+        "name": "David Laprade",
+        "links": {
+          "github": "https://github.com/davidlaprade"
+        },
+        "eips": [
+          5744
+        ]
+      },
+      {
+        "slug": "pawel-bylica",
+        "name": "Paweł Bylica",
+        "links": {
+          "github": "https://github.com/chfast"
+        },
+        "emails": [
+          "pawel@ethereum.org"
+        ],
+        "eips": [
+          1052,
+          1355,
+          145,
+          1571,
+          1985,
+          2003,
+          2677,
+          3540,
+          3541,
+          3670,
+          3690,
+          3855,
+          3860,
+          4200,
+          4750,
+          5000,
+          5450,
+          5656,
+          615,
+          6206,
+          7069,
+          7480
+        ]
+      },
+      {
+        "slug": "julian-svirsky",
+        "name": "Julian Svirsky",
+        "emails": [
+          "js@atlant.io"
+        ],
+        "eips": [
+          1462
+        ]
+      },
+      {
+        "slug": "hua-zhang",
+        "name": "Hua Zhang",
+        "links": {
+          "github": "https://github.com/dgczhh"
+        },
+        "eips": [
+          2569
+        ]
+      },
+      {
+        "slug": "casey-detrio",
+        "name": "Casey Detrio",
+        "links": {
+          "github": "https://github.com/cdetrio"
+        },
+        "eips": [
+          2045,
+          5656,
+          779
+        ]
+      },
+      {
+        "slug": "aurore-guillevic",
+        "name": "Aurore Guillevic",
+        "emails": [
+          "aurore.guillevic@inria.fr"
+        ],
+        "eips": [
+          3026
+        ]
+      },
+      {
+        "slug": "mihai-onila",
+        "name": "Mihai Onila",
+        "links": {
+          "github": "https://github.com/MihaiORO"
+        },
+        "eips": [
+          6808,
+          6809
+        ]
+      },
+      {
+        "slug": "shahaf-nacson",
+        "name": "Shahaf Nacson",
+        "links": {
+          "github": "https://github.com/shahafn"
+        },
+        "eips": [
+          4337
+        ]
+      },
+      {
+        "slug": "barry-whitehat",
+        "name": "Barry WhiteHat",
+        "links": {
+          "github": "https://github.com/barryWhiteHat"
+        },
+        "eips": [
+          2494
+        ]
+      },
+      {
+        "slug": "nikhil-asrani",
+        "name": "Nikhil Asrani",
+        "links": {
+          "github": "https://github.com/nikhilasrani"
+        },
+        "eips": [
+          5606
+        ]
+      },
+      {
+        "slug": "andy-chorlian",
+        "name": "Andy Chorlian",
+        "emails": [
+          "andychorlian@gmail.com"
+        ],
+        "eips": [
+          1484
+        ]
+      },
+      {
+        "slug": "el-mershati-laith",
+        "name": "EL MERSHATI Laith",
+        "links": {
+          "github": "https://github.com/lth-elm"
+        },
+        "eips": [
+          6353
+        ]
+      },
+      {
+        "slug": "yale-reisoleil",
+        "name": "Yale ReiSoleil",
+        "links": {
+          "github": "https://github.com/longnshort"
+        },
+        "eips": [
+          5173
+        ]
+      },
+      {
+        "slug": "carl-beekhuizen",
+        "name": "Carl Beekhuizen",
+        "links": {
+          "github": "https://github.com/carlbeek"
+        },
+        "emails": [
+          "carl@ethereum.org"
+        ],
+        "eips": [
+          2333,
+          2334,
+          2335,
+          7516
+        ]
+      },
+      {
+        "slug": "robert-chen-ottersec",
+        "name": "Robert Chen - OtterSec",
+        "links": {
+          "github": "https://github.com/chen-robert"
+        },
+        "eips": [
+          7512
+        ]
+      },
+      {
+        "slug": "ivan-manus",
+        "name": "Iván Mañús",
+        "links": {
+          "github": "https://github.com/ivanmmurciaua"
+        },
+        "eips": [
+          5216
+        ]
+      },
+      {
+        "slug": "antonio-salazar-cardozo",
+        "name": "Antonio Salazar Cardozo",
+        "links": {
+          "github": "https://github.com/shadowfiend"
+        },
+        "eips": [
+          1108
+        ]
+      },
+      {
+        "slug": "dror-tirosh",
+        "name": "Dror Tirosh",
+        "links": {
+          "github": "https://github.com/drortirosh"
+        },
+        "emails": [
+          "dror@tabookey.com"
+        ],
+        "eips": [
+          1613,
+          2770,
+          2771,
+          4337
+        ]
+      },
+      {
+        "slug": "matthew-slipper",
+        "name": "Matthew Slipper",
+        "links": {
+          "github": "https://github.com/mslipper"
+        },
+        "eips": [
+          1559
+        ]
+      },
+      {
+        "slug": "francesco",
+        "name": "Francesco",
+        "links": {
+          "github": "https://github.com/fradamt"
+        },
+        "eips": [
+          7251
+        ]
+      },
+      {
+        "slug": "jan-bures",
+        "name": "Jan Bureš",
+        "links": {
+          "github": "https://github.com/JohnyX89"
+        },
+        "eips": [
+          5501
+        ]
+      },
+      {
+        "slug": "alex-van-de-sande",
+        "name": "Alex Van de Sande",
+        "links": {
+          "github": "https://github.com/alexvansande"
+        },
+        "emails": [
+          "avsa@ethereum.org"
+        ],
+        "eips": [
+          1015,
+          1077,
+          1078,
+          162,
+          55,
+          67
+        ]
+      },
+      {
+        "slug": "etan-kissling",
+        "name": "Etan Kissling",
+        "links": {
+          "github": "https://github.com/etan-status"
+        },
+        "eips": [
+          6404,
+          6465,
+          6466,
+          6475,
+          6493,
+          7495
+        ]
+      },
+      {
+        "slug": "abhimanyu-nag",
+        "name": "Abhimanyu Nag",
+        "links": {
+          "github": "https://github.com/AbhiMan1601"
+        },
+        "eips": [
+          5133
+        ]
+      },
+      {
+        "slug": "chris-whinfrey",
+        "name": "Chris Whinfrey",
+        "links": {
+          "github": "https://github.com/cwhinfrey"
+        },
+        "eips": [
+          5164
+        ]
+      },
+      {
+        "slug": "gregory-rocco",
+        "name": "Gregory Rocco",
+        "links": {
+          "github": "https://github.com/obstropolos"
+        },
+        "eips": [
+          4361
+        ]
+      },
+      {
+        "slug": "gabriel-barros",
+        "name": "Gabriel Barros",
+        "emails": [
+          "gabriel@terminal.co"
+        ],
+        "eips": [
+          1822
+        ]
+      },
+      {
+        "slug": "partha-bhattacharya",
+        "name": "Partha Bhattacharya",
+        "links": {
+          "github": "https://github.com/pb25193"
+        },
+        "eips": [
+          1261,
+          1417
+        ]
+      },
+      {
+        "slug": "simon-peffers",
+        "name": "Simon Peffers",
+        "links": {
+          "github": "https://github.com/simonatsn"
+        },
+        "eips": [
+          2565
+        ]
+      },
+      {
+        "slug": "boca-jeabby",
+        "name": "BOCA Jeabby",
+        "links": {
+          "github": "https://github.com/bjeabby1507"
+        },
+        "eips": [
+          6353
+        ]
+      },
+      {
+        "slug": "ryan-chow",
+        "name": "Ryan Chow",
+        "emails": [
+          "ryanchow@solv.finance"
+        ],
+        "eips": [
+          3525
+        ]
+      },
+      {
+        "slug": "caroline-marshall",
+        "name": "Caroline Marshall",
+        "emails": [
+          "caroline.marshall888@gmail.com"
+        ],
+        "eips": [
+          1753
+        ]
+      },
+      {
+        "slug": "marco-de-vries",
+        "name": "Marco De Vries",
+        "emails": [
+          "marco@paladinsec.co"
+        ],
+        "eips": [
+          5725
+        ]
+      },
+      {
+        "slug": "simon-tian",
+        "name": "Simon Tian",
+        "links": {
+          "github": "https://github.com/simontianx"
+        },
+        "eips": [
+          3754,
+          4341
+        ]
+      },
+      {
+        "slug": "nick-mudge",
+        "name": "Nick Mudge",
+        "links": {
+          "github": "https://github.com/mudgen"
+        },
+        "emails": [
+          "nick@perfectabstractions.com"
+        ],
+        "eips": [
+          1538,
+          173,
+          2535,
+          2767,
+          998
+        ]
+      },
+      {
+        "slug": "brooklyn-zelenka",
+        "name": "Brooklyn Zelenka",
+        "links": {
+          "github": "https://github.com/expede"
+        },
+        "eips": [
+          1066,
+          1444,
+          2315,
+          3779,
+          615,
+          902
+        ]
+      },
+      {
+        "slug": "victor-munoz",
+        "name": "Víctor Muñoz",
+        "links": {
+          "github": "https://github.com/victormunoz"
+        },
+        "eips": [
+          4944,
+          4950
+        ]
+      },
+      {
+        "slug": "soham-zemse",
+        "name": "Soham Zemse",
+        "links": {
+          "github": "https://github.com/zemse"
+        },
+        "eips": [
+          2767,
+          3772
+        ]
+      },
+      {
+        "slug": "ernesto-garcia",
+        "name": "Ernesto García",
+        "links": {
+          "github": "https://github.com/ernestognw"
+        },
+        "eips": [
+          6093,
+          7201
+        ]
+      },
+      {
+        "slug": "tiger",
+        "name": "Tiger",
+        "links": {
+          "github": "https://github.com/tiger0x"
+        },
+        "eips": [
+          5585
+        ]
+      },
+      {
+        "slug": "tyler-kell",
+        "name": "Tyler Kell",
+        "links": {
+          "github": "https://github.com/relyt29"
+        },
+        "eips": [
+          5218
+        ]
+      },
+      {
+        "slug": "dapplion",
+        "name": "dapplion",
+        "links": {
+          "github": "https://github.com/dapplion"
+        },
+        "eips": [
+          6914,
+          7044,
+          7251,
+          7441,
+          7514
+        ]
+      },
+      {
+        "slug": "anton-bukov",
+        "name": "Anton Bukov",
+        "links": {
+          "github": "https://github.com/k06a"
+        },
+        "eips": [
+          3978,
+          6551
+        ]
+      },
+      {
+        "slug": "wilkins-chung",
+        "name": "Wilkins Chung",
+        "links": {
+          "github": "https://github.com/wwhchung"
+        },
+        "emails": [
+          "wilkins@manifold.xyz"
+        ],
+        "eips": [
+          5131,
+          5639,
+          6551,
+          6981
+        ]
+      },
+      {
+        "slug": "charles-lehner",
+        "name": "Charles Lehner",
+        "links": {
+          "github": "https://github.com/clehner"
+        },
+        "eips": [
+          5573
+        ]
+      },
+      {
+        "slug": "luigi",
+        "name": "Luigi",
+        "emails": [
+          "luigi@1combo.io"
+        ],
+        "eips": [
+          6806
+        ]
+      },
+      {
+        "slug": "adam-levi",
+        "name": "Adam Levi",
+        "emails": [
+          "adam@daostack.io"
+        ],
+        "eips": [
+          1285
+        ]
+      },
+      {
+        "slug": "weiwu-zhang",
+        "name": "Weiwu Zhang",
+        "emails": [
+          "a@colourful.land"
+        ],
+        "eips": [
+          1386,
+          1387,
+          1388,
+          875
+        ]
+      },
+      {
+        "slug": "peter-davies",
+        "name": "Peter Davies",
+        "links": {
+          "github": "https://github.com/petertdavies"
+        },
+        "eips": [
+          4747,
+          6110,
+          7523
+        ]
+      },
+      {
+        "slug": "bertrand-masius",
+        "name": "Bertrand Masius",
+        "links": {
+          "github": "https://github.com/catageek"
+        },
+        "eips": [
+          1271
+        ]
+      },
+      {
+        "slug": "smeargleusedfly",
+        "name": "SmeargleUsedFly",
+        "links": {
+          "github": "https://github.com/SmeargleUsedFly"
+        },
+        "eips": [
+          1227
+        ]
+      },
+      {
+        "slug": "danny-ryan",
+        "name": "Danny Ryan",
+        "links": {
+          "github": "https://github.com/djrtwo"
+        },
+        "eips": [
+          1011,
+          1123,
+          2982,
+          3076,
+          3675,
+          4399,
+          4788,
+          4863,
+          4895,
+          6110,
+          6914,
+          7002,
+          7045
+        ]
+      },
+      {
+        "slug": "0xg",
+        "name": "0xG",
+        "links": {
+          "github": "https://github.com/0xGh"
+        },
+        "eips": [
+          7160
+        ]
+      },
+      {
+        "slug": "calvin-koder",
+        "name": "Calvin Koder",
+        "links": {
+          "github": "https://github.com/ashrowz"
+        },
+        "eips": [
+          3386
+        ]
+      },
+      {
+        "slug": "john-zhang",
+        "name": "John Zhang",
+        "links": {
+          "github": "https://github.com/johnz1019"
+        },
+        "eips": [
+          7093
+        ]
+      },
+      {
+        "slug": "piyush-chittara",
+        "name": "Piyush Chittara",
+        "links": {
+          "github": "https://github.com/piyush-chittara"
+        },
+        "eips": [
+          7066
+        ]
+      },
+      {
+        "slug": "jan-kalivoda",
+        "name": "Jan Kalivoda",
+        "links": {
+          "github": "https://github.com/jaczkal"
+        },
+        "eips": [
+          7512
+        ]
+      },
+      {
+        "slug": "ignacio-mazzara",
+        "name": "Ignacio Mazzara",
+        "links": {
+          "github": "https://github.com/nachomazzara"
+        },
+        "eips": [
+          4955
+        ]
+      },
+      {
+        "slug": "alexi",
+        "name": "Alexi",
+        "links": {
+          "github": "https://github.com/alexi"
+        },
+        "eips": [
+          5050
+        ]
+      },
+      {
+        "slug": "mohammad-zakeri-rad",
+        "name": "Mohammad Zakeri Rad",
+        "links": {
+          "github": "https://github.com/zakrad"
+        },
+        "eips": [
+          6960
+        ]
+      },
+      {
+        "slug": "naim-ashhab",
+        "name": "Naim Ashhab",
+        "links": {
+          "github": "https://github.com/ashhanai"
+        },
+        "eips": [
+          5646
+        ]
+      },
+      {
+        "slug": "terry-chen",
+        "name": "Terry Chen",
+        "emails": [
+          "terry.chen@phaneroz.io"
+        ],
+        "eips": [
+          5727
+        ]
+      },
+      {
+        "slug": "daniel-a-nagy",
+        "name": "Daniel A. Nagy",
+        "links": {
+          "github": "https://github.com/nagydani"
+        },
+        "eips": [
+          681
+        ]
+      },
+      {
+        "slug": "benjamin-chodroff",
+        "name": "Benjamin Chodroff",
+        "links": {
+          "github": "https://github.com/benjaminchodroff"
+        },
+        "eips": [
+          4736
+        ]
+      },
+      {
+        "slug": "michele-balistreri",
+        "name": "Michele Balistreri",
+        "links": {
+          "github": "https://github.com/bitgamma"
+        },
+        "eips": [
+          1581
+        ]
+      },
+      {
+        "slug": "weiji-guo",
+        "name": "Weiji Guo",
+        "eipname": "Weiji Guo",
+        "links": {
+          "github": "https://github.com/weijiguo"
+        },
+        "eips": [
+          5630,
+          6051
+        ]
+      },
+      {
+        "slug": "kartin",
+        "name": "Kartin",
+        "emails": [
+          "kartin@hyperoracle.io"
+        ],
+        "eips": [
+          6150,
+          7007
+        ]
+      },
+      {
+        "slug": "jay-logelin",
+        "name": "Jay Logelin",
+        "emails": [
+          "jlogelin@alumni.harvard.edu"
+        ],
+        "eips": [
+          918
+        ]
+      },
+      {
+        "slug": "elliott-green",
+        "name": "Elliott Green",
+        "links": {
+          "github": "https://github.com/elliott-green"
+        },
+        "eips": [
+          5725
+        ]
+      },
+      {
+        "slug": "jeff-leung",
+        "name": "Jeff Leung",
+        "emails": [
+          "jeff@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "zhongxin-wu",
+        "name": "Zhongxin Wu",
+        "links": {
+          "github": "https://github.com/Nerverwind"
+        },
+        "eips": [
+          3525
+        ]
+      },
+      {
+        "slug": "christian-reitwiessner",
+        "name": "Christian Reitwiessner",
+        "links": {
+          "github": "https://github.com/chriseth"
+        },
+        "emails": [
+          "c@ethdev.com",
+          "chris@ethereum.org"
+        ],
+        "eips": [
+          165,
+          196,
+          197,
+          211,
+          214,
+          2678,
+          3541,
+          5,
+          615
+        ]
+      },
+      {
+        "slug": "james-grimmelmann",
+        "name": "James Grimmelmann",
+        "links": {
+          "github": "https://github.com/grimmelm"
+        },
+        "eips": [
+          5218
+        ]
+      },
+      {
+        "slug": "vincent-eli",
+        "name": "Vincent Eli",
+        "links": {
+          "github": "https://github.com/Bunjin"
+        },
+        "eips": [
+          1775
+        ]
+      },
+      {
+        "slug": "zeon-chan",
+        "name": "Zeon Chan",
+        "emails": [
+          "zeon@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "eric-binet",
+        "name": "Eric Binet",
+        "emails": [
+          "eric@enjin.io"
+        ],
+        "eips": [
+          1155,
+          1761
+        ]
+      },
+      {
+        "slug": "tom-brand",
+        "name": "Tom Brand",
+        "emails": [
+          "tom@starkware.co"
+        ],
+        "eips": [
+          2028,
+          2645
+        ]
+      },
+      {
+        "slug": "paul-bouchon",
+        "name": "Paul Bouchon",
+        "emails": [
+          "mail@bitpshr.net"
+        ],
+        "eips": [
+          1102,
+          1474
+        ]
+      },
+      {
+        "slug": "samuele-marro",
+        "name": "Samuele Marro",
+        "links": {
+          "github": "https://github.com/samuelemarro"
+        },
+        "eips": [
+          5375
+        ]
+      },
+      {
+        "slug": "zihao-chen",
+        "name": "Zihao Chen",
+        "links": {
+          "github": "https://github.com/zihaoccc"
+        },
+        "eips": [
+          4972,
+          6662,
+          7406
+        ]
+      },
+      {
+        "slug": "maurelian",
+        "name": "Maurelian",
+        "eipname": "Maurelian",
+        "eips": [
+          1482,
+          162
+        ]
+      },
+      {
+        "slug": "william-schwab",
+        "name": "William Schwab",
+        "links": {
+          "github": "https://github.com/wschwab"
+        },
+        "eips": [
+          4494,
+          4524
+        ]
+      },
+      {
+        "slug": "aaron-chen",
+        "name": "Aaron Chen",
+        "links": {
+          "github": "https://github.com/aaronisme"
+        },
+        "eips": [
+          4527
+        ]
+      },
+      {
+        "slug": "jake-rockland",
+        "name": "Jake Rockland",
+        "links": {
+          "github": "https://github.com/jakerockland"
+        },
+        "eips": [
+          5639
+        ]
+      },
+      {
+        "slug": "ricardo-guilherme-schmidt",
+        "name": "Ricardo Guilherme Schmidt",
+        "links": {
+          "github": "https://github.com/3esmit"
+        },
+        "eips": [
+          1077,
+          1081,
+          2400,
+          2470,
+          2474
+        ]
+      },
+      {
+        "slug": "dan-long",
+        "name": "Dan Long",
+        "emails": [
+          "dan@artblx.com"
+        ],
+        "eips": [
+          1633
+        ]
+      },
+      {
+        "slug": "devin-conley",
+        "name": "Devin Conley",
+        "links": {
+          "github": "https://github.com/devinaconley"
+        },
+        "eips": [
+          4987
+        ]
+      },
+      {
+        "slug": "blaine-malone",
+        "name": "Blaine Malone",
+        "links": {
+          "github": "https://github.com/blmalone"
+        },
+        "eips": [
+          2981
+        ]
+      },
+      {
+        "slug": "alexey-akhunov",
+        "name": "Alexey Akhunov",
+        "links": {
+          "github": "https://github.com/AlexeyAkhunov"
+        },
+        "eips": [
+          1153,
+          2026,
+          2027,
+          2028,
+          2029,
+          2031,
+          2035,
+          3541
+        ]
+      },
+      {
+        "slug": "kai-chen",
+        "name": "Kai Chen",
+        "emails": [
+          "kai@dauth.network"
+        ],
+        "eips": [
+          7522
+        ]
+      },
+      {
+        "slug": "stefan-simec",
+        "name": "Štefan Šimec",
+        "emails": [
+          "stefan.simec@gmail.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "manuel-araoz",
+        "name": "Manuel Araoz",
+        "emails": [
+          "manuel@zeppelin.solutions"
+        ],
+        "eips": [
+          897
+        ]
+      },
+      {
+        "slug": "alberto-cuesta-canada",
+        "name": "Alberto Cuesta Cañada",
+        "eipname": "Alberto Cuesta Cañada",
+        "links": {
+          "github": "https://github.com/alcueca"
+        },
+        "eips": [
+          3156,
+          3234,
+          4626,
+          5095
+        ]
+      },
+      {
+        "slug": "danno-ferrin",
+        "name": "Danno Ferrin",
+        "links": {
+          "github": "https://github.com/shemnon"
+        },
+        "eips": [
+          1872,
+          3436,
+          5450,
+          7069,
+          7329,
+          7519
+        ]
+      },
+      {
+        "slug": "eyal-eithcowich",
+        "name": "Eyal Eithcowich",
+        "emails": [
+          "eyal@deepdao.io"
+        ],
+        "eips": [
+          4824
+        ]
+      },
+      {
+        "slug": "daniel-lima",
+        "name": "Daniel Lima",
+        "links": {
+          "github": "https://github.com/karacurt"
+        },
+        "eips": [
+          7432
+        ]
+      },
+      {
+        "slug": "wayne-chang",
+        "name": "Wayne Chang",
+        "links": {
+          "github": "https://github.com/wyc"
+        },
+        "eips": [
+          4361,
+          5573
+        ]
+      },
+      {
+        "slug": "eric-marti-haynes",
+        "name": "Eric Marti Haynes",
+        "links": {
+          "github": "https://github.com/ericmartihaynes"
+        },
+        "eips": [
+          5133
+        ]
+      },
+      {
+        "slug": "bicong-wang",
+        "name": "Bicong Wang",
+        "links": {
+          "github": "https://github.com/Wangbicong"
+        },
+        "eips": [
+          1207
+        ]
+      },
+      {
+        "slug": "david-stanfill",
+        "name": "David Stanfill",
+        "emails": [
+          "david@airsquirrels.com"
+        ],
+        "eips": [
+          969
+        ]
+      },
+      {
+        "slug": "min-zu",
+        "name": "Min Zu",
+        "emails": [
+          "crawlregister@gmail.com"
+        ],
+        "eips": [
+          1203
+        ]
+      },
+      {
+        "slug": "andrea-brancaleoni",
+        "name": "Andrea  Brancaleoni",
+        "links": {
+          "github": "https://github.com/thypon"
+        },
+        "eips": [
+          5593
+        ]
+      },
+      {
+        "slug": "john-max-skaller",
+        "name": "John Max Skaller",
+        "emails": [
+          "skaller@internode.on.net"
+        ],
+        "eips": [
+          2315
+        ]
+      },
+      {
+        "slug": "gottfried-herold",
+        "name": "Gottfried Herold",
+        "links": {
+          "github": "https://github.com/GottfriedHerold"
+        },
+        "eips": [
+          6800
+        ]
+      },
+      {
+        "slug": "alan-lu",
+        "name": "Alan Lu",
+        "links": {
+          "github": "https://github.com/cag"
+        },
+        "eips": [
+          1154
+        ]
+      },
+      {
+        "slug": "phoebe-kwok",
+        "name": "Phoebe Kwok",
+        "emails": [
+          "phoebe@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "zeroknots",
+        "name": "zeroknots",
+        "links": {
+          "github": "https://github.com/zeroknots"
+        },
+        "eips": [
+          7484
+        ]
+      },
+      {
+        "slug": "yudao-yan",
+        "name": "Yudao Yan",
+        "emails": [
+          "dean@dauth.network"
+        ],
+        "eips": [
+          7522
+        ]
+      },
+      {
+        "slug": "gleb-naumenko",
+        "name": "Gleb Naumenko",
+        "links": {
+          "github": "https://github.com/naumenkogs"
+        },
+        "eips": [
+          1066,
+          902
+        ]
+      },
+      {
+        "slug": "isaac-ardis",
+        "name": "Isaac Ardis",
+        "links": {
+          "github": "https://github.com/whilei"
+        },
+        "emails": [
+          "isaac.ardis@gmail.com"
+        ],
+        "eips": [
+          3534,
+          695
+        ]
+      },
+      {
+        "slug": "qdqd",
+        "name": "qdqd",
+        "links": {
+          "github": "https://github.com/qd-qd"
+        },
+        "emails": [
+          "qdqdqdqdqd@protonmail.com"
+        ],
+        "eips": [
+          6823
+        ]
+      },
+      {
+        "slug": "daniel-ivanov",
+        "name": "Daniel Ivanov",
+        "links": {
+          "github": "https://github.com/Daniel-K-Ivanov"
+        },
+        "eips": [
+          4400
+        ]
+      },
+      {
+        "slug": "jules-lai",
+        "name": "Jules Lai",
+        "links": {
+          "github": "https://github.com/julesl23"
+        },
+        "eips": [
+          4393,
+          4885
+        ]
+      },
+      {
+        "slug": "qin-jian",
+        "name": "Qin Jian",
+        "links": {
+          "github": "https://github.com/qinjian"
+        },
+        "eips": [
+          1973
+        ]
+      },
+      {
+        "slug": "ben-bollen",
+        "name": "Ben Bollen",
+        "emails": [
+          "ben@ost.com"
+        ],
+        "eips": [
+          1948
+        ]
+      },
+      {
+        "slug": "sacha-saint-leger",
+        "name": "Sacha Saint-Leger",
+        "links": {
+          "github": "https://github.com/sachayves"
+        },
+        "eips": [
+          3076
+        ]
+      },
+      {
+        "slug": "andrea-lanfranchi",
+        "name": "Andrea Lanfranchi",
+        "links": {
+          "github": "https://github.com/AndreaLanfranchi"
+        },
+        "eips": [
+          1057,
+          1571
+        ]
+      },
+      {
+        "slug": "ross-campbell",
+        "name": "Ross Campbell",
+        "links": {
+          "github": "https://github.com/z0r0z"
+        },
+        "eips": [
+          4521
+        ]
+      },
+      {
+        "slug": "0xaa",
+        "name": "0xAA",
+        "links": {
+          "github": "https://github.com/AmazingAng"
+        },
+        "eips": [
+          7511
+        ]
+      },
+      {
+        "slug": "renan-rodrigues-de-souza",
+        "name": "Renan Rodrigues de Souza",
+        "links": {
+          "github": "https://github.com/RenanSouza2"
+        },
+        "eips": [
+          684,
+          6888
+        ]
+      },
+      {
+        "slug": "auryn-macmillan",
+        "name": "Auryn Macmillan",
+        "links": {
+          "github": "https://github.com/auryn-macmillan"
+        },
+        "eips": [
+          3722,
+          5005,
+          6551
+        ]
+      },
+      {
+        "slug": "derivstudio",
+        "name": "DerivStudio",
+        "links": {
+          "github": "https://github.com/DerivStudio"
+        },
+        "eips": [
+          5187
+        ]
+      },
+      {
+        "slug": "dhruv-malik",
+        "name": "Dhruv Malik",
+        "links": {
+          "github": "https://github.com/dhruvmalik007"
+        },
+        "eips": [
+          3475
+        ]
+      },
+      {
+        "slug": "yvan-fatal",
+        "name": "Yvan Fatal",
+        "emails": [
+          "yvan@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "thomas-bergmueller",
+        "name": "Thomas Bergmueller",
+        "links": {
+          "github": "https://github.com/tbergmueller"
+        },
+        "eips": [
+          6956
+        ]
+      },
+      {
+        "slug": "lee-raj",
+        "name": "Lee Raj",
+        "links": {
+          "github": "https://github.com/lerajk"
+        },
+        "eips": [
+          1973
+        ]
+      },
+      {
+        "slug": "daniel-streit",
+        "name": "Daniel Streit",
+        "links": {
+          "github": "https://github.com/danielstreit"
+        },
+        "eips": [
+          3450
+        ]
+      },
+      {
+        "slug": "streamnft",
+        "name": "StreamNFT",
+        "links": {
+          "github": "https://github.com/streamnft-tech"
+        },
+        "eips": [
+          7066
+        ]
+      },
+      {
+        "slug": "thomas-shababi",
+        "name": "Thomas Shababi",
+        "emails": [
+          "tom@truelevel.io"
+        ],
+        "eips": [
+          777
+        ]
+      },
+      {
+        "slug": "lauren-ho",
+        "name": "Lauren Ho",
+        "emails": [
+          "lauren@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "peter-grassberger",
+        "name": "Peter Grassberger",
+        "links": {
+          "github": "https://github.com/PeterTheOne"
+        },
+        "eips": [
+          3014
+        ]
+      },
+      {
+        "slug": "ko-fujimura",
+        "name": "Ko Fujimura",
+        "links": {
+          "github": "https://github.com/kofujimura"
+        },
+        "eips": [
+          7303
+        ]
+      },
+      {
+        "slug": "5660-eth",
+        "name": "5660-eth",
+        "links": {
+          "github": "https://github.com/5660-eth"
+        },
+        "eips": [
+          6105,
+          6147
+        ]
+      },
+      {
+        "slug": "martin-lundfall",
+        "name": "Martin Lundfall",
+        "links": {
+          "github": "https://github.com/Mrchico"
+        },
+        "eips": [
+          2327,
+          2612
+        ]
+      },
+      {
+        "slug": "guang",
+        "name": "Guang",
+        "links": {
+          "github": "https://github.com/xg1990"
+        },
+        "eips": [
+          7085
+        ]
+      },
+      {
+        "slug": "zahary-karadjov",
+        "name": "Zahary Karadjov",
+        "links": {
+          "github": "https://github.com/zah"
+        },
+        "eips": [
+          6475
+        ]
+      },
+      {
+        "slug": "christoph-mussenbrock",
+        "name": "Christoph Mussenbrock",
+        "links": {
+          "github": "https://github.com/christoph2806"
+        },
+        "eips": [
+          1523
+        ]
+      },
+      {
+        "slug": "firn-protocol",
+        "name": "Firn Protocol",
+        "links": {
+          "github": "https://github.com/firnprotocol"
+        },
+        "eips": [
+          5630
+        ]
+      },
+      {
+        "slug": "victor-maia",
+        "name": "Victor Maia",
+        "links": {
+          "github": "https://github.com/MaiaVictor"
+        },
+        "eips": [
+          1193
+        ]
+      },
+      {
+        "slug": "austin-zhu",
+        "name": "Austin Zhu",
+        "links": {
+          "github": "https://github.com/AustinZhu"
+        },
+        "eips": [
+          5727
+        ]
+      },
+      {
+        "slug": "outeth",
+        "name": "out.eth",
+        "links": {
+          "github": "https://github.com/outdoteth"
+        },
+        "eips": [
+          6682
+        ]
+      },
+      {
+        "slug": "base-labs",
+        "name": "Base Labs",
+        "links": {
+          "github": "https://github.com/Base-Labs"
+        },
+        "eips": [
+          6051
+        ]
+      },
+      {
+        "slug": "eduard-lopez-i-fina",
+        "name": "Eduard López i Fina",
+        "links": {
+          "github": "https://github.com/eduardfina"
+        },
+        "eips": [
+          6997,
+          7144
+        ]
+      },
+      {
+        "slug": "yan",
+        "name": "Yan",
+        "links": {
+          "github": "https://github.com/yan253319066"
+        },
+        "eips": [
+          5334
+        ]
+      },
+      {
+        "slug": "luc-falempin",
+        "name": "Luc Falempin",
+        "links": {
+          "github": "https://github.com/lfalempin"
+        },
+        "eips": [
+          3643
+        ]
+      },
+      {
+        "slug": "lukas-schor",
+        "name": "Lukas Schor",
+        "links": {
+          "github": "https://github.com/lukasschor"
+        },
+        "eips": [
+          3770
+        ]
+      },
+      {
+        "slug": "joshua-trujillo",
+        "name": "Joshua Trujillo",
+        "links": {
+          "github": "https://github.com/jtriley-eth"
+        },
+        "eips": [
+          6909
+        ]
+      },
+      {
+        "slug": "gavin-john",
+        "name": "Gavin John",
+        "links": {
+          "github": "https://github.com/Pandapip1"
+        },
+        "eips": [
+          1046,
+          2015,
+          2255,
+          2771,
+          3085,
+          4834,
+          5069,
+          5219,
+          5289,
+          5380,
+          5507,
+          5568,
+          5615,
+          5920,
+          6188,
+          6189,
+          6190,
+          6315,
+          6357,
+          6811,
+          6944,
+          747
+        ]
+      },
+      {
+        "slug": "iluminada-baturone",
+        "name": "Iluminada Baturone",
+        "links": {
+          "github": "https://github.com/lumi2018"
+        },
+        "eips": [
+          4519
+        ]
+      },
+      {
+        "slug": "kyle-den-hartog",
+        "name": "Kyle Den Hartog",
+        "links": {
+          "github": "https://github.com/kdenhartog"
+        },
+        "eips": [
+          5593,
+          6963
+        ]
+      },
+      {
+        "slug": "tim-daubenschutz",
+        "name": "Tim Daubenschütz",
+        "links": {
+          "github": "https://github.com/TimDaub"
+        },
+        "eips": [
+          4973,
+          5192,
+          5380
+        ]
+      },
+      {
+        "slug": "jiangshan-yu",
+        "name": "Jiangshan Yu",
+        "emails": [
+          "jiangshan.yu@monash.edu"
+        ],
+        "eips": [
+          2266,
+          5521
+        ]
+      },
+      {
+        "slug": "filipp-makarov",
+        "name": "Filipp Makarov",
+        "links": {
+          "github": "https://github.com/filmakarov"
+        },
+        "eips": [
+          5753
+        ]
+      },
+      {
+        "slug": "zachary-belford",
+        "name": "Zachary Belford",
+        "links": {
+          "github": "https://github.com/belfordz"
+        },
+        "eips": [
+          1901
+        ]
+      },
+      {
+        "slug": "tony-malghem",
+        "name": "Tony Malghem",
+        "links": {
+          "github": "https://github.com/TonyMalghem"
+        },
+        "eips": [
+          3643
+        ]
+      },
+      {
+        "slug": "jan-turk",
+        "name": "Jan Turk",
+        "links": {
+          "github": "https://github.com/ThunderDeliverer"
+        },
+        "eips": [
+          1129,
+          5773,
+          6059,
+          6220,
+          6381,
+          6454,
+          7401,
+          7409,
+          7508
+        ]
+      },
+      {
+        "slug": "diederik-loerakker",
+        "name": "Diederik Loerakker",
+        "links": {
+          "github": "https://github.com/protolambda"
+        },
+        "eips": [
+          4844
+        ]
+      },
+      {
+        "slug": "jan-felix-schwarz",
+        "name": "Jan-Felix Schwarz",
+        "links": {
+          "github": "https://github.com/jfschwarz"
+        },
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "dane-scarborough",
+        "name": "Dane Scarborough",
+        "emails": [
+          "dane@nftapps.us"
+        ],
+        "eips": [
+          4353
+        ]
+      },
+      {
+        "slug": "query0x",
+        "name": "Query0x",
+        "links": {
+          "github": "https://github.com/Query0x"
+        },
+        "eips": [
+          3374
+        ]
+      },
+      {
+        "slug": "kris-shinn",
+        "name": "Kris Shinn",
+        "links": {
+          "github": "https://github.com/kshinn"
+        },
+        "eips": [
+          1767
+        ]
+      },
+      {
         "slug": "tree",
         "name": "Tree",
         "positions": [
@@ -300,11 +2790,2998 @@
         }
       },
       {
+        "slug": "jessica-chang",
+        "name": "Jessica Chang",
+        "links": {
+          "github": "https://github.com/JessicaChg"
+        },
+        "eips": [
+          6239
+        ]
+      },
+      {
+        "slug": "frederic-le-coidic",
+        "name": "Frédéric Le Coidic",
+        "links": {
+          "github": "https://github.com/FredLC29"
+        },
+        "eips": [
+          5560
+        ]
+      },
+      {
+        "slug": "joshua-tan",
+        "name": "Joshua Tan",
+        "links": {
+          "github": "https://github.com/thelastjosh"
+        },
+        "eips": [
+          4824
+        ]
+      },
+      {
+        "slug": "richard-meissner",
+        "name": "Richard Meissner",
+        "links": {
+          "github": "https://github.com/rmeissner"
+        },
+        "eips": [
+          1344,
+          3770,
+          7512
+        ]
+      },
+      {
         "slug": "micah-zoltu",
         "name": "Micah Zoltu",
         "links": {
           "github": "https://github.com/MicahZoltu"
+        },
+        "eips": [
+          1240,
+          234,
+          2696,
+          2700,
+          2711,
+          2718,
+          2786,
+          2803,
+          2972,
+          2976,
+          3074,
+          3338,
+          5114,
+          600,
+          601,
+          908
+        ]
+      },
+      {
+        "slug": "gajinder-singh",
+        "name": "Gajinder Singh",
+        "links": {
+          "github": "https://github.com/g11in"
+        },
+        "eips": [
+          3584
+        ]
+      },
+      {
+        "slug": "eric-dvorsak",
+        "name": "Eric Dvorsak",
+        "links": {
+          "github": "https://github.com/yenda"
+        },
+        "eips": [
+          2400
+        ]
+      },
+      {
+        "slug": "phyrex-tsai",
+        "name": "Phyrex Tsai",
+        "emails": [
+          "phyrex@portal.network"
+        ],
+        "eips": [
+          1062
+        ]
+      },
+      {
+        "slug": "david-knott",
+        "name": "David Knott",
+        "links": {
+          "github": "https://github.com/DavidLKnott"
+        },
+        "eips": [
+          3009
+        ]
+      },
+      {
+        "slug": "zak-cole",
+        "name": "Zak Cole",
+        "links": {
+          "github": "https://github.com/zscole"
+        },
+        "emails": [
+          "zak@numbergroup.xyz"
+        ],
+        "eips": [
+          6968,
+          6968
+        ]
+      },
+      {
+        "slug": "jacob-evans",
+        "name": "Jacob Evans",
+        "links": {
+          "github": "https://github.com/dekz"
+        },
+        "emails": [
+          "jacob@dekz.net"
+        ],
+        "eips": [
+          712,
+          721
+        ]
+      },
+      {
+        "slug": "mark-beylin",
+        "name": "Mark Beylin",
+        "emails": [
+          "mark.beylin@consensys.net"
+        ],
+        "eips": [
+          1081
+        ]
+      },
+      {
+        "slug": "robert-robbins",
+        "name": "Robert Robbins",
+        "links": {
+          "github": "https://github.com/robrobbins"
+        },
+        "eips": [
+          5095
+        ]
+      },
+      {
+        "slug": "david-leung",
+        "name": "David Leung",
+        "links": {
+          "github": "https://github.com/dhl"
+        },
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "christian-tzurcanu",
+        "name": "Christian Tzurcanu",
+        "links": {
+          "github": "https://github.com/ctzurcanu"
+        },
+        "eips": [
+          1900,
+          1921,
+          2157,
+          2193
+        ]
+      },
+      {
+        "slug": "carlos-flores",
+        "name": "Carlos Flores",
+        "links": {
+          "github": "https://github.com/strollinghome"
+        },
+        "eips": [
+          7015
+        ]
+      },
+      {
+        "slug": "edson-ayllon",
+        "name": "Edson Ayllon",
+        "links": {
+          "github": "https://github.com/edsonayllon"
+        },
+        "eips": [
+          2458
+        ]
+      },
+      {
+        "slug": "antoine-cote",
+        "name": "Antoine Cote",
+        "emails": [
+          "anotine@volla.io"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "ngo-quang-anh",
+        "name": "Ngo Quang Anh",
+        "links": {
+          "github": "https://github.com/anhnq82"
+        },
+        "eips": [
+          6120
+        ]
+      },
+      {
+        "slug": "brayton-goodall",
+        "name": "Brayton Goodall",
+        "links": {
+          "github": "https://github.com/Spore-Druid-Bray"
+        },
+        "eips": [
+          4520
+        ]
+      },
+      {
+        "slug": "daniel-tedesco",
+        "name": "Daniel Tedesco",
+        "links": {
+          "github": "https://github.com/dtedesco1"
+        },
+        "eips": [
+          4974
+        ]
+      },
+      {
+        "slug": "roiv",
+        "name": "RoiV",
+        "links": {
+          "github": "https://github.com/DeVaz1"
+        },
+        "eips": [
+          6384
+        ]
+      },
+      {
+        "slug": "gary-rong",
+        "name": "Gary Rong",
+        "emails": [
+          "garyrong0905@gmail.com",
+          "garyrong@ethereum.org"
+        ],
+        "eips": [
+          2464,
+          4938
+        ]
+      },
+      {
+        "slug": "thanh-trinh",
+        "name": "Thanh Trinh",
+        "links": {
+          "github": "https://github.com/thanhtrinh2003"
+        },
+        "emails": [
+          "thanh@revest.finance"
+        ],
+        "eips": [
+          7444
+        ]
+      },
+      {
+        "slug": "piotr-dyraga",
+        "name": "Piotr Dyraga",
+        "links": {
+          "github": "https://github.com/pdyraga"
+        },
+        "eips": [
+          152
+        ]
+      },
+      {
+        "slug": "yan-zhu",
+        "name": "Yan Zhu",
+        "links": {
+          "github": "https://github.com/diracdeltas"
+        },
+        "eips": [
+          5593
+        ]
+      },
+      {
+        "slug": "viktor-pernjek",
+        "name": "Viktor Pernjek",
+        "links": {
+          "github": "https://github.com/smuxx"
+        },
+        "eips": [
+          5252
+        ]
+      },
+      {
+        "slug": "george",
+        "name": "George",
+        "links": {
+          "github": "https://github.com/JXRow"
+        },
+        "eips": [
+          6327
+        ]
+      },
+      {
+        "slug": "austin-griffith",
+        "name": "Austin Griffith",
+        "links": {
+          "github": "https://github.com/austintgriffith"
+        },
+        "eips": [
+          4883
+        ]
+      },
+      {
+        "slug": "lucas-martin-grasso-ramos",
+        "name": "Lucas Martín Grasso Ramos",
+        "links": {
+          "github": "https://github.com/LucasGrasso"
+        },
+        "eips": [
+          5516
+        ]
+      },
+      {
+        "slug": "veega-labs",
+        "name": "Veega Labs",
+        "links": {
+          "github": "https://github.com/VeegaLabsOfficial"
+        },
+        "eips": [
+          5585
+        ]
+      },
+      {
+        "slug": "2pmflow",
+        "name": "2pmflow",
+        "links": {
+          "github": "https://github.com/2pmflow"
+        },
+        "eips": [
+          5791
+        ]
+      },
+      {
+        "slug": "kei-kreutler",
+        "name": "Kei Kreutler",
+        "links": {
+          "github": "https://github.com/keikreutler"
+        },
+        "eips": [
+          5005
+        ]
+      },
+      {
+        "slug": "mikhail-melnik",
+        "name": "Mikhail Melnik",
+        "links": {
+          "github": "https://github.com/ZumZoom"
+        },
+        "eips": [
+          3978,
+          6551
+        ]
+      },
+      {
+        "slug": "michael-carter",
+        "name": "Michael Carter",
+        "links": {
+          "github": "https://github.com/bitsbetrippin"
+        },
+        "eips": [
+          1057,
+          3368
+        ]
+      },
+      {
+        "slug": "shiping-chen",
+        "name": "Shiping Chen",
+        "emails": [
+          "shiping.chen@data61.csiro.au"
+        ],
+        "eips": [
+          5521
+        ]
+      },
+      {
+        "slug": "vectorized",
+        "name": "vectorized",
+        "links": {
+          "github": "https://github.com/Vectorized"
+        },
+        "eips": [
+          7511
+        ]
+      },
+      {
+        "slug": "dan-miller",
+        "name": "Dan Miller",
+        "links": {
+          "github": "https://github.com/danjm"
+        },
+        "eips": [
+          4527
+        ]
+      },
+      {
+        "slug": "josh-weintraub",
+        "name": "Josh Weintraub",
+        "links": {
+          "github": "https://github.com/jhweintraub"
+        },
+        "emails": [
+          "josh@revest.finance"
+        ],
+        "eips": [
+          6506,
+          6551,
+          7444
+        ]
+      },
+      {
+        "slug": "0xtriple7",
+        "name": "0xTriple7",
+        "links": {
+          "github": "https://github.com/ysqi"
+        },
+        "eips": [
+          5635
+        ]
+      },
+      {
+        "slug": "roberto-gorini",
+        "name": "Roberto Gorini",
+        "links": {
+          "github": "https://github.com/robertogorini"
+        },
+        "eips": [
+          2980
+        ]
+      },
+      {
+        "slug": "loredana-cirstea",
+        "name": "Loredana Cirstea",
+        "links": {
+          "github": "https://github.com/loredanacirstea"
+        },
+        "eips": [
+          1900,
+          1921,
+          2157,
+          2193,
+          2256
+        ]
+      },
+      {
+        "slug": "nawar-hisso",
+        "name": "Nawar Hisso",
+        "links": {
+          "github": "https://github.com/nawar-hisso"
+        },
+        "eips": [
+          6960
+        ]
+      },
+      {
+        "slug": "alejo-salles",
+        "name": "Alejo Salles",
+        "links": {
+          "github": "https://github.com/fiiiu"
+        },
+        "eips": [
+          1616
+        ]
+      },
+      {
+        "slug": "pol-malo-le-bris",
+        "name": "Pol-Malo Le Bris",
+        "eipname": "Pol-Malo Le Bris",
+        "eips": [
+          4671
+        ]
+      },
+      {
+        "slug": "peter-jihoon-kim",
+        "name": "Peter Jihoon Kim",
+        "links": {
+          "github": "https://github.com/petejkim"
+        },
+        "eips": [
+          3009
+        ]
+      },
+      {
+        "slug": "yuefei-tan",
+        "name": "Yuefei Tan",
+        "links": {
+          "github": "https://github.com/whtyfhas"
+        },
+        "eips": [
+          2569
+        ]
+      },
+      {
+        "slug": "ligi",
+        "name": "ligi",
+        "links": {
+          "github": "https://github.com/ligi"
+        },
+        "emails": [
+          "ligi@ligi.de"
+        ],
+        "eips": [
+          1328,
+          3091,
+          3770,
+          4527,
+          801,
+          831
+        ]
+      },
+      {
+        "slug": "wizard-wang",
+        "name": "Wizard Wang",
+        "eipname": "Wizard Wang",
+        "eips": [
+          6105,
+          6147
+        ]
+      },
+      {
+        "slug": "keyvan-kambakhsh",
+        "name": "Keyvan Kambakhsh",
+        "links": {
+          "github": "https://github.com/keyvank"
+        },
+        "eips": [
+          7503
+        ]
+      },
+      {
+        "slug": "cameron-robertson",
+        "name": "Cameron Robertson",
+        "links": {
+          "github": "https://github.com/ccamrobertson"
+        },
+        "eips": [
+          5791
+        ]
+      },
+      {
+        "slug": "cygaar",
+        "name": "cygaar",
+        "links": {
+          "github": "https://github.com/cygaar"
+        },
+        "eips": [
+          5643,
+          5791
+        ]
+      },
+      {
+        "slug": "yi-cai",
+        "name": "Yi Cai",
+        "links": {
+          "github": "https://github.com/YeeTsai"
+        },
+        "emails": [
+          "yee.tsai@gmail.com"
+        ],
+        "eips": [
+          3525
+        ]
+      },
+      {
+        "slug": "johann-barbie",
+        "name": "Johann Barbie",
+        "links": {
+          "github": "https://github.com/johannbarbie"
+        },
+        "eips": [
+          1948
+        ]
+      },
+      {
+        "slug": "mengshi-zhang",
+        "name": "Mengshi Zhang",
+        "links": {
+          "github": "https://github.com/MengshiZhang"
+        },
+        "eips": [
+          7406
+        ]
+      },
+      {
+        "slug": "james-seibel",
+        "name": "James Seibel",
+        "links": {
+          "github": "https://github.com/seibelj"
+        },
+        "eips": [
+          2981
+        ]
+      },
+      {
+        "slug": "chad-fleming",
+        "name": "Chad Fleming",
+        "links": {
+          "github": "https://github.com/chad-js"
+        },
+        "eips": [
+          5744
+        ]
+      },
+      {
+        "slug": "xiaoyu-wang",
+        "name": "Xiaoyu Wang",
+        "links": {
+          "github": "https://github.com/wxygeek"
+        },
+        "eips": [
+          1207
+        ]
+      },
+      {
+        "slug": "derivable",
+        "name": "Derivable",
+        "links": {
+          "github": "https://github.com/derivable-labs"
+        },
+        "eips": [
+          6120
+        ]
+      },
+      {
+        "slug": "nikolai-mushegian",
+        "name": "Nikolai Mushegian",
+        "emails": [
+          "nikolai@nexusdev.us"
+        ],
+        "eips": [
+          140
+        ]
+      },
+      {
+        "slug": "peter-chen",
+        "name": "Peter Chen",
+        "links": {
+          "github": "https://github.com/pette1999"
+        },
+        "eips": [
+          6662
+        ]
+      },
+      {
+        "slug": "billy-rennekamp",
+        "name": "Billy Rennekamp",
+        "links": {
+          "github": "https://github.com/okwme"
+        },
+        "eips": [
+          1633
+        ]
+      },
+      {
+        "slug": "zlace",
+        "name": "zlace",
+        "links": {
+          "github": "https://github.com/zlace0x"
+        },
+        "eips": [
+          5827
+        ]
+      },
+      {
+        "slug": "nastassia-sachs",
+        "name": "Nastassia Sachs",
+        "emails": [
+          "nastassia.sachs@protonmail.com"
+        ],
+        "eips": [
+          721
+        ]
+      },
+      {
+        "slug": "patrick-gallagher",
+        "name": "Patrick Gallagher",
+        "emails": [
+          "blockchainbuddha@gmail.com"
+        ],
+        "eips": [
+          1822
+        ]
+      },
+      {
+        "slug": "zainan-victor-zhou",
+        "name": "Zainan Victor Zhou",
+        "links": {
+          "github": "https://github.com/xinbenlv"
+        },
+        "eips": [
+          1202,
+          2135,
+          2294,
+          5081,
+          5247,
+          5269,
+          5298,
+          5437,
+          5453,
+          5485,
+          5604,
+          5679,
+          5732,
+          5750,
+          5920,
+          5982,
+          6047,
+          7199,
+          998
+        ]
+      },
+      {
+        "slug": "manuel-olivi",
+        "name": "Manuel Olivi",
+        "links": {
+          "github": "https://github.com/manvel79"
+        },
+        "eips": [
+          2980
+        ]
+      },
+      {
+        "slug": "senor-doggo",
+        "name": "Señor Doggo",
+        "links": {
+          "github": "https://github.com/fubuloubu"
         }
+      },
+      {
+        "slug": "druzy-downs",
+        "name": "Druzy Downs",
+        "links": {
+          "github": "https://github.com/druzydowns"
+        },
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "john-shiple",
+        "name": "John Shiple",
+        "links": {
+          "github": "https://github.com/johnshiple"
+        },
+        "eips": [
+          1450
+        ]
+      },
+      {
+        "slug": "matt-lockyer",
+        "name": "Matt Lockyer",
+        "emails": [
+          "mattdlockyer@gmail.com"
+        ],
+        "eips": [
+          998
+        ]
+      },
+      {
+        "slug": "agustin-aguilar",
+        "name": "Agustin Aguilar",
+        "links": {
+          "github": "https://github.com/Agusx1211"
+        },
+        "eips": [
+          5189,
+          5719,
+          6492
+        ]
+      },
+      {
+        "slug": "ryan-ghods",
+        "name": "Ryan Ghods",
+        "links": {
+          "github": "https://github.com/ryanio"
+        },
+        "eips": [
+          1193
+        ]
+      },
+      {
+        "slug": "ashish-sood",
+        "name": "Ashish Sood",
+        "emails": [
+          "soodgen@gmail.com"
+        ],
+        "eips": [
+          6960
+        ]
+      },
+      {
+        "slug": "stephen-monn",
+        "name": "Stephen Monn",
+        "links": {
+          "github": "https://github.com/pixelcircuits"
+        },
+        "eips": [
+          7521
+        ]
+      },
+      {
+        "slug": "victor-porton",
+        "name": "Victor Porton",
+        "links": {
+          "github": "https://github.com/vporton"
+        },
+        "emails": [
+          "porton@narod.ru"
+        ],
+        "eips": [
+          3267,
+          3267
+        ]
+      },
+      {
+        "slug": "andy8052",
+        "name": "andy8052",
+        "links": {
+          "github": "https://github.com/andy8052"
+        },
+        "eips": [
+          5639
+        ]
+      },
+      {
+        "slug": "kashish-khullar",
+        "name": "Kashish Khullar",
+        "emails": [
+          "kkhullar7@gmail.com"
+        ],
+        "eips": [
+          823
+        ]
+      },
+      {
+        "slug": "ryley-o",
+        "name": "ryley-o",
+        "links": {
+          "github": "https://github.com/ryley-o"
+        },
+        "eips": [
+          5639
+        ]
+      },
+      {
+        "slug": "derek-zhou",
+        "name": "Derek Zhou",
+        "links": {
+          "github": "https://github.com/zhous"
+        },
+        "eips": [
+          2569
+        ]
+      },
+      {
+        "slug": "ifdefelse",
+        "name": "IfDefElse",
+        "emails": [
+          "ifdefelse@protonmail.com"
+        ],
+        "eips": [
+          1057
+        ]
+      },
+      {
+        "slug": "james-ray",
+        "name": "James Ray",
+        "links": {
+          "github": "https://github.com/jamesray1"
+        },
+        "eips": [
+          908
+        ]
+      },
+      {
+        "slug": "james-therien",
+        "name": "James Therien",
+        "emails": [
+          "james@turing-complete.com",
+          "james@enjin.io"
+        ],
+        "eips": [
+          1155,
+          1761
+        ]
+      },
+      {
+        "slug": "kartik-patel",
+        "name": "Kartik Patel",
+        "links": {
+          "github": "https://github.com/Slokh"
+        },
+        "emails": [
+          "kartik@manifold.xyz"
+        ],
+        "eips": [
+          6981
+        ]
+      },
+      {
+        "slug": "guy-goren",
+        "name": "Guy Goren",
+        "links": {
+          "github": "https://github.com/guy-goren"
+        },
+        "emails": [
+          "guy.nahsholim@gmail.com"
+        ],
+        "eips": [
+          7378
+        ]
+      },
+      {
+        "slug": "g-nicholas-d-andrea",
+        "name": "g. nicholas d’andrea",
+        "links": {
+          "github": "https://github.com/gnidan"
+        },
+        "emails": [
+          "nick.dandrea@consensys.net"
+        ],
+        "eips": [
+          1123,
+          1319,
+          2678,
+          2942
+        ]
+      },
+      {
+        "slug": "glitch",
+        "name": "Glitch",
+        "links": {
+          "github": "https://github.com/glitch-txs"
+        },
+        "eips": [
+          6963
+        ]
+      },
+      {
+        "slug": "jakob-helgesson",
+        "name": "Jakob Helgesson",
+        "links": {
+          "github": "https://github.com/svemat01"
+        },
+        "eips": [
+          5094
+        ]
+      },
+      {
+        "slug": "tomasz-kajetan-stanczak",
+        "name": "Tomasz Kajetan Stanczak",
+        "links": {
+          "github": "https://github.com/tkstanczak"
+        },
+        "eips": [
+          2935,
+          5133
+        ]
+      },
+      {
+        "slug": "duncan-westland",
+        "name": "Duncan Westland",
+        "emails": [
+          "duncan.westland@uk.ey.com"
+        ],
+        "eips": [
+          1922,
+          1923
+        ]
+      },
+      {
+        "slug": "david-levit-gurevich",
+        "name": "David Levit Gurevich",
+        "links": {
+          "github": "https://github.com/DavidLevitGurevich"
+        },
+        "eips": [
+          5988
+        ]
+      },
+      {
+        "slug": "sujith-somraaj",
+        "name": "Sujith Somraaj",
+        "links": {
+          "github": "https://github.com/sujithsomraaj"
+        },
+        "eips": [
+          6170
+        ]
+      },
+      {
+        "slug": "fred",
+        "name": "Fred",
+        "links": {
+          "github": "https://github.com/apan"
+        },
+        "eips": [
+          5585
+        ]
+      },
+      {
+        "slug": "uri-klarman",
+        "name": "Uri Klarman",
+        "links": {
+          "github": "https://github.com/uriklarman"
+        },
+        "eips": [
+          2780
+        ]
+      },
+      {
+        "slug": "shane-hampton",
+        "name": "Shane Hampton",
+        "emails": [
+          "shanehampton1@gmail.com"
+        ],
+        "eips": [
+          1484
+        ]
+      },
+      {
+        "slug": "0age",
+        "name": "0age",
+        "links": {
+          "github": "https://github.com/0age"
+        },
+        "eips": [
+          1616,
+          2544,
+          7511
+        ]
+      },
+      {
+        "slug": "simon-fremaux",
+        "name": "Simon Fremaux",
+        "links": {
+          "github": "https://github.com/dievardump"
+        },
+        "eips": [
+          4494,
+          6464
+        ]
+      },
+      {
+        "slug": "bryant-eisenbach",
+        "name": "Bryant Eisenbach",
+        "links": {
+          "github": "https://github.com/fubuloubu"
+        },
+        "eips": [
+          1344,
+          2678,
+          3156,
+          3234,
+          4626
+        ]
+      },
+      {
+        "slug": "oliver-terbu",
+        "name": "Oliver Terbu",
+        "links": {
+          "github": "https://github.com/awoie"
+        },
+        "eips": [
+          4361,
+          5573
+        ]
+      },
+      {
+        "slug": "dominic-letz",
+        "name": "Dominic Letz",
+        "links": {
+          "github": "https://github.com/dominicletz"
+        },
+        "eips": [
+          2330
+        ]
+      },
+      {
+        "slug": "jet-jadeja",
+        "name": "Jet Jadeja",
+        "links": {
+          "github": "https://github.com/JetJadeja"
+        },
+        "eips": [
+          4626
+        ]
+      },
+      {
+        "slug": "nick-zeman",
+        "name": "Nick Zeman",
+        "links": {
+          "github": "https://github.com/NickZCZ"
+        },
+        "eips": [
+          6808,
+          6809
+        ]
+      },
+      {
+        "slug": "daniel-lehrner",
+        "name": "Daniel Lehrner",
+        "emails": [
+          "daniel@io.builders"
+        ],
+        "eips": [
+          1996,
+          2009,
+          2018,
+          2019,
+          2020,
+          2021
+        ]
+      },
+      {
+        "slug": "pinkiebell",
+        "name": "pinkiebell",
+        "links": {
+          "github": "https://github.com/pinkiebell"
+        },
+        "eips": [
+          1948,
+          3448
+        ]
+      },
+      {
+        "slug": "tammy-yang",
+        "name": "Tammy Yang",
+        "links": {
+          "github": "https://github.com/tammyyang"
+        },
+        "eips": [
+          7053
+        ]
+      },
+      {
+        "slug": "phd",
+        "name": "PhD",
+        "emails": [
+          "david@iob.fi"
+        ]
+      },
+      {
+        "slug": "luka-kacil",
+        "name": "Luka Kacil",
+        "emails": [
+          "luka.kacil@gmail.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "bikem-bengisu",
+        "name": "Bikem Bengisu",
+        "links": {
+          "github": "https://github.com/supiket"
+        },
+        "eips": [
+          7521
+        ]
+      },
+      {
+        "slug": "evan",
+        "name": "Evan",
+        "links": {
+          "github": "https://github.com/evbots"
+        },
+        "eips": [
+          1202
+        ]
+      },
+      {
+        "slug": "eli-ben-sasson",
+        "name": "Eli Ben Sasson",
+        "links": {
+          "github": "https://github.com/Elistark"
+        },
+        "emails": [
+          "eli@starkware.co"
+        ],
+        "eips": [
+          2028,
+          5988
+        ]
+      },
+      {
+        "slug": "anders",
+        "name": "Anders",
+        "links": {
+          "github": "https://github.com/0xanders"
+        },
+        "eips": [
+          4906,
+          4907,
+          5006,
+          5007,
+          5008,
+          5192
+        ]
+      },
+      {
+        "slug": "berlinp",
+        "name": "BerlinP",
+        "links": {
+          "github": "https://github.com/BerlinP"
+        },
+        "eips": [
+          6120
+        ]
+      },
+      {
+        "slug": "remco-bloemen",
+        "name": "Remco Bloemen",
+        "links": {
+          "github": "https://github.com/Recmo"
+        },
+        "emails": [
+          "Recmo@0x.org"
+        ],
+        "eips": [
+          1829,
+          712
+        ]
+      },
+      {
+        "slug": "nicolas-venturo",
+        "name": "Nicolas Venturo",
+        "links": {
+          "github": "https://github.com/nventuro"
+        },
+        "eips": [
+          2771
+        ]
+      },
+      {
+        "slug": "david-nunez",
+        "name": "David Núñez",
+        "links": {
+          "github": "https://github.com/cygnusv"
+        },
+        "eips": [
+          4931
+        ]
+      },
+      {
+        "slug": "roy-osherove",
+        "name": "Roy Osherove",
+        "links": {
+          "github": "https://github.com/royosherove"
+        },
+        "eips": [
+          5553
+        ]
+      },
+      {
+        "slug": "archer-h",
+        "name": "Archer H.",
+        "eipname": "Archer H.",
+        "eips": [
+          7231
+        ]
+      },
+      {
+        "slug": "aubay",
+        "name": "Aubay",
+        "emails": [
+          "blockchain-team@aubay.com"
+        ],
+        "eips": [
+          6353
+        ]
+      },
+      {
+        "slug": "qizhou",
+        "name": "qizhou",
+        "links": {
+          "github": "https://github.com/qizhou"
+        }
+      },
+      {
+        "slug": "rj-catalano",
+        "name": "RJ Catalano",
+        "links": {
+          "github": "https://github.com/VoR0220"
+        },
+        "eips": [
+          190
+        ]
+      },
+      {
+        "slug": "benny-giang",
+        "name": "Benny Giang",
+        "emails": [
+          "bg@futureprimitive.xyz"
+        ],
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "timi",
+        "name": "Timi",
+        "links": {
+          "github": "https://github.com/0xTimi"
+        },
+        "eips": [
+          5635
+        ]
+      },
+      {
+        "slug": "joe-messerman",
+        "name": "Joe Messerman",
+        "links": {
+          "github": "https://github.com/JAMesserman"
+        },
+        "eips": [
+          1167
+        ]
+      },
+      {
+        "slug": "brian-weick",
+        "name": "Brian Weick",
+        "links": {
+          "github": "https://github.com/bweick"
+        },
+        "eips": [
+          5791
+        ]
+      },
+      {
+        "slug": "fubuloubu",
+        "name": "fubuloubu",
+        "links": {
+          "github": "https://github.com/fubuloubu"
+        }
+      },
+      {
+        "slug": "joey-santoro",
+        "name": "Joey Santoro",
+        "links": {
+          "github": "https://github.com/joeysantoro"
+        },
+        "eips": [
+          4626,
+          7528
+        ]
+      },
+      {
+        "slug": "youssef-el-housni",
+        "name": "Youssef El Housni",
+        "links": {
+          "github": "https://github.com/yelhousni"
+        },
+        "eips": [
+          3026
+        ]
+      },
+      {
+        "slug": "jacques-wagener",
+        "name": "Jacques Wagener",
+        "links": {
+          "github": "https://github.com/jacqueswww"
+        },
+        "eips": [
+          1380
+        ]
+      },
+      {
+        "slug": "david-buckman",
+        "name": "David Buckman",
+        "links": {
+          "github": "https://github.com/davidbuckman"
+        },
+        "eips": [
+          4799
+        ]
+      },
+      {
+        "slug": "dean-eigenmann",
+        "name": "Dean Eigenmann",
+        "emails": [
+          "dean@tokenate.io",
+          "dean@ens.domains"
+        ],
+        "eips": [
+          1577,
+          900
+        ]
+      },
+      {
+        "slug": "albert-chon",
+        "name": "Albert Chon",
+        "emails": [
+          "achon@stanford.edu"
+        ],
+        "eips": [
+          1178
+        ]
+      },
+      {
+        "slug": "kemp-elia",
+        "name": "KEMP Elia",
+        "links": {
+          "github": "https://github.com/eliakemp"
+        },
+        "eips": [
+          6353
+        ]
+      },
+      {
+        "slug": "michael-connor",
+        "name": "Michael Connor",
+        "links": {
+          "github": "https://github.com/iAmMichaelConnor"
+        },
+        "emails": [
+          "michael.connor@uk.ey.com"
+        ],
+        "eips": [
+          1922,
+          1923,
+          3026
+        ]
+      },
+      {
+        "slug": "artem-chystiakov",
+        "name": "Artem Chystiakov",
+        "links": {
+          "github": "https://github.com/arvolear"
+        },
+        "eips": [
+          6224
+        ]
+      },
+      {
+        "slug": "will-wang",
+        "name": "Will Wang",
+        "links": {
+          "github": "https://github.com/will42w"
+        },
+        "eips": [
+          3525
+        ]
+      },
+      {
+        "slug": "andrew-redden",
+        "name": "Andrew Redden",
+        "emails": [
+          "andrew@blockcrushr.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "michael-lewellen-openzeppelin",
+        "name": "Michael Lewellen - OpenZeppelin",
+        "links": {
+          "github": "https://github.com/cylon56"
+        },
+        "eips": [
+          7512
+        ]
+      },
+      {
+        "slug": "alex-stokes",
+        "name": "Alex Stokes",
+        "links": {
+          "github": "https://github.com/ralexstokes"
+        },
+        "eips": [
+          2537,
+          4444,
+          4788,
+          4863,
+          4895
+        ]
+      },
+      {
+        "slug": "samuel-gwlanold-edoumou",
+        "name": "Samuel Gwlanold Edoumou",
+        "links": {
+          "github": "https://github.com/Edoumou"
+        },
+        "eips": [
+          3475,
+          7092
+        ]
+      },
+      {
+        "slug": "tyler",
+        "name": "Tyler",
+        "links": {
+          "github": "https://github.com/radiocaca"
+        },
+        "eips": [
+          5058
+        ]
+      },
+      {
+        "slug": "george-kadianakis",
+        "name": "George Kadianakis",
+        "links": {
+          "github": "https://github.com/asn-d6"
+        },
+        "eips": [
+          4444,
+          4844,
+          7441
+        ]
+      },
+      {
+        "slug": "ruthia-he",
+        "name": "Ruthia He",
+        "emails": [
+          "rujiahe@gmail.com"
+        ],
+        "eips": [
+          1504
+        ]
+      },
+      {
+        "slug": "dankrad-feist",
+        "name": "Dankrad Feist",
+        "links": {
+          "github": "https://github.com/dankrad"
+        },
+        "eips": [
+          2565,
+          3607,
+          4758,
+          4760,
+          4762,
+          4844,
+          6780,
+          6800
+        ]
+      },
+      {
+        "slug": "boxi-li",
+        "name": "Boxi Li",
+        "links": {
+          "github": "https://github.com/boxi79"
+        },
+        "emails": [
+          "boxi@redreamer.io"
+        ],
+        "eips": [
+          6672
+        ]
+      },
+      {
+        "slug": "matias-arazi",
+        "name": "Matias Arazi",
+        "links": {
+          "github": "https://github.com/MatiArazi"
+        },
+        "eips": [
+          5516
+        ]
+      },
+      {
+        "slug": "kaidong-wu",
+        "name": "Kaidong Wu",
+        "emails": [
+          "wukd94@pku.edu.cn"
+        ],
+        "eips": [
+          1504
+        ]
+      },
+      {
+        "slug": "gerhard-wagner",
+        "name": "Gerhard Wagner",
+        "links": {
+          "github": "https://github.com/thec00n"
+        },
+        "eips": [
+          1470
+        ]
+      },
+      {
+        "slug": "shay-zluf-hats-finance",
+        "name": "Shay Zluf - Hats Finance",
+        "links": {
+          "github": "https://github.com/shayzluf"
+        },
+        "eips": [
+          7512
+        ]
+      },
+      {
+        "slug": "harikrishnan-mulackal",
+        "name": "Harikrishnan Mulackal",
+        "links": {
+          "github": "https://github.com/hrkrshnn"
+        },
+        "eips": [
+          5000
+        ]
+      },
+      {
+        "slug": "martin-holst-swende",
+        "name": "Martin Holst Swende",
+        "links": {
+          "github": "https://github.com/holiman"
+        },
+        "emails": [
+          "martin@swende.se"
+        ],
+        "eips": [
+          1681,
+          1682,
+          1884,
+          191,
+          2315,
+          2583,
+          2677,
+          2929,
+          2930,
+          3,
+          3155,
+          3298,
+          3403,
+          3529,
+          3541,
+          3860,
+          4788
+        ]
+      },
+      {
+        "slug": "felix-lange",
+        "name": "Felix Lange",
+        "links": {
+          "github": "https://github.com/fjl"
+        },
+        "emails": [
+          "felix@ethdev.com",
+          "fjl@ethereum.org"
+        ],
+        "eips": [
+          1459,
+          1682,
+          2124,
+          4938,
+          778,
+          8,
+          868
+        ]
+      },
+      {
+        "slug": "saitama",
+        "name": "Saitama",
+        "links": {
+          "github": "https://github.com/saitama2009"
+        },
+        "eips": [
+          6806
+        ]
+      },
+      {
+        "slug": "dradiant",
+        "name": "dRadiant",
+        "links": {
+          "github": "https://github.com/dRadiant"
+        },
+        "eips": [
+          5173
+        ]
+      },
+      {
+        "slug": "hujw77",
+        "name": "hujw77",
+        "links": {
+          "github": "https://github.com/hujw77"
+        },
+        "eips": [
+          2539,
+          3026
+        ]
+      },
+      {
+        "slug": "justice-hudson",
+        "name": "Justice Hudson",
+        "links": {
+          "github": "https://github.com/jchancehud"
+        },
+        "eips": [
+          3332,
+          4546
+        ]
+      },
+      {
+        "slug": "christoph-jentzsch",
+        "name": "Christoph Jentzsch",
+        "emails": [
+          "christoph.jentzsch@slock.it"
+        ],
+        "eips": [
+          1186
+        ]
+      },
+      {
+        "slug": "kevaundray-wedderburn",
+        "name": "Kevaundray Wedderburn",
+        "links": {
+          "github": "https://github.com/kevaundray"
+        },
+        "eips": [
+          6800
+        ]
+      },
+      {
+        "slug": "hadrien-croubois",
+        "name": "Hadrien Croubois",
+        "links": {
+          "github": "https://github.com/Amxx"
+        },
+        "eips": [
+          1967,
+          2525,
+          2771,
+          5143,
+          5805,
+          5806,
+          6093,
+          6372,
+          7201
+        ]
+      },
+      {
+        "slug": "piotr-kosinski",
+        "name": "Piotr Kosiński",
+        "links": {
+          "github": "https://github.com/kosecki123"
+        },
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "raul-kripalani",
+        "name": "Raúl Kripalani",
+        "links": {
+          "github": "https://github.com/raulk"
+        },
+        "eips": [
+          1767
+        ]
+      },
+      {
+        "slug": "steve-jang",
+        "name": "Steve Jang",
+        "eipname": "Steve Jang",
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "reuben-youngblom",
+        "name": "Reuben Youngblom",
+        "emails": [
+          "reuben@taptrust.com"
+        ],
+        "eips": [
+          867
+        ]
+      },
+      {
+        "slug": "isaac-patka",
+        "name": "Isaac Patka",
+        "links": {
+          "github": "https://github.com/ipatka"
+        },
+        "eips": [
+          4824,
+          5554
+        ]
+      },
+      {
+        "slug": "rosario-arjona",
+        "name": "Rosario Arjona",
+        "links": {
+          "github": "https://github.com/RosarioArjona"
+        },
+        "eips": [
+          4519
+        ]
+      },
+      {
+        "slug": "hal-blackburn",
+        "name": "Hal Blackburn",
+        "links": {
+          "github": "https://github.com/h4l"
+        },
+        "eips": [
+          6120
+        ]
+      },
+      {
+        "slug": "ben-kaufman",
+        "name": "Ben Kaufman",
+        "emails": [
+          "ben@daostack.io"
+        ],
+        "eips": [
+          1285
+        ]
+      },
+      {
+        "slug": "marco-peyfuss",
+        "name": "Marco Peyfuss",
+        "links": {
+          "github": "https://github.com/mpeyfuss"
+        },
+        "eips": [
+          7160
+        ]
+      },
+      {
+        "slug": "filip-stamcar",
+        "name": "Filip Štamcar",
+        "links": {
+          "github": "https://github.com/filips123"
+        },
+        "eips": [
+          2520
+        ]
+      },
+      {
+        "slug": "apeguru",
+        "name": "Apeguru",
+        "links": {
+          "github": "https://github.com/Apegurus"
+        },
+        "eips": [
+          5725
+        ]
+      },
+      {
+        "slug": "esteban-mino",
+        "name": "Esteban Mino",
+        "links": {
+          "github": "https://github.com/estebanmino"
+        },
+        "eips": [
+          747
+        ]
+      },
+      {
+        "slug": "jack-boyuan-xu",
+        "name": "Jack Boyuan Xu",
+        "links": {
+          "github": "https://github.com/boyuanx"
+        },
+        "eips": [
+          6066
+        ]
+      },
+      {
+        "slug": "xardass",
+        "name": "xardass",
+        "links": {
+          "github": "https://github.com/xardass"
+        },
+        "eips": [
+          4527
+        ]
+      },
+      {
+        "slug": "sebastian-echeverry",
+        "name": "sebastian echeverry",
+        "emails": [
+          "sebastian.echeverry@robotouniverse.com"
+        ],
+        "eips": [
+          998
+        ]
+      },
+      {
+        "slug": "nick-johnson",
+        "name": "Nick Johnson",
+        "links": {
+          "github": "https://github.com/arachnid"
+        },
+        "emails": [
+          "arachnid@notdot.net",
+          "nick@ethereum.org",
+          "nick@ens.domains"
+        ],
+        "eips": [
+          1051,
+          1052,
+          1087,
+          137,
+          1577,
+          162,
+          165,
+          1767,
+          181,
+          1844,
+          191,
+          205,
+          2098,
+          2304,
+          2544,
+          3224,
+          3336,
+          3337,
+          3668,
+          4361,
+          4430,
+          5081,
+          5559,
+          600,
+          601,
+          658,
+          926,
+          927
+        ]
+      },
+      {
+        "slug": "john-adler",
+        "name": "John Adler",
+        "links": {
+          "github": "https://github.com/adlerjohn"
+        },
+        "eips": [
+          2242
+        ]
+      },
+      {
+        "slug": "payom-dousti",
+        "name": "Payom Dousti",
+        "links": {
+          "github": "https://github.com/payomdousti"
+        },
+        "eips": [
+          5744
+        ]
+      },
+      {
+        "slug": "khawla-hassan",
+        "name": "Khawla Hassan",
+        "links": {
+          "github": "https://github.com/khawlahssn"
+        },
+        "eips": [
+          6960
+        ]
+      },
+      {
+        "slug": "tony-sheng",
+        "name": "Tony Sheng",
+        "links": {
+          "github": "https://github.com/tonysheng"
+        },
+        "eips": [
+          5744
+        ]
+      },
+      {
+        "slug": "alanah-lam",
+        "name": "Alanah Lam",
+        "emails": [
+          "alanah@futureprimitive.xyz"
+        ],
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "anton-buenavista",
+        "name": "Anton Buenavista",
+        "links": {
+          "github": "https://github.com/ayobuenavista"
+        },
+        "eips": [
+          5115
+        ]
+      },
+      {
+        "slug": "mofi-taiwo",
+        "name": "Mofi Taiwo",
+        "links": {
+          "github": "https://github.com/Inphi"
+        },
+        "eips": [
+          4844
+        ]
+      },
+      {
+        "slug": "nate-van-der-ende",
+        "name": "Nate van der Ende",
+        "emails": [
+          "nate@artblx.com"
+        ],
+        "eips": [
+          1633
+        ]
+      },
+      {
+        "slug": "pascal-caversaccio",
+        "name": "Pascal Caversaccio",
+        "links": {
+          "github": "https://github.com/pcaversaccio"
+        },
+        "eips": [
+          6789,
+          7266
+        ]
+      },
+      {
+        "slug": "alex-qin",
+        "name": "Alex Qin",
+        "emails": [
+          "alex@ubiloan.io"
+        ],
+        "eips": [
+          5604
+        ]
+      },
+      {
+        "slug": "chao-pi",
+        "name": "Chao Pi",
+        "links": {
+          "github": "https://github.com/pichaoqkc"
+        },
+        "eips": [
+          4804,
+          6860
+        ]
+      },
+      {
+        "slug": "yoichi-hirai",
+        "name": "Yoichi Hirai",
+        "emails": [
+          "i@yoichihirai.com"
+        ],
+        "eips": [
+          689
+        ]
+      },
+      {
+        "slug": "joachim-lebrun",
+        "name": "Joachim Lebrun",
+        "links": {
+          "github": "https://github.com/Joachim-Lebrun"
+        },
+        "eips": [
+          3643
+        ]
+      },
+      {
+        "slug": "henry-chan",
+        "name": "Henry Chan",
+        "emails": [
+          "henry@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "sean-darcy",
+        "name": "Sean Darcy",
+        "links": {
+          "github": "https://github.com/darcys22"
+        },
+        "eips": [
+          5570
+        ]
+      },
+      {
+        "slug": "julian-traversa",
+        "name": "Julian Traversa",
+        "links": {
+          "github": "https://github.com/JTraversa"
+        },
+        "eips": [
+          5095
+        ]
+      },
+      {
+        "slug": "jean-m-cyr",
+        "name": "Jean M. Cyr",
+        "links": {
+          "github": "https://github.com/jean-m-cyr"
+        },
+        "eips": [
+          1355
+        ]
+      },
+      {
+        "slug": "roberto-bayardo",
+        "name": "Roberto Bayardo",
+        "links": {
+          "github": "https://github.com/roberto-bayardo"
+        },
+        "eips": [
+          4931
+        ]
+      },
+      {
+        "slug": "philipp-bolte",
+        "name": "Philipp Bolte",
+        "links": {
+          "github": "https://github.com/strumswell"
+        },
+        "eips": [
+          5539
+        ]
+      },
+      {
+        "slug": "phillip-pon",
+        "name": "Phillip Pon",
+        "emails": [
+          "phillip@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "patrick-mccorry",
+        "name": "Patrick McCorry",
+        "links": {
+          "github": "https://github.com/stonecoldpat"
+        },
+        "eips": [
+          2771
+        ]
+      },
+      {
+        "slug": "gavin-wood",
+        "name": "Gavin Wood",
+        "links": {
+          "github": "https://github.com/gavofyork"
+        },
+        "eips": [
+          161
+        ]
+      },
+      {
+        "slug": "brian-liang",
+        "name": "Brian Liang",
+        "emails": [
+          "brian@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "dobbylabs",
+        "name": "DOBBYLABS",
+        "links": {
+          "github": "https://github.com/DOBBYLABS"
+        },
+        "eips": [
+          5501
+        ]
+      },
+      {
+        "slug": "marvin-martin",
+        "name": "Marvin Martin",
+        "links": {
+          "github": "https://github.com/MarvinMartin24"
+        },
+        "eips": [
+          4671
+        ]
+      },
+      {
+        "slug": "james-levy",
+        "name": "James Levy",
+        "emails": [
+          "james@taptrust.com"
+        ],
+        "eips": [
+          867
+        ]
+      },
+      {
+        "slug": "hsiao-wei-wang",
+        "name": "Hsiao-Wei Wang",
+        "links": {
+          "github": "https://github.com/hwwhww"
+        },
+        "eips": [
+          7002
+        ]
+      },
+      {
+        "slug": "davis-xiang",
+        "name": "Davis Xiang",
+        "links": {
+          "github": "https://github.com/xcshuan"
+        },
+        "eips": [
+          7093
+        ]
+      },
+      {
+        "slug": "john-peterson",
+        "name": "John Peterson",
+        "links": {
+          "github": "https://github.com/John-peterson-coinbase"
+        },
+        "eips": [
+          4931
+        ]
+      },
+      {
+        "slug": "katrina-donaghy",
+        "name": "Katrina Donaghy",
+        "emails": [
+          "katrina@civicledger.com"
+        ],
+        "eips": [
+          1753
+        ]
+      },
+      {
+        "slug": "t11s",
+        "name": "t11s",
+        "links": {
+          "github": "https://github.com/transmissions11"
+        },
+        "eips": [
+          4626
+        ]
+      },
+      {
+        "slug": "william-entriken",
+        "name": "William Entriken",
+        "links": {
+          "github": "https://github.com/fulldecent"
+        },
+        "emails": [
+          "github.com@phor.net"
+        ],
+        "eips": [
+          1418,
+          165,
+          2228,
+          2477,
+          5313,
+          6049,
+          721
+        ]
+      },
+      {
+        "slug": "fernando-paris",
+        "name": "Fernando Paris",
+        "emails": [
+          "fer@io.builders"
+        ],
+        "eips": [
+          1996,
+          2018,
+          2019,
+          2020,
+          2021
+        ]
+      },
+      {
+        "slug": "bogdan-popa",
+        "name": "Bogdan Popa",
+        "links": {
+          "github": "https://github.com/BogdanKTHD"
+        },
+        "eips": [
+          6785,
+          6786
+        ]
+      },
+      {
+        "slug": "kiryl-yermakou",
+        "name": "Kiryl Yermakou",
+        "emails": [
+          "kiryl@artblx.com"
+        ],
+        "eips": [
+          1633
+        ]
+      },
+      {
+        "slug": "peter-murray",
+        "name": "Peter Murray",
+        "links": {
+          "github": "https://github.com/yarrumretep"
+        },
+        "eips": [
+          1167
+        ]
+      },
+      {
+        "slug": "yun-ma",
+        "name": "Yun Ma",
+        "emails": [
+          "mayun@pku.edu.cn"
+        ],
+        "eips": [
+          1504
+        ]
+      },
+      {
+        "slug": "greg-colvin",
+        "name": "Greg Colvin",
+        "links": {
+          "github": "https://github.com/gcolvin"
+        },
+        "emails": [
+          "greg@colvin.org"
+        ],
+        "eips": [
+          1057,
+          2315,
+          3779,
+          3779,
+          4573,
+          4573,
+          615,
+          616
+        ]
+      },
+      {
+        "slug": "alexe-spataru",
+        "name": "Alexe Spataru",
+        "links": {
+          "github": "https://github.com/urataps"
+        },
+        "eips": [
+          6982
+        ]
+      },
+      {
+        "slug": "leeren",
+        "name": "Leeren",
+        "links": {
+          "github": "https://github.com/leeren"
+        },
+        "eips": [
+          5700
+        ]
+      },
+      {
+        "slug": "saber-yu",
+        "name": "Saber Yu",
+        "links": {
+          "github": "https://github.com/OniReimu"
+        },
+        "eips": [
+          5521
+        ]
+      },
+      {
+        "slug": "michael-sproul",
+        "name": "Michael Sproul",
+        "links": {
+          "github": "https://github.com/michaelsproul"
+        },
+        "eips": [
+          3076
+        ]
+      },
+      {
+        "slug": "leo-arias",
+        "name": "Leo Arias",
+        "links": {
+          "github": "https://github.com/elopio"
+        },
+        "eips": [
+          1616
+        ]
+      },
+      {
+        "slug": "joey-liu",
+        "name": "Joey Liu",
+        "emails": [
+          "joey@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "lightclient",
+        "name": "Lightclient",
+        "links": {
+          "github": "https://github.com/lightclient"
+        },
+        "eips": [
+          2733,
+          2780,
+          2938,
+          3074,
+          3521,
+          3540,
+          3756,
+          4444,
+          4788,
+          4844,
+          6206,
+          6493,
+          6968,
+          7329,
+          7377
+        ]
+      },
+      {
+        "slug": "francesco-sullo",
+        "name": "Francesco Sullo",
+        "links": {
+          "github": "https://github.com/sullof"
+        },
+        "eips": [
+          6454,
+          6982
+        ]
+      },
+      {
+        "slug": "george-huang",
+        "name": "George Huang",
+        "links": {
+          "github": "https://github.com/virgil2019"
+        },
+        "eips": [
+          6358
+        ]
+      },
+      {
+        "slug": "jun",
+        "name": "Jun",
+        "links": {
+          "github": "https://github.com/SniperUsopp"
+        },
+        "eips": [
+          6787
+        ]
+      },
+      {
+        "slug": "dexaran",
+        "name": "Dexaran",
+        "links": {
+          "github": "https://github.com/Dexaran"
+        },
+        "emails": [
+          "dexaran@ethereumclassic.org"
+        ],
+        "eips": [
+          223,
+          7417
+        ]
+      },
+      {
+        "slug": "francisco-giordano",
+        "name": "Francisco Giordano",
+        "links": {
+          "github": "https://github.com/frangio"
+        },
+        "eips": [
+          1271,
+          1967,
+          5267,
+          5805,
+          6093,
+          6372,
+          7201
+        ]
+      },
+      {
+        "slug": "sam-furter",
+        "name": "Sam Furter",
+        "links": {
+          "github": "https://github.com/nivida"
+        },
+        "eips": [
+          4824
+        ]
+      },
+      {
+        "slug": "nathan",
+        "name": "Nathan",
+        "emails": [
+          "nathan.gang@gemini.com"
+        ],
+        "eips": [
+          4906
+        ]
+      },
+      {
+        "slug": "cicada",
+        "name": "Cicada",
+        "links": {
+          "github": "https://github.com/CicadaNCR"
+        },
+        "eips": [
+          5773,
+          6059,
+          6220,
+          7401
+        ]
+      },
+      {
+        "slug": "honorlabs",
+        "name": "HonorLabs",
+        "links": {
+          "github": "https://github.com/honorworldio"
+        },
+        "eips": [
+          5633
+        ]
+      },
+      {
+        "slug": "adrian-sutton",
+        "name": "Adrian Sutton",
+        "links": {
+          "github": "https://github.com/ajsutton"
+        },
+        "eips": [
+          2159
+        ]
+      },
+      {
+        "slug": "stanley-wu",
+        "name": "Stanley Wu",
+        "links": {
+          "github": "https://github.com/fruit37"
+        },
+        "eips": [
+          5345
+        ]
+      },
+      {
+        "slug": "jennifer-cooper",
+        "name": "Jennifer Cooper",
+        "links": {
+          "github": "https://github.com/jenncoop"
+        },
+        "eips": [
+          1444
+        ]
+      },
+      {
+        "slug": "louis-guthmann",
+        "name": "Louis Guthmann",
+        "emails": [
+          "louis@starkware.co"
+        ],
+        "eips": [
+          2028,
+          2645
+        ]
+      },
+      {
+        "slug": "kai-yeung",
+        "name": "Kai Yeung",
+        "links": {
+          "github": "https://github.com/CivicKai"
+        },
+        "eips": [
+          1753
+        ]
+      },
+      {
+        "slug": "matthias-egli-chainsecurity",
+        "name": "Matthias Egli - ChainSecurity",
+        "links": {
+          "github": "https://github.com/MatthiasEgli"
+        },
+        "eips": [
+          7512
+        ]
+      },
+      {
+        "slug": "zachary-williamson",
+        "name": "Zachary Williamson",
+        "links": {
+          "github": "https://github.com/zac-williamson"
+        },
+        "eips": [
+          1108
+        ]
+      },
+      {
+        "slug": "mike-meng",
+        "name": "Mike Meng",
+        "emails": [
+          "myan@solv.finance"
+        ],
+        "eips": [
+          3525
+        ]
+      },
+      {
+        "slug": "qin-wang",
+        "name": "Qin Wang",
+        "emails": [
+          "qin.wang@data61.csiro.au"
+        ],
+        "eips": [
+          5521
+        ]
+      },
+      {
+        "slug": "eric-lau",
+        "name": "Eric Lau",
+        "links": {
+          "github": "https://github.com/ericglau"
+        },
+        "eips": [
+          7201
+        ]
+      },
+      {
+        "slug": "javier-arcenegui",
+        "name": "Javier Arcenegui",
+        "links": {
+          "github": "https://github.com/Hardblock-IMSE-CNM"
+        },
+        "eips": [
+          4519
+        ]
+      },
+      {
+        "slug": "luca-donno",
+        "name": "Luca Donno",
+        "links": {
+          "github": "https://github.com/lucadonnoh"
+        },
+        "eips": [
+          5375
+        ]
+      },
+      {
+        "slug": "varun-deshpande",
+        "name": "Varun Deshpande",
+        "links": {
+          "github": "https://github.com/dr-chain"
+        },
+        "eips": [
+          3475
+        ]
+      },
+      {
+        "slug": "lixin-liu",
+        "name": "Lixin Liu",
+        "links": {
+          "github": "https://github.com/BitcoinLixin"
+        },
+        "eips": [
+          4527
+        ]
+      },
+      {
+        "slug": "otniel-nicola",
+        "name": "Otniel Nicola",
+        "links": {
+          "github": "https://github.com/OT-kthd"
+        },
+        "eips": [
+          6785,
+          6786
+        ]
+      },
+      {
+        "slug": "gregory-markou",
+        "name": "Gregory Markou",
+        "links": {
+          "github": "https://github.com/GregTheGreek"
+        },
+        "emails": [
+          "greg@chainsafe.io"
+        ],
+        "eips": [
+          1890,
+          2831,
+          3709,
+          3788,
+          6963
+        ]
+      },
+      {
+        "slug": "fabien-marino",
+        "name": "Fabien Marino",
+        "links": {
+          "github": "https://github.com/bonustrack"
+        },
+        "eips": [
+          3000
+        ]
+      },
+      {
+        "slug": "muhammed-emin-aydin",
+        "name": "Muhammed Emin Aydın",
+        "links": {
+          "github": "https://github.com/muhammedea"
+        },
+        "eips": [
+          5345
+        ]
+      },
+      {
+        "slug": "marius-van-der-wijden",
+        "name": "Marius van der Wijden",
+        "links": {
+          "github": "https://github.com/MariusVanDerWijden"
+        },
+        "eips": [
+          1571,
+          1716,
+          3155,
+          3607,
+          4938,
+          5793,
+          6122
+        ]
+      },
+      {
+        "slug": "avihu-levy",
+        "name": "Avihu Levy",
+        "links": {
+          "github": "https://github.com/avihu28"
+        },
+        "emails": [
+          "avihu@starkware.co"
+        ],
+        "eips": [
+          2028,
+          5988
+        ]
+      },
+      {
+        "slug": "chih-cheng-liang",
+        "name": "Chih-Cheng Liang",
+        "links": {
+          "github": "https://github.com/ChihChengLiang"
+        },
+        "eips": [
+          1011
+        ]
+      },
+      {
+        "slug": "shange-fu",
+        "name": "Shange Fu",
+        "emails": [
+          "shange.fu@monash.edu"
+        ],
+        "eips": [
+          5521
+        ]
+      },
+      {
+        "slug": "santiago-palladino",
+        "name": "Santiago Palladino",
+        "links": {
+          "github": "https://github.com/spalladino"
+        },
+        "eips": [
+          1616,
+          1967,
+          2330
+        ]
+      },
+      {
+        "slug": "luc-van-kampen",
+        "name": "Luc van Kampen",
+        "links": {
+          "github": "https://github.com/lucemans"
+        },
+        "eips": [
+          5094
+        ]
+      },
+      {
+        "slug": "fiona-kobayashi",
+        "name": "Fiona Kobayashi",
+        "links": {
+          "github": "https://github.com/fifikobayashi"
+        },
+        "eips": [
+          3156,
+          3234
+        ]
+      },
+      {
+        "slug": "aaron-kendall",
+        "name": "Aaron Kendall",
+        "links": {
+          "github": "https://github.com/jaerith"
+        },
+        "eips": [
+          2746
+        ]
+      },
+      {
+        "slug": "ming-jiang",
+        "name": "Ming Jiang",
+        "links": {
+          "github": "https://github.com/minkyn"
+        },
+        "eips": [
+          7507
+        ]
+      },
+      {
+        "slug": "amir-bandeali",
+        "name": "Amir Bandeali",
+        "links": {
+          "github": "https://github.com/abandeali1"
+        },
+        "eips": [
+          1271
+        ]
+      },
+      {
+        "slug": "tjaden-hess",
+        "name": "Tjaden Hess",
+        "links": {
+          "github": "https://github.com/tjade273"
+        },
+        "emails": [
+          "tah83@cornell.edu"
+        ],
+        "eips": [
+          152,
+          4337
+        ]
+      },
+      {
+        "slug": "lane-rettig",
+        "name": "Lane Rettig",
+        "emails": [
+          "lane@ethereum.org"
+        ],
+        "eips": [
+          1890
+        ]
+      },
+      {
+        "slug": "paul-edge",
+        "name": "Paul Edge",
+        "links": {
+          "github": "https://github.com/genkifs"
+        },
+        "eips": [
+          5850
+        ]
+      },
+      {
+        "slug": "kosala-hemachandra",
+        "name": "Kosala Hemachandra",
+        "links": {
+          "github": "https://github.com/kvhnuke"
+        },
+        "eips": [
+          5749,
+          6963
+        ]
+      },
+      {
+        "slug": "matt-russo",
+        "name": "Matt Russo",
+        "links": {
+          "github": "https://github.com/mateosu"
+        },
+        "eips": [
+          1046
+        ]
+      },
+      {
+        "slug": "nobitex-labs",
+        "name": "Nobitex Labs",
+        "emails": [
+          "labs@nobitex.ir"
+        ],
+        "eips": [
+          7503
+        ]
+      },
+      {
+        "slug": "lukas-meyer",
+        "name": "Lukas Meyer",
+        "links": {
+          "github": "https://github.com/ibex-technology"
+        },
+        "eips": [
+          6956
+        ]
+      },
+      {
+        "slug": "gaurang-torvekar",
+        "name": "Gaurang Torvekar",
+        "links": {
+          "github": "https://github.com/gaurangtorvekar"
+        },
+        "eips": [
+          5606
+        ]
+      },
+      {
+        "slug": "cedric-ngakam",
+        "name": "Cedric Ngakam",
+        "links": {
+          "github": "https://github.com/drikssy"
+        },
+        "eips": [
+          3475
+        ]
+      },
+      {
+        "slug": "john-griffin",
+        "name": "John Griffin",
+        "emails": [
+          "john@atchai.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "haoyu-lin",
+        "name": "Haoyu Lin",
+        "emails": [
+          "chris.haoyul@gmail.com"
+        ],
+        "eips": [
+          2266
+        ]
+      },
+      {
+        "slug": "ben-difrancesco",
+        "name": "Ben DiFrancesco",
+        "links": {
+          "github": "https://github.com/apbendi"
+        },
+        "eips": [
+          5564,
+          6538
+        ]
+      },
+      {
+        "slug": "kristof-gazso",
+        "name": "Kristof Gazso",
+        "links": {
+          "github": "https://github.com/kristofgazso"
+        },
+        "eips": [
+          4337
+        ]
+      },
+      {
+        "slug": "noah-litvin",
+        "name": "Noah Litvin",
+        "links": {
+          "github": "https://github.com/noahlitvin"
+        },
+        "eips": [
+          7412
+        ]
+      },
+      {
+        "slug": "isaac-buckman",
+        "name": "Isaac Buckman",
+        "links": {
+          "github": "https://github.com/isaacbuckman"
+        },
+        "eips": [
+          4799
+        ]
       },
       {
         "eegid": "20b",
@@ -317,6 +5794,1592 @@
         "emails": [
           "vitalik.buterin@ethereum.org",
           "vitalik@ethereum.org"
+        ],
+        "eips": [
+          100,
+          101,
+          1014,
+          150,
+          155,
+          1559,
+          158,
+          160,
+          170,
+          197,
+          198,
+          2,
+          20,
+          210,
+          214,
+          2929,
+          2930,
+          2935,
+          2937,
+          2938,
+          2970,
+          2982,
+          3102,
+          3198,
+          3298,
+          3403,
+          3529,
+          3675,
+          4337,
+          4488,
+          4758,
+          4760,
+          4762,
+          4844,
+          55,
+          5564,
+          6404,
+          6466,
+          649,
+          6493,
+          6538,
+          6780,
+          6800,
+          684,
+          7,
+          86
+        ]
+      },
+      {
+        "slug": "giuseppe-bertone",
+        "name": "Giuseppe Bertone",
+        "links": {
+          "github": "https://github.com/Neurone"
+        },
+        "eips": [
+          2848
+        ]
+      },
+      {
+        "slug": "jacques-dafflon",
+        "name": "Jacques Dafflon",
+        "emails": [
+          "mail@0xjac.com",
+          "jacques@dafflon.tech"
+        ],
+        "eips": [
+          1820,
+          777,
+          820
+        ]
+      },
+      {
+        "slug": "sam-gbafa",
+        "name": "Sam Gbafa",
+        "links": {
+          "github": "https://github.com/skgbafa"
+        },
+        "eips": [
+          5573
+        ]
+      },
+      {
+        "slug": "re-dreamer-lab",
+        "name": "RE:DREAMER Lab",
+        "emails": [
+          "dev@redreamer.io"
+        ],
+        "eips": [
+          6672
+        ]
+      },
+      {
+        "slug": "iamnot-chris",
+        "name": "Iamnot Chris",
+        "links": {
+          "github": "https://github.com/cohabo"
+        },
+        "eips": [
+          1491
+        ]
+      },
+      {
+        "slug": "alex-forshtat",
+        "name": "Alex Forshtat",
+        "links": {
+          "github": "https://github.com/forshtat"
+        },
+        "emails": [
+          "forshtat1@gmail.com",
+          "alex@tabookey.com"
+        ],
+        "eips": [
+          1613,
+          1706,
+          2542,
+          2770,
+          2771,
+          4337
+        ]
+      },
+      {
+        "slug": "dan-finlay",
+        "name": "Dan Finlay",
+        "links": {
+          "github": "https://github.com/danfinlay"
+        },
+        "emails": [
+          "dan@danfinlay.com"
+        ],
+        "eips": [
+          173,
+          1775,
+          2255,
+          2593,
+          5003,
+          747
+        ]
+      },
+      {
+        "slug": "mehmet-sabir-kiraz",
+        "name": "Mehmet Sabir Kiraz",
+        "emails": [
+          "m.kiraz@gmail.com"
+        ],
+        "eips": [
+          2917
+        ]
+      },
+      {
+        "slug": "victor-dusart",
+        "name": "Victor Dusart",
+        "links": {
+          "github": "https://github.com/vdusart"
+        },
+        "eips": [
+          6366,
+          6617
+        ]
+      },
+      {
+        "slug": "nathan-ginnever",
+        "name": "Nathan Ginnever",
+        "links": {
+          "github": "https://github.com/nginnever"
+        },
+        "eips": [
+          3440
+        ]
+      },
+      {
+        "slug": "easy-innova",
+        "name": "Easy Innova",
+        "links": {
+          "github": "https://github.com/easyinnova"
+        },
+        "eips": [
+          4950
+        ]
+      },
+      {
+        "slug": "archie-chang",
+        "name": "Archie Chang",
+        "links": {
+          "github": "https://github.com/ArchieR7"
+        },
+        "emails": [
+          "archie@redreamer.io"
+        ],
+        "eips": [
+          6672
+        ]
+      },
+      {
+        "slug": "lauritz-leifermann",
+        "name": "Lauritz Leifermann",
+        "links": {
+          "github": "https://github.com/lleifermann"
+        },
+        "eips": [
+          5539
+        ]
+      },
+      {
+        "slug": "combo",
+        "name": "Combo",
+        "emails": [
+          "combo@1combo.io"
+        ],
+        "eips": [
+          6806
+        ]
+      },
+      {
+        "slug": "cyberpnk",
+        "name": "Cyberpnk",
+        "links": {
+          "github": "https://github.com/CyberpnkWin"
+        },
+        "eips": [
+          5131
+        ]
+      },
+      {
+        "slug": "shane-jonas",
+        "name": "Shane Jonas",
+        "links": {
+          "github": "https://github.com/shanejonas"
+        },
+        "eips": [
+          1901
+        ]
+      },
+      {
+        "slug": "nalin-bhardwaj",
+        "name": "Nalin Bhardwaj",
+        "links": {
+          "github": "https://github.com/nalinbhardwaj"
+        },
+        "eips": [
+          7212
+        ]
+      },
+      {
+        "slug": "afri-schoedon",
+        "name": "Afri Schoedon",
+        "eipname": "Afri Schoedon",
+        "links": {
+          "github": "https://github.com/q9f"
+        },
+        "eips": [
+          1234,
+          1679,
+          1716,
+          3238,
+          649,
+          999
+        ]
+      },
+      {
+        "slug": "iuri-matias",
+        "name": "Iuri Matias",
+        "links": {
+          "github": "https://github.com/iurimatias"
+        },
+        "eips": [
+          190
+        ]
+      },
+      {
+        "slug": "sergio-demian-lerner",
+        "name": "Sergio Demian Lerner",
+        "links": {
+          "github": "https://github.com/SergioDemianLerner"
+        },
+        "eips": [
+          2997,
+          5283
+        ]
+      },
+      {
+        "slug": "paul-berg",
+        "name": "Paul Berg",
+        "links": {
+          "github": "https://github.com/PaulRBerg"
+        },
+        "eips": [
+          1620
+        ]
+      },
+      {
+        "slug": "nick-savers",
+        "name": "Nick Savers",
+        "links": {
+          "github": "https://github.com/nicksavers"
+        },
+        "eips": [
+          1013
+        ]
+      },
+      {
+        "slug": "sherry-xu",
+        "name": "Sherry Xu",
+        "emails": [
+          "xiwei.xu@data61.csiro.au"
+        ],
+        "eips": [
+          5521
+        ]
+      },
+      {
+        "slug": "james-morgan",
+        "name": "James Morgan",
+        "links": {
+          "github": "https://github.com/jamesmorgan"
+        },
+        "eips": [
+          2981
+        ]
+      },
+      {
+        "slug": "nitika-goel",
+        "name": "nitika-goel",
+        "emails": [
+          "nitika@govblocks.io"
+        ],
+        "eips": [
+          1132
+        ]
+      },
+      {
+        "slug": "dieter-shirley",
+        "name": "Dieter Shirley",
+        "emails": [
+          "dete@axiomzen.co"
+        ],
+        "eips": [
+          721
+        ]
+      },
+      {
+        "slug": "steven-pineda",
+        "name": "Steven Pineda",
+        "links": {
+          "github": "https://github.com/steven2308"
+        },
+        "eips": [
+          5773,
+          6059,
+          6220,
+          6381,
+          6454,
+          7401,
+          7409,
+          7508
+        ]
+      },
+      {
+        "slug": "julien-beranger",
+        "name": "Julien Béranger",
+        "links": {
+          "github": "https://github.com/julienbrg"
+        },
+        "eips": [
+          5560
+        ]
+      },
+      {
+        "slug": "nick-gheorghita",
+        "name": "Nick Gheorghita",
+        "links": {
+          "github": "https://github.com/njgheorghita"
+        },
+        "eips": [
+          1123,
+          1319,
+          2678,
+          2942
+        ]
+      },
+      {
+        "slug": "james-choncholas",
+        "name": "James Choncholas",
+        "links": {
+          "github": "https://github.com/james-choncholas"
+        },
+        "eips": [
+          2390
+        ]
+      },
+      {
+        "slug": "matt-solomon",
+        "name": "Matt Solomon",
+        "links": {
+          "github": "https://github.com/mds1"
+        },
+        "eips": [
+          5564,
+          5744,
+          6538
+        ]
+      },
+      {
+        "slug": "stephane-gosselin",
+        "name": "Stephane Gosselin",
+        "links": {
+          "github": "https://github.com/thegostep"
+        },
+        "eips": [
+          1616
+        ]
+      },
+      {
+        "slug": "paul-gauvreau",
+        "name": "Paul Gauvreau",
+        "links": {
+          "github": "https://github.com/0xpaulio"
+        },
+        "eips": [
+          5559
+        ]
+      },
+      {
+        "slug": "matt-luongo",
+        "name": "Matt Luongo",
+        "links": {
+          "github": "https://github.com/mhluongo"
+        },
+        "eips": [
+          152
+        ]
+      },
+      {
+        "slug": "sina-mahmoodi",
+        "name": "Sina Mahmoodi",
+        "links": {
+          "github": "https://github.com/s1na"
+        },
+        "eips": [
+          2926
+        ]
+      },
+      {
+        "slug": "keegan-lee",
+        "name": "Keegan Lee",
+        "links": {
+          "github": "https://github.com/keeganlee"
+        },
+        "eips": [
+          6150
+        ]
+      },
+      {
+        "slug": "anderson-wesley",
+        "name": "Anderson Wesley",
+        "links": {
+          "github": "https://github.com/andywesley"
+        },
+        "eips": [
+          1010
+        ]
+      },
+      {
+        "slug": "xiaohang-yu",
+        "name": "Xiaohang Yu",
+        "links": {
+          "github": "https://github.com/xhyumiracle"
+        },
+        "eips": [
+          7007
+        ]
+      },
+      {
+        "slug": "qiang-zhu",
+        "name": "Qiang Zhu",
+        "links": {
+          "github": "https://github.com/qzhodl"
+        },
+        "eips": [
+          6821
+        ]
+      },
+      {
+        "slug": "seungyong-moon",
+        "name": "Seungyong Moon",
+        "emails": [
+          "seungyong@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "dennis-von-der-bey",
+        "name": "Dennis von der Bey",
+        "links": {
+          "github": "https://github.com/DennisVonDerBey"
+        },
+        "eips": [
+          5539
+        ]
+      },
+      {
+        "slug": "konrad-feldmeier",
+        "name": "Konrad Feldmeier",
+        "emails": [
+          "konrad.feldmeier@brainbot.com",
+          "konrad@brainbot.com"
+        ],
+        "eips": [
+          165,
+          5081
+        ]
+      },
+      {
+        "slug": "tony-carson",
+        "name": "Tony Carson",
+        "emails": [
+          "tony.carsonn@gmail.com"
+        ],
+        "eips": [
+          2917
+        ]
+      },
+      {
+        "slug": "mucahit-buyukyilmaz",
+        "name": "Mücahit Büyükyılmaz",
+        "links": {
+          "github": "https://github.com/anndro"
+        },
+        "eips": [
+          5345
+        ]
+      },
+      {
+        "slug": "yan-ji",
+        "name": "Yan Ji",
+        "links": {
+          "github": "https://github.com/iseriohn"
+        },
+        "eips": [
+          5218
+        ]
+      },
+      {
+        "slug": "alexandre-belling",
+        "name": "Alexandre Belling",
+        "emails": [
+          "alexandrebelling8@gmail.com"
+        ],
+        "eips": [
+          1895
+        ]
+      },
+      {
+        "slug": "marta-belles",
+        "name": "Marta Bellés",
+        "links": {
+          "github": "https://github.com/bellesmarta"
+        },
+        "eips": [
+          2494
+        ]
+      },
+      {
+        "slug": "charles-cunningham",
+        "name": "Charles Cunningham",
+        "links": {
+          "github": "https://github.com/chunningham"
+        },
+        "eips": [
+          5573
+        ]
+      },
+      {
+        "slug": "leonid-logvinov",
+        "name": "Leonid Logvinov",
+        "links": {
+          "github": "https://github.com/LogvinovLeon"
+        },
+        "eips": [
+          712
+        ]
+      },
+      {
+        "slug": "joyce-li",
+        "name": "Joyce Li",
+        "emails": [
+          "joyce@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "thomas-jay-rush",
+        "name": "Thomas Jay Rush",
+        "links": {
+          "github": "https://github.com/tjayrush"
+        },
+        "eips": [
+          4345
+        ]
+      },
+      {
+        "slug": "buzz-cai",
+        "name": "Buzz Cai",
+        "links": {
+          "github": "https://github.com/buzzcai"
+        },
+        "eips": [
+          5484
+        ]
+      },
+      {
+        "slug": "chris-walker",
+        "name": "Chris Walker",
+        "links": {
+          "github": "https://github.com/cr-walker"
+        },
+        "emails": [
+          "chris@ckwalker.com"
+        ],
+        "eips": [
+          6604
+        ]
+      },
+      {
+        "slug": "austin-williams",
+        "name": "Austin Williams",
+        "links": {
+          "github": "https://github.com/onewayfunction"
+        },
+        "eips": [
+          3156,
+          3234
+        ]
+      },
+      {
+        "slug": "matt-garnett",
+        "name": "Matt Garnett",
+        "links": {
+          "github": "https://github.com/lightclient"
+        }
+      },
+      {
+        "slug": "tom-carchrae",
+        "name": "Tom Carchrae",
+        "links": {
+          "github": "https://github.com/carchrae"
+        },
+        "eips": [
+          1066,
+          902
+        ]
+      },
+      {
+        "slug": "andrew-b-coathup",
+        "name": "Andrew B Coathup",
+        "links": {
+          "github": "https://github.com/abcoathup"
+        },
+        "eips": [
+          4883
+        ]
+      },
+      {
+        "slug": "tyler-yasaka",
+        "name": "Tyler Yasaka",
+        "links": {
+          "github": "https://github.com/tyleryasaka"
+        },
+        "eips": [
+          725
+        ]
+      },
+      {
+        "slug": "yoav-weiss",
+        "name": "Yoav Weiss",
+        "links": {
+          "github": "https://github.com/yoavw"
+        },
+        "emails": [
+          "yoav@tabookey.com"
+        ],
+        "eips": [
+          1613,
+          1706,
+          2771,
+          4337,
+          6900
+        ]
+      },
+      {
+        "slug": "james-sangalli",
+        "name": "James Sangalli",
+        "emails": [
+          "j.l.sangalli@gmail.com"
+        ],
+        "eips": [
+          1386,
+          1387,
+          1388,
+          875
+        ]
+      },
+      {
+        "slug": "brian-r-bondy",
+        "name": "Brian R. Bondy",
+        "links": {
+          "github": "https://github.com/bbondy"
+        },
+        "eips": [
+          5593
+        ]
+      },
+      {
+        "slug": "abu",
+        "name": "Abu",
+        "emails": [
+          "team10kuni@gmail.com"
+        ],
+        "eips": [
+          6105
+        ]
+      },
+      {
+        "slug": "kay-lin",
+        "name": "Kay Lin",
+        "links": {
+          "github": "https://github.com/kay404"
+        },
+        "eips": [
+          6358
+        ]
+      },
+      {
+        "slug": "ernani-sao-thiago",
+        "name": "Ernani São Thiago",
+        "links": {
+          "github": "https://github.com/ernanirst"
+        },
+        "eips": [
+          7432
+        ]
+      },
+      {
+        "slug": "mineruniter969",
+        "name": "mineruniter969",
+        "links": {
+          "github": "https://github.com/mineruniter969"
+        },
+        "emails": [
+          "mineruniter969@tutanota.com"
+        ],
+        "eips": [
+          3372,
+          3372
+        ]
+      },
+      {
+        "slug": "avir-mahtani",
+        "name": "Avir Mahtani",
+        "emails": [
+          "avir@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "jeff-huang",
+        "name": "Jeff Huang",
+        "links": {
+          "github": "https://github.com/jeffishjeff"
+        },
+        "emails": [
+          "jeffishjeff@gmail.com"
+        ],
+        "eips": [
+          1203,
+          6864
+        ]
+      },
+      {
+        "slug": "bruno-barbieri",
+        "name": "Bruno Barbieri",
+        "links": {
+          "github": "https://github.com/brunobar79"
+        },
+        "eips": [
+          1710
+        ]
+      },
+      {
+        "slug": "roberto-roman",
+        "name": "Roberto Román",
+        "emails": [
+          "roman@imse-cnm.csic.es"
+        ],
+        "eips": [
+          4519
+        ]
+      },
+      {
+        "slug": "david-rabel",
+        "name": "David Rábel",
+        "links": {
+          "github": "https://github.com/rabeles11"
+        },
+        "eips": [
+          5501
+        ]
+      },
+      {
+        "slug": "joel-torstensson",
+        "name": "Joel Torstensson",
+        "emails": [
+          "oed@consensys.net"
+        ],
+        "eips": [
+          1056
+        ]
+      },
+      {
+        "slug": "jordi-baylina",
+        "name": "Jordi Baylina",
+        "links": {
+          "github": "https://github.com/jbaylina"
+        },
+        "emails": [
+          "jordi@baylina.cat"
+        ],
+        "eips": [
+          1109,
+          165,
+          1820,
+          2494,
+          777,
+          820
+        ]
+      },
+      {
+        "slug": "tomas-janca",
+        "name": "Tomáš Janča",
+        "emails": [
+          "tomas.janca@jtbstorage.eu"
+        ],
+        "eips": [
+          5501
+        ]
+      },
+      {
+        "slug": "moody-salem",
+        "name": "Moody Salem",
+        "links": {
+          "github": "https://github.com/moodysalem"
+        },
+        "eips": [
+          1153,
+          5792
+        ]
+      },
+      {
+        "slug": "kevin-riedl",
+        "name": "Kevin Riedl",
+        "links": {
+          "github": "https://github.com/wsdt"
+        },
+        "eips": [
+          5883
+        ]
+      },
+      {
+        "slug": "matt-condon",
+        "name": "Matt Condon",
+        "links": {
+          "github": "https://github.com/shrugs"
+        },
+        "eips": [
+          1046,
+          1271
+        ]
+      },
+      {
+        "slug": "ido-gershtein",
+        "name": "Ido Gershtein",
+        "emails": [
+          "ido@daostack.io"
+        ],
+        "eips": [
+          4824
+        ]
+      },
+      {
+        "slug": "stevan-bogosavljevic",
+        "name": "Stevan Bogosavljevic",
+        "links": {
+          "github": "https://github.com/stevyhacker"
+        },
+        "eips": [
+          5773,
+          6059,
+          6220,
+          6381,
+          6454,
+          7401,
+          7409
+        ]
+      },
+      {
+        "slug": "nathan-creswell",
+        "name": "Nathan Creswell",
+        "emails": [
+          "nathantr@gmail.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "dc-posch",
+        "name": "DC Posch",
+        "links": {
+          "github": "https://github.com/dcposch"
+        },
+        "eips": [
+          7212
+        ]
+      },
+      {
+        "slug": "cyril-lapinte",
+        "name": "Cyril Lapinte",
+        "emails": [
+          "cyril.lapinte@mtpelerin.com"
+        ],
+        "eips": [
+          1592
+        ]
+      },
+      {
+        "slug": "olivier-fernandez",
+        "name": "Olivier Fernandez",
+        "links": {
+          "github": "https://github.com/fernandezOli"
+        },
+        "eips": [
+          5560
+        ]
+      },
+      {
+        "slug": "amir-kahoori",
+        "name": "Amir Kahoori",
+        "emails": [
+          "a.kahoorizadeh@gmail.com"
+        ],
+        "eips": [
+          7503
+        ]
+      },
+      {
+        "slug": "aaron-yee",
+        "name": "Aaron Yee",
+        "links": {
+          "github": "https://github.com/aaronyee-eth"
+        },
+        "eips": [
+          7405
+        ]
+      },
+      {
+        "slug": "chiro",
+        "name": "Chiro",
+        "links": {
+          "github": "https://github.com/chiro-hiro"
+        },
+        "eips": [
+          6366,
+          6617
+        ]
+      },
+      {
+        "slug": "richard-moore",
+        "name": "Richard Moore",
+        "links": {
+          "github": "https://github.com/ricmoo"
+        },
+        "eips": [
+          2098,
+          3224,
+          4430,
+          634,
+          6963
+        ]
+      },
+      {
+        "slug": "laurent-aapro",
+        "name": "Laurent Aapro",
+        "emails": [
+          "laurent.aapro@mtpelerin.com"
+        ],
+        "eips": [
+          1592
+        ]
+      },
+      {
+        "slug": "piper-merriam",
+        "name": "Piper Merriam",
+        "links": {
+          "github": "https://github.com/pipermerriam"
+        },
+        "emails": [
+          "piper@ethereum.org"
+        ],
+        "eips": [
+          1123,
+          1319,
+          190,
+          2678,
+          2942,
+          3584,
+          6800
+        ]
+      },
+      {
+        "slug": "ian-norden",
+        "name": "Ian Norden",
+        "links": {
+          "github": "https://github.com/i-norden"
+        },
+        "eips": [
+          1559
+        ]
+      },
+      {
+        "slug": "sillytuna",
+        "name": "Sillytuna",
+        "links": {
+          "github": "https://github.com/sillytuna"
+        },
+        "eips": [
+          5131
+        ]
+      },
+      {
+        "slug": "chaitanya-potti",
+        "name": "Chaitanya Potti",
+        "links": {
+          "github": "https://github.com/chaitanyapotti"
+        },
+        "eips": [
+          1261,
+          1417
+        ]
+      },
+      {
+        "slug": "brantly-millegan",
+        "name": "Brantly Millegan",
+        "links": {
+          "github": "https://github.com/brantlymillegan"
+        },
+        "eips": [
+          4361
+        ]
+      },
+      {
+        "slug": "lion",
+        "name": "Lion",
+        "links": {
+          "github": "https://github.com/dapplion"
+        }
+      },
+      {
+        "slug": "liszechung",
+        "name": "liszechung",
+        "links": {
+          "github": "https://github.com/liszechung"
+        },
+        "eips": [
+          5505
+        ]
+      },
+      {
+        "slug": "cathie-so",
+        "name": "Cathie So",
+        "links": {
+          "github": "https://github.com/socathie"
+        },
+        "eips": [
+          7007
+        ]
+      },
+      {
+        "slug": "erhard-dinhobl",
+        "name": "Erhard Dinhobl",
+        "links": {
+          "github": "https://github.com/mrqc"
+        },
+        "eips": [
+          5883
+        ]
+      },
+      {
+        "slug": "simon-brown",
+        "name": "Simon Brown",
+        "links": {
+          "github": "https://github.com/orbmis"
+        },
+        "eips": [
+          5902
+        ]
+      },
+      {
+        "slug": "ironman-ch",
+        "name": "_CH",
+        "links": {
+          "github": "https://github.com/coderfengyun"
+        },
+        "eips": [
+          5489
+        ]
+      },
+      {
+        "slug": "jake-moxey",
+        "name": "Jake Moxey",
+        "links": {
+          "github": "https://github.com/jxom"
+        },
+        "eips": [
+          6963
+        ]
+      },
+      {
+        "slug": "jessica",
+        "name": "Jessica",
+        "links": {
+          "github": "https://github.com/qizheng09"
+        },
+        "eips": [
+          6787
+        ]
+      },
+      {
+        "slug": "john",
+        "name": "John",
+        "links": {
+          "github": "https://github.com/sfumato00"
+        },
+        "eips": [
+          5058
+        ]
+      },
+      {
+        "slug": "michael-zargham",
+        "name": "Michael Zargham",
+        "links": {
+          "github": "https://github.com/mzargham"
+        },
+        "eips": [
+          4824
+        ]
+      },
+      {
+        "slug": "adam-boudjemaa",
+        "name": "Adam Boudjemaa",
+        "links": {
+          "github": "https://github.com/Aboudjem"
+        },
+        "eips": [
+          3643,
+          6960
+        ]
+      },
+      {
+        "slug": "alvisdu",
+        "name": "AlvisDu",
+        "links": {
+          "github": "https://github.com/AlvisDu"
+        },
+        "eips": [
+          3525
+        ]
+      },
+      {
+        "slug": "christian-fries",
+        "name": "Christian Fries",
+        "links": {
+          "github": "https://github.com/cfries"
+        },
+        "eips": [
+          6123
+        ]
+      },
+      {
+        "slug": "mohamad-hammoud",
+        "name": "Mohamad Hammoud",
+        "links": {
+          "github": "https://github.com/mohamadhammoud"
+        },
+        "eips": [
+          6960
+        ]
+      },
+      {
+        "slug": "huaizhe-xu",
+        "name": "Huaizhe Xu",
+        "links": {
+          "github": "https://github.com/HuaizheXu"
+        },
+        "eips": [
+          7007
+        ]
+      },
+      {
+        "slug": "dogan-alpaslan",
+        "name": "Doğan Alpaslan",
+        "links": {
+          "github": "https://github.com/doganalpaslan"
+        },
+        "eips": [
+          7212
+        ]
+      },
+      {
+        "slug": "matt",
+        "name": "Matt",
+        "links": {
+          "github": "https://github.com/defifuture"
+        },
+        "eips": [
+          3005
+        ]
+      },
+      {
+        "slug": "dr-christopher-gorman",
+        "name": "Dr. Christopher Gorman",
+        "links": {
+          "github": "https://github.com/chgormanMH"
+        },
+        "eips": [
+          3068
+        ]
+      },
+      {
+        "slug": "foobar",
+        "name": "foobar",
+        "links": {
+          "github": "https://github.com/0xfoobar"
+        },
+        "eips": [
+          5639
+        ]
+      },
+      {
+        "slug": "will-villanueva",
+        "name": "Will Villanueva",
+        "links": {
+          "github": "https://github.com/villanuevawill"
+        },
+        "eips": [
+          2938
+        ]
+      },
+      {
+        "slug": "bradley-leatherwood",
+        "name": "Bradley Leatherwood",
+        "emails": [
+          "bradleat@inkibra.com"
+        ],
+        "eips": [
+          1080
+        ]
+      },
+      {
+        "slug": "fabian-vogelsteller",
+        "name": "Fabian Vogelsteller",
+        "links": {
+          "github": "https://github.com/frozeman"
+        },
+        "emails": [
+          "fabian@ethereum.org",
+          "fabian@lukso.network"
+        ],
+        "eips": [
+          1193,
+          165,
+          20,
+          2771,
+          725
+        ]
+      },
+      {
+        "slug": "damian-martinelli",
+        "name": "Damian Martinelli",
+        "links": {
+          "github": "https://github.com/damianmarti"
+        },
+        "eips": [
+          4883
+        ]
+      },
+      {
+        "slug": "juan-carlos-canto",
+        "name": "Juan Carlos Cantó",
+        "links": {
+          "github": "https://github.com/EscuelaCryptoES"
+        },
+        "eips": [
+          5216
+        ]
+      },
+      {
+        "slug": "william-morriss",
+        "name": "William Morriss",
+        "links": {
+          "github": "https://github.com/wjmelements"
+        },
+        "eips": [
+          2936,
+          3300,
+          3322,
+          3455,
+          3651,
+          6810,
+          6913
+        ]
+      },
+      {
+        "slug": "pierre-bertet",
+        "name": "Pierre Bertet",
+        "links": {
+          "github": "https://github.com/bpierre"
+        },
+        "eips": [
+          6963
+        ]
+      },
+      {
+        "slug": "jalil-wahdatehagh",
+        "name": "Jalil Wahdatehagh",
+        "links": {
+          "github": "https://github.com/jwahdatehagh"
+        },
+        "eips": [
+          5131
+        ]
+      },
+      {
+        "slug": "remy-roy",
+        "name": "Rémy Roy",
+        "links": {
+          "github": "https://github.com/remyroy"
+        },
+        "eips": [
+          6916
+        ]
+      },
+      {
+        "slug": "witek-radomski",
+        "name": "Witek Radomski",
+        "emails": [
+          "witek@enjin.io"
+        ],
+        "eips": [
+          1155,
+          1761,
+          2477
+        ]
+      },
+      {
+        "slug": "joshua-hendrix",
+        "name": "Joshua Hendrix",
+        "links": {
+          "github": "https://github.com/thejoshuahendrix"
+        },
+        "eips": [
+          5094
+        ]
+      },
+      {
+        "slug": "jared-wasinger",
+        "name": "Jared Wasinger",
+        "links": {
+          "github": "https://github.com/jwasinger"
+        },
+        "eips": [
+          5656,
+          6690
+        ]
+      },
+      {
+        "slug": "tim-coulter",
+        "name": "Tim Coulter",
+        "links": {
+          "github": "https://github.com/tcoulter"
+        },
+        "eips": [
+          190
+        ]
+      },
+      {
+        "slug": "ran-xing",
+        "name": "Ran Xing",
+        "links": {
+          "github": "https://github.com/lemontreeran"
+        },
+        "eips": [
+          2569
+        ]
+      },
+      {
+        "slug": "david-kim",
+        "name": "David Kim",
+        "links": {
+          "github": "https://github.com/powerstream3604"
+        },
+        "eips": [
+          4675
+        ]
+      },
+      {
+        "slug": "boyu-chu",
+        "name": "Boyu Chu",
+        "links": {
+          "github": "https://github.com/chuboyu"
+        },
+        "emails": [
+          "boyu@redreamer.io"
+        ],
+        "eips": [
+          6672
+        ]
+      },
+      {
+        "slug": "sam-wilson",
+        "name": "Sam Wilson",
+        "links": {
+          "github": "https://github.com/SamWilsn"
+        },
+        "eips": [
+          2938,
+          3074,
+          4804,
+          5003,
+          5069,
+          5139,
+          5757,
+          6860,
+          7039,
+          7377
+        ]
+      },
+      {
+        "slug": "brian-venturo",
+        "name": "Brian Venturo",
+        "links": {
+          "github": "https://github.com/atlanticcrypto"
+        },
+        "eips": [
+          1295
+        ]
+      },
+      {
+        "slug": "rob-montgomery",
+        "name": "Rob Montgomery",
+        "links": {
+          "github": "https://github.com/RobAnon"
+        },
+        "emails": [
+          "rob@revest.finance"
+        ],
+        "eips": [
+          6551,
+          7444
+        ]
+      },
+      {
+        "slug": "julio-faura",
+        "name": "Julio Faura",
+        "emails": [
+          "julio@adhara.io"
+        ],
+        "eips": [
+          1996,
+          2018,
+          2019,
+          2020,
+          2021
+        ]
+      },
+      {
+        "slug": "mikhail-kalinin",
+        "name": "Mikhail Kalinin",
+        "links": {
+          "github": "https://github.com/mkalinin"
+        },
+        "eips": [
+          3675,
+          4399,
+          6110,
+          6465,
+          6988,
+          7002,
+          7251
+        ]
+      },
+      {
+        "slug": "victor-yu",
+        "name": "Victor Yu",
+        "emails": [
+          "victor@carv.io"
+        ],
+        "eips": [
+          7231
+        ]
+      },
+      {
+        "slug": "locationtba",
+        "name": "locationtba",
+        "links": {
+          "github": "https://github.com/locationtba"
+        },
+        "eips": [
+          5791
+        ]
+      },
+      {
+        "slug": "vu-nguyen",
+        "name": "Vu Nguyen",
+        "links": {
+          "github": "https://github.com/mrenoon"
+        },
+        "eips": [
+          5115
+        ]
+      },
+      {
+        "slug": "paul-dworzanski",
+        "name": "Paul Dworzanski",
+        "links": {
+          "github": "https://github.com/poemm"
+        },
+        "eips": [
+          5656
+        ]
+      },
+      {
+        "slug": "cody-burns",
+        "name": "Cody Burns",
+        "emails": [
+          "dontPanic@codywburns.com"
+        ],
+        "eips": [
+          698
+        ]
+      },
+      {
+        "slug": "christoph-burgdorf",
+        "name": "Christoph Burgdorf",
+        "links": {
+          "github": "https://github.com/cburgdorf"
+        },
+        "eips": [
+          2481
+        ]
+      },
+      {
+        "slug": "yu-liu",
+        "name": "Yu Liu",
+        "links": {
+          "github": "https://github.com/yuliu-debond"
+        },
+        "eips": [
+          3475,
+          5851
+        ]
+      },
+      {
+        "slug": "hexzorro",
+        "name": "HexZorro",
+        "links": {
+          "github": "https://github.com/hexzorro"
+        },
+        "eips": [
+          3416
         ]
       },
       {
@@ -325,14 +7388,1557 @@
         "links": {
           "twitter": "https://twitter.com/TMIYChao",
           "github": "https://github.com/taxmeifyoucan"
-        }
+        },
+        "eips": [
+          6916
+        ]
+      },
+      {
+        "slug": "eric-conner",
+        "name": "Eric Conner",
+        "links": {
+          "github": "https://github.com/econoar"
+        },
+        "eips": [
+          1559,
+          2384
+        ]
+      },
+      {
+        "slug": "matt-stam",
+        "name": "Matt Stam",
+        "links": {
+          "github": "https://github.com/mattstam"
+        },
+        "eips": [
+          5732
+        ]
+      },
+      {
+        "slug": "darryl-yeo",
+        "name": "Darryl Yeo",
+        "links": {
+          "github": "https://github.com/darrylyeo"
+        },
+        "eips": [
+          6963
+        ]
+      },
+      {
+        "slug": "dmitry-khovratovich",
+        "name": "Dmitry Khovratovich",
+        "links": {
+          "github": "https://github.com/khovratovich"
+        },
+        "eips": [
+          3607
+        ]
+      },
+      {
+        "slug": "startfundinc",
+        "name": "StartfundInc",
+        "links": {
+          "github": "https://github.com/StartfundInc"
+        },
+        "eips": [
+          5528
+        ]
+      },
+      {
+        "slug": "josep-lluis-de-la-rosa",
+        "name": "Josep Lluis de la Rosa",
+        "links": {
+          "github": "https://github.com/peplluis7"
+        },
+        "eips": [
+          4944,
+          4950
+        ]
+      },
+      {
+        "slug": "long-vuong",
+        "name": "Long Vuong",
+        "links": {
+          "github": "https://github.com/UncleGrandpa925"
+        },
+        "eips": [
+          5115
+        ]
+      },
+      {
+        "slug": "scott-burke",
+        "name": "Scott Burke",
+        "emails": [
+          "scott@blockcrushr.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "howard-marks",
+        "name": "Howard Marks",
+        "emails": [
+          "howard@startengine.com"
+        ],
+        "eips": [
+          1450
+        ]
+      },
+      {
+        "slug": "kelly-olson",
+        "name": "Kelly Olson",
+        "links": {
+          "github": "https://github.com/ineffectualproperty"
+        },
+        "eips": [
+          2537,
+          2565
+        ]
+      },
+      {
+        "slug": "mudit-gupta",
+        "name": "Mudit Gupta",
+        "links": {
+          "github": "https://github.com/maxsam4"
+        },
+        "eips": [
+          5065
+        ]
+      },
+      {
+        "slug": "dave-sag",
+        "name": "Dave Sag",
+        "emails": [
+          "davesag@gmail.com"
+        ],
+        "eips": [
+          884
+        ]
+      },
+      {
+        "slug": "elie222",
+        "name": "elie222",
+        "links": {
+          "github": "https://github.com/elie222"
+        },
+        "eips": [
+          5507
+        ]
+      },
+      {
+        "slug": "gary-liu",
+        "name": "Gary Liu",
+        "emails": [
+          "gary@artifactlabs.com"
+        ],
+        "eips": [
+          6596
+        ]
+      },
+      {
+        "slug": "lance",
+        "name": "Lance",
+        "links": {
+          "github": "https://github.com/LanceSnow"
+        },
+        "eips": [
+          4906,
+          4907,
+          5006,
+          5007,
+          5008
+        ]
+      },
+      {
+        "slug": "ulas-erdogan",
+        "name": "Ulaş Erdoğan",
+        "links": {
+          "github": "https://github.com/ulerdogan"
+        },
+        "eips": [
+          7212
+        ]
+      },
+      {
+        "slug": "david-zhang",
+        "name": "David Zhang",
+        "emails": [
+          "david@startengine.com"
+        ],
+        "eips": [
+          1450
+        ]
+      },
+      {
+        "slug": "mario",
+        "name": "Mario",
+        "emails": [
+          "mario@paladinsec.co"
+        ],
+        "eips": [
+          5725
+        ]
+      },
+      {
+        "slug": "kelvin-fichter",
+        "name": "Kelvin Fichter",
+        "links": {
+          "github": "https://github.com/smartcontracts"
+        },
+        "eips": [
+          6734,
+          6735
+        ]
+      },
+      {
+        "slug": "coala-licensing-taskforce",
+        "name": "COALA Licensing Taskforce",
+        "emails": [
+          "info@coala.org"
+        ],
+        "eips": [
+          5554
+        ]
+      },
+      {
+        "slug": "zhongfu",
+        "name": "zhongfu",
+        "links": {
+          "github": "https://github.com/zhongfu"
+        },
+        "eips": [
+          5827
+        ]
+      },
+      {
+        "slug": "alexandros-korpis",
+        "name": "Alexandros Korpis",
+        "links": {
+          "github": "https://github.com/kourouta"
+        },
+        "eips": [
+          6123
+        ]
+      },
+      {
+        "slug": "alex-beregszaszi",
+        "name": "Alex Beregszaszi",
+        "links": {
+          "github": "https://github.com/axic"
+        },
+        "eips": [
+          1352,
+          1380,
+          140,
+          141,
+          145,
+          1679,
+          1803,
+          1985,
+          2003,
+          2014,
+          2045,
+          2046,
+          2069,
+          2070,
+          2294,
+          233,
+          2488,
+          2677,
+          2681,
+          2926,
+          3338,
+          3540,
+          3541,
+          3670,
+          3690,
+          3855,
+          3860,
+          4200,
+          4750,
+          4803,
+          5000,
+          5450,
+          5656,
+          6046,
+          606,
+          607,
+          608,
+          609,
+          6206,
+          663,
+          6690,
+          7069,
+          7480
+        ]
+      },
+      {
+        "slug": "daniel-fallon-cyr",
+        "name": "Daniel Fallon-Cyr",
+        "links": {
+          "github": "https://github.com/dfalloncyr"
+        },
+        "eips": [
+          6065
+        ]
+      },
+      {
+        "slug": "kevin-owocki",
+        "name": "Kevin Owocki",
+        "emails": [
+          "kevin@supermodular.xyz",
+          "kevin@gitcoin.co",
+          "kevin.owocki@consensys.net"
+        ],
+        "eips": [
+          1081,
+          1337,
+          1890,
+          6968
+        ]
+      },
+      {
+        "slug": "anna-crowley",
+        "name": "Anna Crowley",
+        "emails": [
+          "annaelizabethcrowley@gmail.com"
+        ],
+        "eips": [
+          1753
+        ]
+      },
+      {
+        "slug": "ronan-sandford",
+        "name": "Ronan Sandford",
+        "links": {
+          "github": "https://github.com/wighawag"
+        },
+        "emails": [
+          "wighawag@gmail.com"
+        ],
+        "eips": [
+          107,
+          1155,
+          1930,
+          1959,
+          1965,
+          2771,
+          5409
+        ]
+      },
+      {
+        "slug": "james-hancock",
+        "name": "James Hancock",
+        "links": {
+          "github": "https://github.com/MadeOfTin"
+        },
+        "eips": [
+          152,
+          2025,
+          2378,
+          2387,
+          2515,
+          2657,
+          3554,
+          4345
+        ]
+      },
+      {
+        "slug": "d-wang",
+        "name": "D Wang",
+        "eipname": "D Wang",
+        "emails": [
+          "david@iob.fi"
+        ],
+        "eips": [
+          5173,
+          5173
+        ]
+      },
+      {
+        "slug": "cry",
+        "name": "Cry",
+        "links": {
+          "github": "https://github.com/crydoteth"
+        },
+        "eips": [
+          5131
+        ]
+      },
+      {
+        "slug": "sean-papanikolas",
+        "name": "Sean Papanikolas",
+        "links": {
+          "github": "https://github.com/pizzarob"
+        },
+        "eips": [
+          2309,
+          3569
+        ]
+      },
+      {
+        "slug": "yilin-sai",
+        "name": "Yilin Sai",
+        "emails": [
+          "yilin.sai@data61.csiro.au"
+        ],
+        "eips": [
+          5521
+        ]
       },
       {
         "slug": "peter-szilagyi",
         "name": "Péter Szilágyi",
+        "links": {
+          "github": "https://github.com/karalabe"
+        },
         "emails": [
           "peterke@gmail.com",
           "peter@ethereum.org"
+        ],
+        "eips": [
+          1459,
+          2124,
+          225,
+          2364,
+          2364,
+          2464,
+          2464,
+          706
+        ]
+      },
+      {
+        "slug": "eos-classic",
+        "name": "EOS Classic",
+        "links": {
+          "github": "https://github.com/eosclassicteam"
+        },
+        "eips": [
+          1276
+        ]
+      },
+      {
+        "slug": "hamid-bateni",
+        "name": "Hamid Bateni",
+        "links": {
+          "github": "https://github.com/irnb"
+        },
+        "eips": [
+          7503
+        ]
+      },
+      {
+        "slug": "and-arran-schlosberg",
+        "name": "and Arran Schlosberg",
+        "links": {
+          "github": "https://github.com/aschlosberg"
+        },
+        "eips": [
+          6464
+        ]
+      },
+      {
+        "slug": "hugo-de-la-cruz",
+        "name": "Hugo De la cruz",
+        "links": {
+          "github": "https://github.com/hugo-dc"
+        },
+        "eips": [
+          3855
+        ]
+      },
+      {
+        "slug": "shawn-zheng",
+        "name": "Shawn Zheng",
+        "links": {
+          "github": "https://github.com/xiyu1984"
+        },
+        "eips": [
+          6358
+        ]
+      },
+      {
+        "slug": "charles-cooper",
+        "name": "Charles Cooper",
+        "links": {
+          "github": "https://github.com/charles-cooper"
+        },
+        "eips": [
+          1898,
+          5202,
+          5656
+        ]
+      },
+      {
+        "slug": "jorge-izquierdo",
+        "name": "Jorge Izquierdo",
+        "links": {
+          "github": "https://github.com/izqui"
+        },
+        "emails": [
+          "jorge@aragon.one"
+        ],
+        "eips": [
+          1271,
+          3000,
+          897,
+          900
+        ]
+      },
+      {
+        "slug": "juan-blanco",
+        "name": "Juan Blanco",
+        "links": {
+          "github": "https://github.com/juanfranblanco"
+        },
+        "eips": [
+          2746
+        ]
+      },
+      {
+        "slug": "tim-beiko",
+        "name": "Tim Beiko",
+        "links": {
+          "github": "https://github.com/timbeiko"
+        },
+        "eips": [
+          2364,
+          2464,
+          4345,
+          6953,
+          7514
+        ]
+      },
+      {
+        "slug": "mihir-faujdar",
+        "name": "Mihir Faujdar",
+        "links": {
+          "github": "https://github.com/uink45"
+        },
+        "eips": [
+          4520
+        ]
+      },
+      {
+        "slug": "noah-zinsmeister",
+        "name": "Noah Zinsmeister",
+        "emails": [
+          "noahwz@gmail.com"
+        ],
+        "eips": [
+          1484
+        ]
+      },
+      {
+        "slug": "ikmyeong-na",
+        "name": "Ikmyeong Na",
+        "links": {
+          "github": "https://github.com/naikmyeong"
+        },
+        "eips": [
+          1588
+        ]
+      },
+      {
+        "slug": "jeremy-z",
+        "name": "Jeremy Z",
+        "links": {
+          "github": "https://github.com/wnft"
+        },
+        "eips": [
+          5496
+        ]
+      },
+      {
+        "slug": "josh-klopfenstein",
+        "name": "Josh Klopfenstein",
+        "links": {
+          "github": "https://github.com/joshklop"
+        },
+        "eips": [
+          5133
+        ]
+      },
+      {
+        "slug": "toufic-batrice",
+        "name": "Toufic Batrice",
+        "links": {
+          "github": "https://github.com/toufic0710"
+        },
+        "eips": [
+          3475
+        ]
+      },
+      {
+        "slug": "edison0xyz",
+        "name": "edison0xyz",
+        "links": {
+          "github": "https://github.com/edison0xyz"
+        },
+        "eips": [
+          5827
+        ]
+      },
+      {
+        "slug": "alex-papageorgiou-omniscia",
+        "name": "Alex Papageorgiou - Omniscia",
+        "links": {
+          "github": "https://github.com/alex-ppg"
+        },
+        "eips": [
+          3508,
+          3520,
+          7512
+        ]
+      },
+      {
+        "slug": "sachin-tomar",
+        "name": "Sachin Tomar",
+        "links": {
+          "github": "https://github.com/tomarsachin2271"
+        },
+        "eips": [
+          2771
+        ]
+      },
+      {
+        "slug": "ansgar-dietrichs",
+        "name": "Ansgar Dietrichs",
+        "links": {
+          "github": "https://github.com/adietrichs"
+        },
+        "eips": [
+          2938,
+          3074,
+          4396,
+          4488,
+          4788,
+          4844,
+          7002,
+          7377
+        ]
+      },
+      {
+        "slug": "andreas-freund",
+        "name": "Andreas Freund",
+        "links": {
+          "github": "https://github.com/Therecanbeonlyone1969"
+        },
+        "eips": [
+          4910,
+          6734,
+          6735
+        ]
+      },
+      {
+        "slug": "martin-moravek",
+        "name": "Martin Moravek",
+        "links": {
+          "github": "https://github.com/mmartinmo"
+        },
+        "eips": [
+          5023
+        ]
+      },
+      {
+        "slug": "xinqi-yang",
+        "name": "Xinqi Yang",
+        "links": {
+          "github": "https://github.com/xinqiyang"
+        },
+        "eips": [
+          3589
+        ]
+      },
+      {
+        "slug": "franz-chen",
+        "name": "Franz Chen",
+        "links": {
+          "github": "https://github.com/Dendrimer"
+        },
+        "eips": [
+          5744
+        ]
+      },
+      {
+        "slug": "sam-porter",
+        "name": "Sam Porter",
+        "links": {
+          "github": "https://github.com/SamPorter1984"
+        },
+        "eips": [
+          3561
+        ]
+      },
+      {
+        "slug": "junyi-zhong",
+        "name": "Junyi Zhong",
+        "links": {
+          "github": "https://github.com/Jooeys"
+        },
+        "eips": [
+          5851
+        ]
+      },
+      {
+        "slug": "liraz-siri",
+        "name": "Liraz Siri",
+        "links": {
+          "github": "https://github.com/lirazsiri"
+        },
+        "eips": [
+          2771
+        ]
+      },
+      {
+        "slug": "john-zettler",
+        "name": "John Zettler",
+        "links": {
+          "github": "https://github.com/JohnZettler"
+        },
+        "eips": [
+          1046
+        ]
+      },
+      {
+        "slug": "hyungsuk-kang",
+        "name": "Hyungsuk Kang",
+        "links": {
+          "github": "https://github.com/hskang9"
+        },
+        "eips": [
+          5252
+        ]
+      },
+      {
+        "slug": "gianluca-perletti",
+        "name": "Gianluca Perletti",
+        "links": {
+          "github": "https://github.com/Perlets9"
+        },
+        "eips": [
+          2980
+        ]
+      },
+      {
+        "slug": "chloe-gu",
+        "name": "Chloe Gu",
+        "emails": [
+          "chloe@carv.io"
+        ],
+        "eips": [
+          7231
+        ]
+      },
+      {
+        "slug": "joel-thorstensson",
+        "name": "Joel Thorstensson",
+        "links": {
+          "github": "https://github.com/oed"
+        },
+        "eips": [
+          2844
+        ]
+      },
+      {
+        "slug": "bruno-skvorc",
+        "name": "Bruno Škvorc",
+        "links": {
+          "github": "https://github.com/Swader"
+        },
+        "eips": [
+          5773,
+          6059,
+          6220,
+          6381,
+          6454,
+          7401,
+          7409
+        ]
+      },
+      {
+        "slug": "trustfarm",
+        "name": "trustfarm",
+        "emails": [
+          "trustfarm.info@gmail.com",
+          "cpplover@trustfarm.net"
+        ],
+        "eips": [
+          1485,
+          1485
+        ]
+      },
+      {
+        "slug": "philippe-castonguay",
+        "name": "Philippe Castonguay",
+        "links": {
+          "github": "https://github.com/phabc"
+        },
+        "emails": [
+          "pc@horizongames.net"
+        ],
+        "eips": [
+          1155,
+          1271,
+          3382,
+          5189
+        ]
+      },
+      {
+        "slug": "fan-yang",
+        "name": "Fan Yang",
+        "links": {
+          "github": "https://github.com/fayang"
+        },
+        "eips": [
+          7507
+        ]
+      },
+      {
+        "slug": "zhenyu-sun",
+        "name": "Zhenyu Sun",
+        "links": {
+          "github": "https://github.com/Ungigdu"
+        },
+        "eips": [
+          3135,
+          3589
+        ]
+      },
+      {
+        "slug": "tal-beery",
+        "name": "Tal Be'ery",
+        "emails": [
+          "tal@zengo.com"
+        ],
+        "eips": [
+          6384
+        ]
+      },
+      {
+        "slug": "fried-l-trout",
+        "name": "Fried L. Trout",
+        "eipname": "Fried L. Trout",
+        "eips": [
+          5630
+        ]
+      },
+      {
+        "slug": "simon-jentzsch",
+        "name": "Simon Jentzsch",
+        "emails": [
+          "simon.jentzsch@slock.it"
+        ],
+        "eips": [
+          1186
+        ]
+      },
+      {
+        "slug": "maxim-kupriianov",
+        "name": "Maxim Kupriianov",
+        "emails": [
+          "mk@atlant.io"
+        ],
+        "eips": [
+          1462
+        ]
+      },
+      {
+        "slug": "omar-aflak",
+        "name": "Omar Aflak",
+        "links": {
+          "github": "https://github.com/omaraflak"
+        },
+        "eips": [
+          4671
+        ]
+      },
+      {
+        "slug": "nate-welch",
+        "name": "Nate Welch",
+        "links": {
+          "github": "https://github.com/flygoing"
+        },
+        "eips": [
+          1167
+        ]
+      },
+      {
+        "slug": "chaitanya-konda",
+        "name": "Chaitanya Konda",
+        "emails": [
+          "chaitanya.konda@uk.ey.com"
+        ],
+        "eips": [
+          1922,
+          1923
+        ]
+      },
+      {
+        "slug": "pooja-ranjan",
+        "name": "Pooja Ranjan",
+        "links": {
+          "github": "https://github.com/poojaranjan"
+        },
+        "eips": [
+          5069
+        ]
+      },
+      {
+        "slug": "shu-dong",
+        "name": "Shu Dong",
+        "links": {
+          "github": "https://github.com/dongshu2013"
+        },
+        "eips": [
+          4972,
+          6662,
+          7522
+        ]
+      },
+      {
+        "slug": "andres-el-fakdi",
+        "name": "Andres El-Fakdi",
+        "links": {
+          "github": "https://github.com/Bluezfish"
+        },
+        "eips": [
+          4944
+        ]
+      },
+      {
+        "slug": "jet-lim",
+        "name": "Jet Lim",
+        "links": {
+          "github": "https://github.com/Nitro888"
+        },
+        "eips": [
+          1175,
+          1438
+        ]
+      },
+      {
+        "slug": "wei-tang",
+        "name": "Wei Tang",
+        "links": {
+          "github": "https://github.com/sorpaas"
+        },
+        "eips": [
+          1283,
+          1702,
+          2200,
+          695
+        ]
+      },
+      {
+        "slug": "silvere-heraudeau",
+        "name": "Silvere Heraudeau",
+        "links": {
+          "github": "https://github.com/lambdalf-dev"
+        },
+        "eips": [
+          6105
+        ]
+      },
+      {
+        "slug": "kristijan-sedlak",
+        "name": "Kristijan Sedlak",
+        "links": {
+          "github": "https://github.com/xpepermint"
+        },
+        "eips": [
+          2477
+        ]
+      },
+      {
+        "slug": "db",
+        "name": "db",
+        "links": {
+          "github": "https://github.com/dbeal-eth"
+        },
+        "eips": [
+          7412
+        ]
+      },
+      {
+        "slug": "cozy-finance",
+        "name": "Cozy Finance",
+        "links": {
+          "github": "https://github.com/cozyfinance"
+        },
+        "eips": [
+          5744
+        ]
+      },
+      {
+        "slug": "alex-gojazdev",
+        "name": "Alex",
+        "links": {
+          "github": "https://github.com/gojazdev"
+        },
+        "eips": [
+          5058
+        ]
+      },
+      {
+        "slug": "carl-larson",
+        "name": "Carl Larson",
+        "emails": [
+          "cslarson@gmail.com"
+        ],
+        "eips": [
+          858
+        ]
+      },
+      {
+        "slug": "infernal-toast",
+        "name": "Infernal_toast",
+        "emails": [
+          "admin@0xbitcoin.org"
+        ],
+        "eips": [
+          918
+        ]
+      },
+      {
+        "slug": "marc-garreau",
+        "name": "Marc Garreau",
+        "links": {
+          "github": "https://github.com/marcgarreau"
+        },
+        "eips": [
+          1193
+        ]
+      },
+      {
+        "slug": "weiwu",
+        "name": "Weiwu",
+        "links": {
+          "github": "https://github.com/weiwu-zhang"
+        },
+        "eips": [
+          5169
+        ]
+      },
+      {
+        "slug": "cristian-espinoza",
+        "name": "Cristian Espinoza",
+        "links": {
+          "github": "https://github.com/crisgarner"
+        },
+        "eips": [
+          6464
+        ]
+      },
+      {
+        "slug": "guillaume-ballet",
+        "name": "Guillaume Ballet",
+        "links": {
+          "github": "https://github.com/gballet"
+        },
+        "eips": [
+          2584,
+          3102,
+          4758,
+          4760,
+          4762,
+          6780,
+          6800,
+          6873
+        ]
+      },
+      {
+        "slug": "erik-marks",
+        "name": "Erik Marks",
+        "links": {
+          "github": "https://github.com/rekmarks"
+        },
+        "eips": [
+          1102,
+          1193,
+          1474,
+          2015,
+          2255,
+          2696,
+          2700,
+          2786,
+          3085,
+          3326,
+          695
+        ]
+      },
+      {
+        "slug": "rex-creed",
+        "name": "Rex Creed",
+        "links": {
+          "github": "https://github.com/aug2uag"
+        },
+        "eips": [
+          4353
+        ]
+      },
+      {
+        "slug": "jimmy-debe",
+        "name": "Jimmy Debe",
+        "links": {
+          "github": "https://github.com/jimstir"
+        },
+        "eips": [
+          7425
+        ]
+      },
+      {
+        "slug": "fan-torchz",
+        "name": "Fan Torchz",
+        "links": {
+          "github": "https://github.com/tcz001"
+        },
+        "eips": [
+          695
+        ]
+      },
+      {
+        "slug": "ivo-georgiev",
+        "name": "Ivo Georgiev",
+        "links": {
+          "github": "https://github.com/Ivshti"
+        },
+        "eips": [
+          6492
+        ]
+      },
+      {
+        "slug": "jack-peterson",
+        "name": "Jack Peterson",
+        "emails": [
+          "jack@tinybike.net"
+        ],
+        "eips": [
+          758
+        ]
+      },
+      {
+        "slug": "zach-burks",
+        "name": "Zach Burks",
+        "links": {
+          "github": "https://github.com/vexycats"
+        },
+        "eips": [
+          2981
+        ]
+      },
+      {
+        "slug": "anurag-angara",
+        "name": "Anurag Angara",
+        "emails": [
+          "anurag.angara@gmail.com"
+        ],
+        "eips": [
+          1484
+        ]
+      },
+      {
+        "slug": "runchao-han",
+        "name": "Runchao Han",
+        "emails": [
+          "runchao.han@monash.edu"
+        ],
+        "eips": [
+          2266
+        ]
+      },
+      {
+        "slug": "narcis-cotaie",
+        "name": "Narcis Cotaie",
+        "links": {
+          "github": "https://github.com/NarcisCRO"
+        },
+        "eips": [
+          6808,
+          6809
+        ]
+      },
+      {
+        "slug": "portal-network-team",
+        "name": "Portal Network Team"
+      },
+      {
+        "slug": "sean-ng",
+        "name": "Sean NG",
+        "links": {
+          "github": "https://github.com/ngveega"
+        },
+        "eips": [
+          5585
+        ]
+      },
+      {
+        "slug": "tobias-oberstein",
+        "name": "Tobias Oberstein",
+        "emails": [
+          "tobias.oberstein@crossbario.com"
+        ],
+        "eips": [
+          665
+        ]
+      },
+      {
+        "slug": "alex",
+        "name": "Alex",
+        "links": {
+          "github": "https://github.com/AlexPartyPanda"
+        },
+        "eips": [
+          4883
+        ]
+      },
+      {
+        "slug": "kyle-xu",
+        "name": "Kyle Xu",
+        "links": {
+          "github": "https://github.com/kylexyxu"
+        },
+        "eips": [
+          7093
+        ]
+      },
+      {
+        "slug": "george-zhang",
+        "name": "George Zhang",
+        "links": {
+          "github": "https://github.com/odysseus0"
+        },
+        "eips": [
+          7093
+        ]
+      },
+      {
+        "slug": "abdelhamid-bakhta",
+        "name": "Abdelhamid Bakhta",
+        "links": {
+          "github": "https://github.com/abdelhamidbakhta"
+        },
+        "eips": [
+          1559,
+          3041,
+          3044,
+          3045,
+          3046,
+          3198,
+          5988
+        ]
+      },
+      {
+        "slug": "suleyman-kardas",
+        "name": "Süleyman Kardaş",
+        "emails": [
+          "skardas@gmail.com"
+        ],
+        "eips": [
+          2917
+        ]
+      },
+      {
+        "slug": "jan-smrza",
+        "name": "Jan Smrža",
+        "links": {
+          "github": "https://github.com/smrza"
+        },
+        "eips": [
+          5501
+        ]
+      },
+      {
+        "slug": "justin-drake",
+        "name": "Justin Drake",
+        "links": {
+          "github": "https://github.com/justindrake"
+        },
+        "eips": [
+          2565,
+          7251,
+          7441
+        ]
+      },
+      {
+        "slug": "shrug",
+        "name": "Shrug",
+        "emails": [
+          "shrug@emojidao.org"
+        ],
+        "eips": [
+          4906,
+          4907,
+          5006,
+          5007,
+          5008
+        ]
+      },
+      {
+        "slug": "denis-erfurt",
+        "name": "Denis Erfurt",
+        "links": {
+          "github": "https://github.com/mhhf"
+        },
+        "eips": [
+          190
+        ]
+      },
+      {
+        "slug": "kevin-thizy",
+        "name": "Kevin Thizy",
+        "links": {
+          "github": "https://github.com/Nakasar"
+        },
+        "eips": [
+          3643
+        ]
+      },
+      {
+        "slug": "aditya",
+        "name": "Aditya",
+        "links": {
+          "github": "https://github.com/adiasg"
+        },
+        "eips": [
+          7251
+        ]
+      },
+      {
+        "slug": "jason-cheng",
+        "name": "Jason Cheng",
+        "links": {
+          "github": "https://github.com/Jason0729"
+        },
+        "emails": [
+          "jason@redreamer.io",
+          "chengjingxx@gmail.com"
+        ],
+        "eips": [
+          6358,
+          6672
+        ]
+      },
+      {
+        "slug": "yonathan-randyanto",
+        "name": "Yonathan Randyanto",
+        "links": {
+          "github": "https://github.com/Randyanto"
+        },
+        "emails": [
+          "randy@redreamer.io"
+        ],
+        "eips": [
+          6672
+        ]
+      },
+      {
+        "slug": "yuki-aoki",
+        "name": "Yuki Aoki",
+        "links": {
+          "github": "https://github.com/yuki-js"
+        },
+        "eips": [
+          6268
+        ]
+      },
+      {
+        "slug": "mark-mackey",
+        "name": "Mark Mackey",
+        "links": {
+          "github": "https://github.com/ethDreamer"
+        },
+        "eips": [
+          4881
+        ]
+      },
+      {
+        "slug": "andreasgassmann",
+        "name": "AndreasGassmann",
+        "links": {
+          "github": "https://github.com/andreasgassmann"
+        },
+        "eips": [
+          4527
+        ]
+      },
+      {
+        "slug": "srinivas-joshi",
+        "name": "Srinivas Joshi",
+        "links": {
+          "github": "https://github.com/SrinivasJoshi"
+        },
+        "eips": [
+          7066
+        ]
+      },
+      {
+        "slug": "zergity",
+        "name": "Zergity",
+        "links": {
+          "github": "https://github.com/Zergity"
+        },
+        "eips": [
+          6120
+        ]
+      },
+      {
+        "slug": "ankit-raj",
+        "name": "ankit raj",
+        "emails": [
+          "tradeninja7@gmail.com"
+        ],
+        "eips": [
+          1337
+        ]
+      },
+      {
+        "slug": "weijia-zhang",
+        "name": "Weijia Zhang",
+        "links": {
+          "github": "https://github.com/weijia31415"
+        },
+        "eips": [
+          3220
+        ]
+      },
+      {
+        "slug": "jacob-ward",
+        "name": "Jacob Ward",
+        "links": {
+          "github": "https://github.com/cobward"
+        },
+        "eips": [
+          5573
+        ]
+      },
+      {
+        "slug": "jayden-windle",
+        "name": "Jayden Windle",
+        "links": {
+          "github": "https://github.com/jaydenwindle"
+        },
+        "eips": [
+          6551
+        ]
+      },
+      {
+        "slug": "kai-yu",
+        "name": "Kai Yu",
+        "links": {
+          "github": "https://github.com/chihkaiyu"
+        },
+        "emails": [
+          "kai@redreamer.io"
+        ],
+        "eips": [
+          6672
+        ]
+      },
+      {
+        "slug": "jordan-schalm",
+        "name": "Jordan Schalm",
+        "emails": [
+          "jordan.schalm@gmail.com"
+        ],
+        "eips": [
+          998
+        ]
+      },
+      {
+        "slug": "ben-hauser",
+        "name": "Ben Hauser",
+        "links": {
+          "github": "https://github.com/iamdefinitelyahuman"
+        },
+        "eips": [
+          2678,
+          2942
+        ]
+      },
+      {
+        "slug": "ahmad-bitar",
+        "name": "Ahmad Bitar",
+        "links": {
+          "github": "https://github.com/smartprogrammer93"
+        },
+        "emails": [
+          "smartprogrammer@windowslive.com"
+        ],
+        "eips": [
+          7542
+        ]
+      },
+      {
+        "slug": "sora-lee",
+        "name": "Sora Lee",
+        "links": {
+          "github": "https://github.com/soralit"
+        },
+        "eips": [
+          4527
+        ]
+      },
+      {
+        "slug": "andrew-cooke",
+        "name": "Andrew Cooke",
+        "emails": [
+          "ac0dem0nk3y@gmail.com"
+        ],
+        "eips": [
+          1155,
+          1761
+        ]
+      },
+      {
+        "slug": "fov-cao",
+        "name": "Fov Cao",
+        "links": {
+          "github": "https://github.com/fovcao"
+        },
+        "eips": [
+          5585
+        ]
+      },
+      {
+        "slug": "david-huber",
+        "name": "David Huber",
+        "links": {
+          "github": "https://github.com/cxkoda"
+        },
+        "eips": [
+          6464
+        ]
+      },
+      {
+        "slug": "roy",
+        "name": "Roy",
+        "links": {
+          "github": "https://github.com/royshang"
+        },
+        "eips": [
+          6787
+        ]
+      },
+      {
+        "slug": "abderrahmen-hanafi",
+        "name": "Abderrahmen Hanafi",
+        "links": {
+          "github": "https://github.com/a6-dou"
+        },
+        "eips": [
+          6865
+        ]
+      },
+      {
+        "slug": "brandon-grill",
+        "name": "Brandon Grill",
+        "emails": [
+          "bg2655@columbia.edu"
+        ],
+        "eips": [
+          918
         ]
       },
       {
@@ -341,6 +8947,28 @@
         "emails": [
           "hudson@ethereum.org",
           "hudson@hudsonjameson.com"
+        ],
+        "eips": [
+          1,
+          6
+        ]
+      },
+      {
+        "slug": "qi-zhou",
+        "name": "Qi Zhou",
+        "links": {
+          "github": "https://github.com/qizhou"
+        },
+        "eips": [
+          4804,
+          4972,
+          5018,
+          5027,
+          5478,
+          6150,
+          6821,
+          6860,
+          6944
         ]
       }
     ],
@@ -369,5 +8997,5 @@
       }
     ]
   },
-  "time": "2023-10-24T09:35:51.054Z"
+  "time": "2023-10-24T11:03:18.127Z"
 }
