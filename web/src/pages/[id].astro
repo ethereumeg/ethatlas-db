@@ -22,7 +22,9 @@ const item = bundle.data[catData.col].find(i => i.slug === Astro.params.id)
 	<h1 class="text-4xl">{item.name}</h1>
     <div class="mt-4">{item.description}</div>
 
-    <EIPList item={item} eips={eipsSrc.eips} />
+    {item.eips &&
+        <EIPList item={item} eips={eipsSrc.eips} />
+    }
 
     <h2 class="text-2xl mt-20 mb-4">Source</h2>
     <pre class="bg-gray-200 p-4 text-sm mb-4"><code>{JSON.stringify(item, null, 2)}</code></pre>
