@@ -23,4 +23,4 @@ extend:
 	deno run --unstable --allow-read --allow-write --allow-net utils/extend.js
 
 fmt:
-	deno fmt utils/*.js
+	deno fmt utils/*.js utils/extenders/*.js

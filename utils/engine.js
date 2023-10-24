@@ -49,7 +49,9 @@ export default class Engine {
           path.join(colDir, entry.name),
           entry.name,
         );
-        arr.push(item);
+        if (item) {
+          arr.push(item);
+        }
       }
       this.collections[colId] = arr;
     }
@@ -62,6 +64,10 @@ export default class Engine {
     // load index
     const indexFn = path.join(dir, "index.yaml");
 
+    if (!await exists(indexFn)) {
+      return null;
+    }
+
     const indexBase = await _yamlLoad(indexFn);
 
     // extensions
@@ -73,6 +79,17 @@ export default class Engine {
       return Deno.readTextFile(eegFn);
     }
 
+    // generic extensions
+    const generic = {};
+    for await (const entry of Deno.readDir(dir)) {
+      if (entry.name.match(/\.json$/)) {
+        Object.assign(
+          generic,
+          JSON.parse(await Deno.readTextFile(path.join(dir, entry.name))),
+        );
+      }
+    }
+
     // return item
     return {
       path: dir,
@@ -80,15 +97,18 @@ export default class Engine {
         eegid: await eegid(),
         slug: dirName,
       }, indexBase),
+      generic,
     };
   }
 
   async itemCreate(colId, slug, index) {
     const dir = this.path(this.config.dataDir, colId, slug);
-    if (await exists(dir)) {
-      throw Error(`Dir exists!: ${dir}`)
+    const indexFn = path.join(dir, "index.yaml");
+    if (await exists(indexFn)) {
+      throw Error(`Item exists!: ${dir}`);
     }
-    await ensureDir()
+    await ensureDir(dir);
+    await Deno.writeTextFile(indexFn, yaml.stringify(index));
   }
 
   path(...paths) {
@@ -124,7 +144,7 @@ export default class Engine {
     for (const colId in this.collections) {
       const arr = [];
       for (const item of this.collections[colId]) {
-        arr.push(item.index);
+        arr.push(Object.assign(item.index, item.generic));
       }
       data[colId] = arr;
     }
