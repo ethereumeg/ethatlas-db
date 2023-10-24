@@ -1,0 +1,21 @@
+---
+import { config } from '../config.js';
+const { bundle, cat } = Astro.props;
+
+const catData = config.categories.find(c => c.col === cat)
+
+---
+
+<div>
+    <h1 class="text-2xl mb-10">{catData.name}</h1>
+
+    <div class="">
+        {bundle.data[cat].map((item) => (
+            <div class="border p-3 mb-4">
+                <div class="text-lg">
+                    <a href={`/${item.slug}`} class="hover:underline">{item.name}</a>
+                </div>
+            </div>
+        ))}
+    <div>
+</div>

@@ -1,0 +1,21 @@
+---
+import { config } from '../config.js';
+import { loadBundle } from '../lib/bundle.js';
+import Layout from '../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+    const bundle = await loadBundle()
+	const ids = config.categories.reduce((arr, cat) => arr.concat(bundle.data[cat.col].map(i => i.slug)), [])
+    return ids.map(id => ({ params: { id }}))
+}
+
+const bundle = await loadBundle()
+const catData = config.categories.find(c => bundle.data[c.col].find(i => i.slug === Astro.params.id))
+const item = bundle.data[catData.col].find(i => i.slug === Astro.params.id)
+
+---
+
+<Layout>
+	<h1 class="text-4xl">{item.name}</h1>
+
+</Layout>

@@ -1,0 +1,35 @@
+---
+import { config } from '../config.js';
+import { loadBundle } from '../lib/bundle.js';
+const bundle = await loadBundle();
+
+---
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>ethcd - Ethereum Community Directory</title>
+	</head>
+	<body>
+        <div class="m-10 font-serif">
+            <div class="text-2xl">Ethereum Community Directory</div>
+
+            <div class="flex mt-10">
+                <div class="w-64">
+                    <ul>
+                        {config.categories.map((cat) => (
+                            <li class="text-xl mb-3">
+                                <a href={`/category/${cat.col}`} class="hover:underline">{cat.name}</a> ({bundle.data[cat.col]?.length})
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+                <div class="grow">
+                    <slot />
+                </div>
+            </div>
+        </div>
+	</body>
+</html>

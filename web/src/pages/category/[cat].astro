@@ -1,0 +1,18 @@
+---
+import { config } from '../../config.js';
+import { loadBundle } from '../../lib/bundle.js';
+
+import Layout from '../../layouts/Layout.astro';
+import ItemList from '../../components/ItemList.astro';
+
+export function getStaticPaths() {
+	return config.categories.map(c => ({ params: { cat: c.col } }))
+}
+
+const bundle = await loadBundle()
+
+---
+
+<Layout>
+    <ItemList bundle={bundle} cat={Astro.params.cat} />
+</Layout>
