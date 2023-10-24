@@ -101,7 +101,7 @@ export async function process(db, _) {
       }
       await Deno.writeTextFile(
         [dbItem.path, "eips.json"].join("/"),
-        JSON.stringify({ eips: p.eips }, null, 2),
+        JSON.stringify({ eips: p.eips.sort((x, y) => x > y ? 1 : -1) }, null, 2),
       );
       continue;
     }
