@@ -21,7 +21,7 @@ const bundle = await loadBundle();
                     <ul>
                         {config.categories.map((cat) => (
                             <li class="text-xl mb-3">
-                                <a href={`/category/${cat.col}`} class="hover:underline">{cat.name}</a> ({bundle.data[cat.col]?.length})
+                                <a href={`/category/${cat.col}`} class="hover:underline">{cat.name}</a>
                             </li>
                         ))}
                     </ul>

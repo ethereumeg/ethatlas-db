@@ -1,3 +1,7 @@
 name: Vitalik Buterin
 links:
+  github: https://github.com/vbuterin
   twitter: https://twitter.com/VitalikButerin
+emails:
+  - vitalik.buterin@ethereum.org
+  - vitalik@ethereum.org

@@ -30,3 +30,8 @@ properties:
     additionalProperties:
       type: string
       format: uri
+  emails:
+    type: array
+    items:
+      type: string
+      format: email

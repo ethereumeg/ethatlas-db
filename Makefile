@@ -19,5 +19,8 @@ consolidate:
 	mkdir ./output/data
 	cp ./dist/bundle.json ./output/data/index.json
 
+extend:
+	deno run --unstable --allow-read --allow-write --allow-net utils/extend.js
+
 fmt:
 	deno fmt utils/*.js

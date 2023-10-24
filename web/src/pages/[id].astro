@@ -17,5 +17,9 @@ const item = bundle.data[catData.col].find(i => i.slug === Astro.params.id)
 
 <Layout>
 	<h1 class="text-4xl">{item.name}</h1>
+    <div class="mt-4">{item.description}</div>
 
+    <pre class="bg-gray-200 mt-20 p-4 text-sm mb-4"><code>{JSON.stringify(item, null, 2)}</code></pre>
+
+    <a href={`https://github.com/ethereumeg/ethcd/edit/main/data/${catData.col}/${item.slug}/index.yaml`}>Edit this item</a>
 </Layout>

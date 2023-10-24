@@ -8,3 +8,5 @@ collections:
   people:
     model: person
   projects: {}
+extenders:
+  eips: {}
