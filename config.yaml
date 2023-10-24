@@ -1,0 +1,10 @@
+models:
+  group: {}
+  person: {}
+collections:
+  collectives:
+    model: group
+  companies: {}
+  people:
+    model: person
+  projects: {}

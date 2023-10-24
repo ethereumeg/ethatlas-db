@@ -1,10 +1,13 @@
 type: object
 additionalProperties: false
 required:
-  - id
+  - slug
   - name
 properties:
-  id:
+  eegid:
+    type: string
+    pattern: "^[a-f0-9]{3,6}$"
+  slug:
     type: string
     pattern: "^[a-z0-9-]+$"
   name:
