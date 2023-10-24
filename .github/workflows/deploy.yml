@@ -32,6 +32,20 @@ jobs:
 #      - name: Build changelog
 #        run: make changelog
 
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install web dependencies
+        run: cd web && npm ci
+
+      - name: Build web frontend
+        run: make build-web
+      
+      - name: Consolidate build
+        run: make consolidate
+
       - name: Add custom domain
         run: "touch output/CNAME && echo \"cd.ethevents.club\" >> output/CNAME"
 

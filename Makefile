@@ -1,11 +1,13 @@
 .PHONY: all build
 
-all: test build build-web consolidate
+all: test build-data
 
 test:
 	deno test --unstable --allow-read utils/exec.js
 
-build:
+build-all: test build-data build-web consolidate
+
+build-data:
 	deno run --unstable --allow-read --allow-write utils/exec.js build
 
 build-web:
