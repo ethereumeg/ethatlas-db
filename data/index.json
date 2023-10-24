@@ -5170,30 +5170,6 @@
         ]
       },
       {
-        "slug": "lightclient",
-        "name": "Lightclient",
-        "links": {
-          "github": "https://github.com/lightclient"
-        },
-        "eips": [
-          2733,
-          2780,
-          2938,
-          3074,
-          3521,
-          3540,
-          3756,
-          4444,
-          4788,
-          4844,
-          6206,
-          6493,
-          6968,
-          7329,
-          7377
-        ]
-      },
-      {
         "slug": "francesco-sullo",
         "name": "Francesco Sullo",
         "links": {
@@ -6403,6 +6379,30 @@
         "eips": [
           3156,
           3234
+        ]
+      },
+      {
+        "slug": "matt-garnett",
+        "name": "Matt Garnett",
+        "links": {
+          "github": "https://github.com/lightclient"
+        },
+        "eips": [
+          2733,
+          2780,
+          2938,
+          3074,
+          3521,
+          3540,
+          3756,
+          4444,
+          4788,
+          4844,
+          6206,
+          6493,
+          6968,
+          7329,
+          7377
         ]
       },
       {
@@ -8951,5 +8951,5 @@
       }
     ]
   },
-  "time": "2023-10-24T12:02:46.160Z"
+  "time": "2023-10-24T23:26:53.690Z"
 }
