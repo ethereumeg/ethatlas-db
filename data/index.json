@@ -80,6 +80,14 @@
         }
       },
       {
+        "eegid": "ee4",
+        "slug": "web3privacy",
+        "name": "Web3Privacy Now",
+        "links": {
+          "twitter": "https://twitter.com/web3privacy"
+        }
+      },
+      {
         "slug": "ethmagicians",
         "name": "Fellowship of Ethereum Magicians",
         "abbreviations": [
@@ -137,14 +145,6 @@
         "links": {
           "web": "https://www.ethereumcatherders.com/",
           "twitter": "https://twitter.com/EthCatHerders"
-        }
-      },
-      {
-        "eegid": "ee4",
-        "slug": "w3pn",
-        "name": "Web3Privacy Now",
-        "links": {
-          "twitter": "https://twitter.com/web3privacy"
         }
       },
       {
@@ -300,25 +300,56 @@
         }
       },
       {
+        "slug": "micah-zoltu",
+        "name": "Micah Zoltu",
+        "links": {
+          "github": "https://github.com/MicahZoltu"
+        }
+      },
+      {
         "eegid": "20b",
         "slug": "vitalik-buterin",
         "name": "Vitalik Buterin",
         "links": {
+          "github": "https://github.com/vbuterin",
           "twitter": "https://twitter.com/VitalikButerin"
-        }
+        },
+        "emails": [
+          "vitalik.buterin@ethereum.org",
+          "vitalik@ethereum.org"
+        ]
       },
       {
         "slug": "mario-havel",
         "name": "Mario Havel",
         "links": {
-          "twitter": "https://twitter.com/TMIYChao"
+          "twitter": "https://twitter.com/TMIYChao",
+          "github": "https://github.com/taxmeifyoucan"
         }
+      },
+      {
+        "slug": "peter-szilagyi",
+        "name": "Péter Szilágyi",
+        "emails": [
+          "peterke@gmail.com",
+          "peter@ethereum.org"
+        ]
       }
     ],
     "projects": [
       {
         "slug": "gnosis-chain",
         "name": "Gnosis Chain"
+      },
+      {
+        "slug": "eas",
+        "name": "Ethereum Attestation Service",
+        "abbreviations": [
+          "EAS"
+        ],
+        "links": {
+          "web": "https://attest.sh/"
+        }
       },
       {
         "slug": "railgun",
@@ -330,5 +361,5 @@
       }
     ]
   },
-  "time": "2023-10-24T03:28:49.916Z"
+  "time": "2023-10-24T09:00:44.402Z"
 }
