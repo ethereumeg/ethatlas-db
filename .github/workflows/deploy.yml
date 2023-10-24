@@ -32,8 +32,8 @@ jobs:
 #      - name: Build changelog
 #        run: make changelog
 
-#      - name: Add custom domain
-#        run: "touch dist/CNAME && echo \"chronicle.ethevents.club\" >> dist/CNAME"
+      - name: Add custom domain
+        run: "touch dist/CNAME && echo \"cd.ethevents.club\" >> dist/CNAME"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
