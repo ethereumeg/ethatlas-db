@@ -74,6 +74,7 @@ export default class Engine {
 
     // return item
     return {
+      path: dir,
       index: Object.assign({
         eegid: await eegid(),
         slug: dirName,

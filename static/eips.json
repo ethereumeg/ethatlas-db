@@ -1,0 +1,730 @@
+{
+  "time": "2023-10-24T09:33:42.489Z",
+  "eips": [
+    {
+      "eip": 1,
+      "title": "EIP Purpose and Guidelines",
+      "status": "Living",
+      "type": "Meta",
+      "author": "Martin Becze <mb@ethereum.org>, Hudson Jameson <hudson@ethereum.org>, et al.",
+      "created": "2015-10-27T00:00:00.000Z"
+    },
+    {
+      "eip": 2,
+      "title": "Homestead Hard-fork Changes",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2015-11-15T00:00:00.000Z"
+    },
+    {
+      "eip": 6,
+      "title": "Renaming SUICIDE opcode",
+      "author": "Hudson Jameson <hudson@hudsonjameson.com>",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Interface",
+      "created": "2015-11-22T00:00:00.000Z"
+    },
+    {
+      "eip": 7,
+      "title": "DELEGATECALL",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2015-11-15T00:00:00.000Z"
+    },
+    {
+      "eip": 20,
+      "title": "Token Standard",
+      "author": "Fabian Vogelsteller <fabian@ethereum.org>, Vitalik Buterin <vitalik.buterin@ethereum.org>",
+      "type": "Standards Track",
+      "category": "ERC",
+      "status": "Final",
+      "created": "2015-11-19T00:00:00.000Z"
+    },
+    {
+      "eip": 55,
+      "title": "Mixed-case checksum address encoding",
+      "author": "Vitalik Buterin <vitalik.buterin@ethereum.org>, Alex Van de Sande <avsa@ethereum.org>",
+      "discussions-to": "https://github.com/ethereum/eips/issues/55",
+      "type": "Standards Track",
+      "category": "ERC",
+      "status": "Final",
+      "created": "2016-01-14T00:00:00.000Z"
+    },
+    {
+      "eip": 86,
+      "title": "Abstraction of transaction origin and signature",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Stagnant",
+      "created": "2017-02-10T00:00:00.000Z"
+    },
+    {
+      "eip": 100,
+      "title": "Change difficulty adjustment to target mean block time including uncles",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2016-04-28T00:00:00.000Z"
+    },
+    {
+      "eip": 101,
+      "title": "Serenity Currency and Crypto Abstraction",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2015-11-15T00:00:00.000Z"
+    },
+    {
+      "eip": 150,
+      "title": "Gas cost changes for IO-heavy operations",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2016-09-24T00:00:00.000Z"
+    },
+    {
+      "eip": 155,
+      "title": "Simple replay attack protection",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2016-10-14T00:00:00.000Z"
+    },
+    {
+      "eip": 158,
+      "title": "State clearing",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2016-10-16T00:00:00.000Z"
+    },
+    {
+      "eip": 160,
+      "title": "EXP cost increase",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2016-10-20T00:00:00.000Z"
+    },
+    {
+      "eip": 170,
+      "title": "Contract code size limit",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2016-11-04T00:00:00.000Z"
+    },
+    {
+      "eip": 197,
+      "title": "Precompiled contracts for optimal ate pairing check on the elliptic curve alt_bn128",
+      "author": "Vitalik Buterin <vitalik@ethereum.org>, Christian Reitwiessner <chris@ethereum.org>",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2017-02-06T00:00:00.000Z"
+    },
+    {
+      "eip": 198,
+      "title": "Big integer modular exponentiation",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2017-01-30T00:00:00.000Z"
+    },
+    {
+      "eip": 210,
+      "title": "Blockhash refactoring",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Stagnant",
+      "created": "2017-02-10T00:00:00.000Z"
+    },
+    {
+      "eip": 214,
+      "title": "New opcode STATICCALL",
+      "author": "Vitalik Buterin <vitalik@ethereum.org>, Christian Reitwiessner <chris@ethereum.org>",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2017-02-13T00:00:00.000Z"
+    },
+    {
+      "eip": 225,
+      "title": "Clique proof-of-authority consensus protocol",
+      "author": "Péter Szilágyi <peterke@gmail.com>",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/225",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2017-03-06T00:00:00.000Z"
+    },
+    {
+      "eip": 234,
+      "title": "Add `blockHash` to JSON-RPC filter options.",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/234",
+      "type": "Standards Track",
+      "category": "Interface",
+      "status": "Final",
+      "created": "2017-03-24T00:00:00.000Z",
+      "requires": 1474
+    },
+    {
+      "eip": 600,
+      "title": "Ethereum purpose allocation for Deterministic Wallets",
+      "author": "Nick Johnson (@arachnid), Micah Zoltu (@micahzoltu)",
+      "type": "Standards Track",
+      "category": "ERC",
+      "status": "Final",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-erc-app-keys-application-specific-wallet-accounts/2742",
+      "created": "2017-04-13T00:00:00.000Z"
+    },
+    {
+      "eip": 601,
+      "title": "Ethereum hierarchy for deterministic wallets",
+      "author": "Nick Johnson (@arachnid), Micah Zoltu (@micahzoltu)",
+      "type": "Standards Track",
+      "category": "ERC",
+      "status": "Final",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-erc-app-keys-application-specific-wallet-accounts/2742",
+      "created": "2017-04-13T00:00:00.000Z"
+    },
+    {
+      "eip": 649,
+      "title": "Metropolis Difficulty Bomb Delay and Block Reward Reduction",
+      "author": "Afri Schoedon (@5chdn), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/649",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Final",
+      "created": "2017-06-21T00:00:00.000Z"
+    },
+    {
+      "eip": 684,
+      "title": "Revert creation in case of collision",
+      "description": "Revert contract creation if address already has code",
+      "author": "Vitalik Buterin (@vbuterin), Renan Rodrigues de Souza (@RenanSouza2)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-revert-on-address-collision/13442",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-03-20T00:00:00.000Z"
+    },
+    {
+      "eip": 706,
+      "title": "DEVp2p snappy compression",
+      "author": "Péter Szilágyi <peter@ethereum.org>",
+      "type": "Standards Track",
+      "category": "Networking",
+      "status": "Final",
+      "created": "2017-09-07T00:00:00.000Z"
+    },
+    {
+      "eip": 908,
+      "title": "Reward clients for a sustainable network",
+      "author": "James Ray (@jamesray1), Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-908-reward-full-nodes-and-clients/241",
+      "status": "Withdrawn",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2018-03-01T00:00:00.000Z"
+    },
+    {
+      "eip": 1014,
+      "title": "Skinny CREATE2",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "category": "Core",
+      "type": "Standards Track",
+      "status": "Final",
+      "created": "2018-04-20T00:00:00.000Z"
+    },
+    {
+      "eip": 1240,
+      "title": "Remove Difficulty Bomb",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/difficulty-bomb-removal/832",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Withdrawn",
+      "created": "2018-07-21T00:00:00.000Z"
+    },
+    {
+      "eip": 1559,
+      "title": "Fee market change for ETH 1.0 chain",
+      "author": "Vitalik Buterin (@vbuterin), Eric Conner (@econoar), Rick Dudley (@AFDudley), Matthew Slipper (@mslipper), Ian Norden (@i-norden), Abdelhamid Bakhta (@abdelhamidbakhta)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-1559-fee-market-change-for-eth-1-0-chain/2783",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2019-04-13T00:00:00.000Z",
+      "requires": "2718, 2930"
+    },
+    {
+      "eip": 2124,
+      "title": "Fork identifier for chain compatibility checks",
+      "author": "Péter Szilágyi <peterke@gmail.com>, Felix Lange <fjl@ethereum.org>",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/2125",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Networking",
+      "created": "2019-05-03T00:00:00.000Z"
+    },
+    {
+      "eip": 2364,
+      "title": "eth/64: forkid-extended protocol handshake",
+      "description": "Introduces validation of the `forkid` when handshaking with peers.",
+      "author": "Péter Szilágyi <peterke@gmail.com>, Péter Szilágyi (@karalabe), Tim Beiko (@timbeiko)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/2365",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Networking",
+      "created": "2019-11-08T00:00:00.000Z",
+      "requires": 2124
+    },
+    {
+      "eip": 2464,
+      "title": "eth/65: transaction announcements and retrievals",
+      "description": "Introduces `NewPooledTransactionHashes`, `GetPooledTransactions`, and `PooledTransactions`.",
+      "author": "Péter Szilágyi <peterke@gmail.com>, Péter Szilágyi (@karalabe), Gary Rong <garyrong0905@gmail.com>, Tim Beiko (@timbeiko)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/2465",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Networking",
+      "created": "2020-01-13T00:00:00.000Z",
+      "requires": 2364
+    },
+    {
+      "eip": 2696,
+      "title": "JavaScript `request` method RPC transport",
+      "author": "Micah Zoltu (@MicahZoltu), Erik Marks (@rekmarks)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/2697",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Interface",
+      "created": "2020-06-04T00:00:00.000Z"
+    },
+    {
+      "eip": 2700,
+      "title": "JavaScript Provider Event Emitter",
+      "author": "Micah Zoltu (@MicahZoltu), Erik Marks (@rekmarks)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/2701",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Interface",
+      "created": "2020-06-05T00:00:00.000Z"
+    },
+    {
+      "eip": 2711,
+      "title": "Sponsored, expiring and batch transactions.",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2711-separate-gas-payer-from-msg-sender/4353",
+      "status": "Withdrawn",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-06-11T00:00:00.000Z",
+      "requires": 2718
+    },
+    {
+      "eip": 2718,
+      "title": "Typed Transaction Envelope",
+      "description": "Defines a new transaction type that is an envelope for future transaction types.",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2718-typed-transaction-envelope/4355",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-06-13T00:00:00.000Z"
+    },
+    {
+      "eip": 2786,
+      "title": "Ethereum Provider Connect/Disconnect Events",
+      "author": "Micah Zoltu (@MicahZoltu), Erik Marks (@rekmarks)",
+      "discussions-to": "https://github.com/ethereum/EIPs/issues/2787",
+      "status": "Withdrawn",
+      "type": "Standards Track",
+      "category": "Interface",
+      "created": "2020-07-15T00:00:00.000Z",
+      "requires": 2700
+    },
+    {
+      "eip": 2803,
+      "title": "Rich Transactions",
+      "description": "Support 'rich transactions' by allowing transactions from externally owned accounts to execute bytecode directly.",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/rich-transactions-via-evm-bytecode-execution-from-externally-owned-accounts/4025",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-07-18T00:00:00.000Z"
+    },
+    {
+      "eip": 2929,
+      "title": "Gas cost increases for state access opcodes",
+      "author": "Vitalik Buterin (@vbuterin), Martin Swende (@holiman)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2929-gas-cost-increases-for-state-access-opcodes/4558",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-01T00:00:00.000Z"
+    },
+    {
+      "eip": 2930,
+      "title": "Optional access lists",
+      "author": "Vitalik Buterin (@vbuterin), Martin Swende (@holiman)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2930-optional-access-lists/4561",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-08-29T00:00:00.000Z",
+      "requires": "2718, 2929"
+    },
+    {
+      "eip": 2935,
+      "title": "Save historical block hashes in state",
+      "author": "Vitalik Buterin (@vbuterin), Tomasz Stanczak (@tkstanczak)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2935-save-historical-block-hashes-in-state/4565",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-03T00:00:00.000Z"
+    },
+    {
+      "eip": 2937,
+      "title": "SET_INDESTRUCTIBLE opcode",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2937-set-indestructible/4571",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-04T00:00:00.000Z"
+    },
+    {
+      "eip": 2938,
+      "title": "Account Abstraction",
+      "author": "Vitalik Buterin (@vbuterin), Ansgar Dietrichs (@adietrichs), Matt Garnett (@lightclient), Will Villanueva (@villanuevawill), Sam Wilson (@SamWilsn)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2938-account-abstraction/4630",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-04T00:00:00.000Z",
+      "requires": 2718
+    },
+    {
+      "eip": 2970,
+      "title": "IS_STATIC opcode",
+      "author": "Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/is-static-opcode-useful-for-aa/4609",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-13T00:00:00.000Z"
+    },
+    {
+      "eip": 2972,
+      "title": "Wrapped Legacy Transactions",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2972-wrapped-legacy-transactions/4604",
+      "status": "Withdrawn",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-12T00:00:00.000Z",
+      "requires": "155, 2718"
+    },
+    {
+      "eip": 2976,
+      "title": "Typed Transactions over Gossip",
+      "description": "Adds support for transmission of typed transactions over devp2p.",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2976-eth-typed-transactions-over-gossip/4610",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Networking",
+      "created": "2020-09-13T00:00:00.000Z",
+      "requires": 2718
+    },
+    {
+      "eip": 2982,
+      "title": "Serenity Phase 0",
+      "description": "Phase 0 of the release schedule of Serenity, a series of updates to Ethereum a scalable, proof-of-stake consensus",
+      "author": "Danny Ryan (@djrtwo), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/serenity-phase-0-eip/4621",
+      "status": "Final",
+      "type": "Informational",
+      "created": "2020-09-15T00:00:00.000Z"
+    },
+    {
+      "eip": 3074,
+      "title": "AUTH and AUTHCALL opcodes",
+      "description": "Allow externally owned accounts to delegate control to a contract.",
+      "author": "Sam Wilson (@SamWilsn), Ansgar Dietrichs (@adietrichs), Matt Garnett (@lightclient), Micah Zoltu (@micahzoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-3074-sponsored-transaction-precompile/4880",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-10-15T00:00:00.000Z",
+      "requires": 155
+    },
+    {
+      "eip": 3102,
+      "title": "Binary trie structure",
+      "author": "Guillaume Ballet (@gballet), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethresear.ch/t/binary-trie-format/7621",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2020-09-01T00:00:00.000Z"
+    },
+    {
+      "eip": 3198,
+      "title": "BASEFEE opcode",
+      "author": "Abdelhamid Bakhta (@abdelhamidbakhta), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-3198-basefeeopcode/5162",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2021-01-13T00:00:00.000Z",
+      "requires": 1559
+    },
+    {
+      "eip": 3298,
+      "title": "Removal of refunds",
+      "author": "Vitalik Buterin (@vbuterin), Martin Swende (@holiman)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-3298-removal-of-refunds/5430",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2021-02-26T00:00:00.000Z"
+    },
+    {
+      "eip": 3338,
+      "title": "Limit account nonce to 2^52",
+      "author": "Micah Zoltu (@MicahZoltu), Alex Beregszaszi (@axic)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-2681-limit-account-nonce-to-2-64-1/4324",
+      "status": "Withdrawn",
+      "withdrawal-reason": "Withdrawn in favor of [EIP-2681](./eip-2681.md)",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2021-03-07T00:00:00.000Z"
+    },
+    {
+      "eip": 3403,
+      "title": "Partial removal of refunds",
+      "author": "Vitalik Buterin (@vbuterin), Martin Swende (@holiman)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-3298-removal-of-refunds/5430",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2021-03-16T00:00:00.000Z"
+    },
+    {
+      "eip": 3529,
+      "title": "Reduction in refunds",
+      "author": "Vitalik Buterin (@vbuterin), Martin Swende (@holiman)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-3529-reduction-in-refunds-alternative-to-eip-3298-and-3403-that-better-preserves-existing-clearing-incentives/6097",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2021-04-22T00:00:00.000Z",
+      "requires": "2200, 2929, 2930"
+    },
+    {
+      "eip": 3675,
+      "title": "Upgrade consensus to Proof-of-Stake",
+      "description": "Specification of the consensus mechanism upgrade on Ethereum Mainnet that introduces Proof-of-Stake",
+      "author": "Mikhail Kalinin (@mkalinin), Danny Ryan (@djrtwo), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-3675-upgrade-consensus-to-proof-of-stake/6706",
+      "status": "Final",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2021-07-22T00:00:00.000Z",
+      "requires": 2124
+    },
+    {
+      "eip": 4337,
+      "title": "Account Abstraction Using Alt Mempool",
+      "description": "An account abstraction proposal which completely avoids consensus-layer protocol changes, instead relying on higher-layer infrastructure.",
+      "author": "Vitalik Buterin (@vbuterin), Yoav Weiss (@yoavw), Dror Tirosh (@drortirosh), Shahaf Nacson (@shahafn), Alex Forshtat (@forshtat), Kristof Gazso (@kristofgazso), Tjaden Hess (@tjade273)",
+      "discussions-to": "https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "ERC",
+      "created": "2021-09-29T00:00:00.000Z"
+    },
+    {
+      "eip": 4488,
+      "title": "Transaction calldata gas cost reduction with total calldata limit",
+      "description": "Greatly decreases the gas cost of transaction calldata and simultaneously caps total transaction calldata in a block",
+      "author": "Vitalik Buterin (@vbuterin), Ansgar Dietrichs (@adietrichs)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-4488-transaction-calldata-gas-cost-reduction-with-total-calldata-limit/7555",
+      "type": "Standards Track",
+      "category": "Core",
+      "status": "Stagnant",
+      "created": "2021-11-23T00:00:00.000Z"
+    },
+    {
+      "eip": 4758,
+      "title": "Deactivate SELFDESTRUCT",
+      "description": "Deactivate SELFDESTRUCT by changing it to SENDALL, which does recover all funds to the caller but does not delete any code or storage.",
+      "author": "Guillaume Ballet (@gballet), Vitalik Buterin (@vbuterin), Dankrad Feist (@dankrad)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2022-02-03T00:00:00.000Z"
+    },
+    {
+      "eip": 4760,
+      "title": "SELFDESTRUCT bomb",
+      "description": "Deactivate SELFDESTRUCT by changing it to SENDALL and stage this via a stage of exponential gas cost increases.",
+      "author": "Guillaume Ballet (@gballet), Vitalik Buterin (@vbuterin), Dankrad Feist (@dankrad)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-4760-selfdestruct-bomb/8713",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2022-02-03T00:00:00.000Z"
+    },
+    {
+      "eip": 4762,
+      "title": "Statelessness gas cost changes",
+      "description": "Changes the gas schedule to reflect the costs of creating a witness by requiring clients update their database layout to match.",
+      "author": "Guillaume Ballet (@gballet), Vitalik Buterin (@vbuterin), Dankrad Feist (@dankrad)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-4762-statelessness-gas-cost-changes/8714",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2022-02-03T00:00:00.000Z"
+    },
+    {
+      "eip": 4844,
+      "title": "Shard Blob Transactions",
+      "description": "Shard Blob Transactions scale data-availability of Ethereum in a simple, forwards-compatible manner.",
+      "author": "Vitalik Buterin (@vbuterin), Dankrad Feist (@dankrad), Diederik Loerakker (@protolambda), George Kadianakis (@asn-d6), Matt Garnett (@lightclient), Mofi Taiwo (@Inphi), Ansgar Dietrichs (@adietrichs)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-4844-shard-blob-transactions/8430",
+      "status": "Review",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2022-02-25T00:00:00.000Z",
+      "requires": "1559, 2718, 2930, 4895"
+    },
+    {
+      "eip": 5114,
+      "title": "Soulbound Badge",
+      "description": "A token that is attached to a \"soul\" at mint time and cannot be transferred after that.",
+      "author": "Micah Zoltu (@MicahZoltu)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-5114-soulbound-token/9417",
+      "status": "Last Call",
+      "last-call-deadline": "2023-09-19T00:00:00.000Z",
+      "type": "Standards Track",
+      "category": "ERC",
+      "created": "2022-05-30T00:00:00.000Z"
+    },
+    {
+      "eip": 5564,
+      "title": "Stealth Addresses",
+      "description": "Private, non-interactive transfers and interactions",
+      "author": "Toni Wahrstätter (@nerolation), Matt Solomon (@mds1), Ben DiFrancesco (@apbendi), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-5566-stealth-addresses-for-smart-contract-wallets/10614",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "ERC",
+      "created": "2022-08-13T00:00:00.000Z"
+    },
+    {
+      "eip": 6404,
+      "title": "SSZ Transactions Root",
+      "description": "Migration of transactions MPT commitment to SSZ",
+      "author": "Etan Kissling (@etan-status), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-6404-ssz-transactions-root/12783",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-01-30T00:00:00.000Z",
+      "requires": "6493, 7495"
+    },
+    {
+      "eip": 6466,
+      "title": "SSZ Receipts Root",
+      "description": "Migration of receipts MPT commitment to SSZ",
+      "author": "Etan Kissling (@etan-status), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-6466-ssz-receipts-root/12884",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-02-08T00:00:00.000Z",
+      "requires": "6404, 6493"
+    },
+    {
+      "eip": 6493,
+      "title": "SSZ Transaction Signature Scheme",
+      "description": "Signature scheme for SSZ transactions",
+      "author": "Etan Kissling (@etan-status), Matt Garnett (@lightclient), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/eip-6493-ssz-transaction-signature-scheme/13050",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-02-24T00:00:00.000Z",
+      "requires": "155, 191, 1559, 2718, 2930, 4844, 5793, 7495"
+    },
+    {
+      "eip": 6538,
+      "title": "Stealth Meta-Address Registry",
+      "description": "A registry to map addresses to stealth meta-addresses",
+      "author": "Matt Solomon (@mds1), Toni Wahrstätter (@nerolation), Ben DiFrancesco (@apbendi), Vitalik Buterin (@vbuterin)",
+      "discussions-to": "https://ethereum-magicians.org/t/stealth-meta-address-registry/12888",
+      "status": "Stagnant",
+      "type": "Standards Track",
+      "category": "ERC",
+      "created": "2023-01-24T00:00:00.000Z"
+    },
+    {
+      "eip": 6780,
+      "title": "SELFDESTRUCT only in same transaction",
+      "description": "SELFDESTRUCT will recover all funds to the caller but not delete the account, except when called in the same transaction as creation",
+      "author": "Guillaume Ballet (@gballet), Vitalik Buterin (@vbuterin), Dankrad Feist (@dankrad)",
+      "discussions-to": "https://ethereum-magicians.org/t/deactivate-selfdestruct-except-where-it-occurs-in-the-same-transaction-in-which-a-contract-was-created/13539",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-03-25T00:00:00.000Z",
+      "requires": "2681, 2929, 3529"
+    },
+    {
+      "eip": 6800,
+      "title": "Ethereum state using a unified verkle tree",
+      "description": "This introduces a new Verkle state tree alongside the existing MPT.",
+      "author": "Vitalik Buterin (@vbuterin), Dankrad Feist (@dankrad), Kevaundray Wedderburn (@kevaundray), Guillaume Ballet (@gballet), Piper Merriam (@pipermerriam), Gottfried Herold (@GottfriedHerold)",
+      "discussions-to": "https://ethereum-magicians.org/t/proposed-verkle-tree-scheme-for-ethereum-state/5805",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-03-17T00:00:00.000Z",
+      "requires": 6780
+    },
+    {
+      "eip": 6916,
+      "title": "Automatically Reset Tesnet",
+      "description": "A testnet network that periodically rolls back to genesis",
+      "author": "Mário Havel (@taxmeifyoucan), pk910 (@pk910), Rémy Roy (@remyroy)",
+      "discussions-to": "https://ethereum-magicians.org/t/automatically-reset-testnet/15825",
+      "status": "Draft",
+      "type": "Standards Track",
+      "category": "Core",
+      "created": "2023-04-10T00:00:00.000Z"
+    }
+  ]
+}

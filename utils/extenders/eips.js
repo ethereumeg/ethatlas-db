@@ -1,8 +1,9 @@
+
 export async function process(db, _) {
     const authors = {}
     const $ = await _.loadHtmlUrl("https://eips.ethereum.org/all")
     for (const el of $('table.eiptable tr').toArray()) {
-        const eipnum = $('td.eipnum a', el).text()
+        const eipnum = Number($('td.eipnum a', el).text())
         for (const a of $('td.author', el).text().split(', ')) {
             if (!a) {
                 continue
@@ -70,14 +71,34 @@ export async function process(db, _) {
 
     // finishing, modify or create people
 
+    const eipsComplete = {}
+
     for (const p of matrix) {
         if (p.slug) {
             console.log(`${p.info.name} => ${p.slug} (auto)`)
+            const dbItem = db.collections.people.find(pi => pi.index.slug === p.slug)
+            for (const eip of p.eips) {
+                if (!eipsComplete[eip]) {
+                    const resp = await _.loadUrl(`https://raw.githubusercontent.com/ethereum/EIPs/master/EIPS/eip-${eip}.md`)
+                    const respData = resp.split('---')
+                    const eipData = _.yaml.parse(respData[1])
+                    eipsComplete[eip] = eipData
+                }
+
+            }
+            await Deno.writeTextFile([dbItem.path,'eips.json'].join('/'), JSON.stringify({ eips: p.eips }, null, 2))
             continue
         }
         const duplicates = []
+        //console.log(p.info.name)
 
-        console.log(`-----\n${p.info.name} (${JSON.stringify(p)})\n`)
-        prompt("Do you want to create new one?")
+        //console.log(`-----\n${p.info.name} (${JSON.stringify(p)})\n`)
+        //prompt("Do you want to create new one?")
     }
+
+    const output = {
+        time: new Date,
+        eips: Object.values(eipsComplete),
+    }
+    Deno.writeTextFile('./static/eips.json', JSON.stringify(output, null, 2))
 }
