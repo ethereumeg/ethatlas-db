@@ -1,0 +1,334 @@
+{
+  "data": {
+    "collectives": [
+      {
+        "slug": "w3blab",
+        "name": "W3B Lab",
+        "abbreviations": [
+          "W3BLab"
+        ],
+        "countries": [
+          "nl",
+          "es",
+          "de",
+          "pt"
+        ],
+        "links": {
+          "web": "https://w3blab.io/"
+        }
+      },
+      {
+        "eegid": "ee0",
+        "slug": "eeg",
+        "name": "Ethereum Event Gardeners",
+        "abbreviations": [
+          "EthereumEG",
+          "EEG"
+        ],
+        "links": {
+          "web": "https://ethevents.club",
+          "twitter": "https://twitter.com/EthereumEG"
+        }
+      },
+      {
+        "eegid": "fa8",
+        "slug": "gwei-cz",
+        "name": "Gwei.cz",
+        "countries": [
+          "cz",
+          "sk"
+        ],
+        "languages": [
+          "cs",
+          "sk",
+          "en"
+        ],
+        "cities": [
+          "Prague, CZ",
+          "Brno, CZ"
+        ],
+        "founded": "2020-01-19",
+        "features": [
+          "non-profit",
+          "meetups"
+        ],
+        "links": {
+          "web": "https://gwei.cz",
+          "twitter": "https://twitter.com/gweicz"
+        }
+      },
+      {
+        "slug": "beerfi",
+        "name": "BeerFi Prague",
+        "abbreviations": [
+          "BeerFi"
+        ],
+        "countries": [
+          "cz"
+        ],
+        "languages": [
+          "en"
+        ],
+        "cities": [
+          "Prague, CZ"
+        ],
+        "features": [
+          "meetups"
+        ],
+        "links": {
+          "web": "https://beerfi.gwei.cz"
+        }
+      },
+      {
+        "slug": "ethmagicians",
+        "name": "Fellowship of Ethereum Magicians",
+        "abbreviations": [
+          "Ethereum Magicians",
+          "EthMagicians"
+        ],
+        "links": {
+          "web": "https://ethereum-magicians.org/",
+          "twitter": "https://twitter.com/EthMagicians"
+        }
+      },
+      {
+        "slug": "urbe-eth",
+        "name": "urbe.eth",
+        "countries": [
+          "it"
+        ],
+        "languages": [
+          "it",
+          "en"
+        ],
+        "cities": [
+          "Rome, IT"
+        ],
+        "features": [
+          "non-profit",
+          "meetups"
+        ],
+        "links": {
+          "linktree": "https://linktr.ee/urbe.eth",
+          "twitter": "https://twitter.com/urbeEth"
+        }
+      },
+      {
+        "slug": "ethereum-ba",
+        "name": "Ethereum Buenos Aires",
+        "countries": [
+          "ar"
+        ],
+        "cities": [
+          "Buenos Aires, AR"
+        ],
+        "links": {
+          "web": "https://ethereumba.com/",
+          "meetup": "https://www.meetup.com/ethereum-ba/"
+        }
+      },
+      {
+        "slug": "ech",
+        "name": "Ethereum Cat Herders",
+        "abbreviations": [
+          "EthCatHerders",
+          "ECH"
+        ],
+        "links": {
+          "web": "https://www.ethereumcatherders.com/",
+          "twitter": "https://twitter.com/EthCatHerders"
+        }
+      },
+      {
+        "eegid": "ee4",
+        "slug": "w3pn",
+        "name": "Web3Privacy Now",
+        "links": {
+          "twitter": "https://twitter.com/web3privacy"
+        }
+      },
+      {
+        "slug": "pretzeldao",
+        "name": "PretzelDAO",
+        "countries": [
+          "de"
+        ],
+        "cities": [
+          "Munich, DE"
+        ],
+        "features": [
+          "dao"
+        ],
+        "links": {
+          "web": "https://www.pretzeldao.com/",
+          "twitter": "https://twitter.com/PretzelDAO"
+        }
+      },
+      {
+        "slug": "ethparaguay",
+        "name": "Ethereum Paraguay",
+        "countries": [
+          "py"
+        ],
+        "links": {
+          "twitter": "https://twitter.com/ethparaguay"
+        }
+      },
+      {
+        "slug": "cryptocanal",
+        "name": "CryptoCanal",
+        "countries": [
+          "nl",
+          "ch"
+        ],
+        "languages": [
+          "nl",
+          "en"
+        ],
+        "cities": [
+          "Amsterdam, NL",
+          "Rotterdam, NL",
+          "Zurich, CH"
+        ],
+        "features": [
+          "meetups"
+        ],
+        "links": {
+          "web": "https://www.cryptocanal.org/",
+          "linktree": "https://linktr.ee/cryptocanal",
+          "twitter": "https://twitter.com/CryptoCanal"
+        }
+      },
+      {
+        "slug": "kyiv-ethereum",
+        "name": "Kyiv Ethereum",
+        "countries": [
+          "ua"
+        ],
+        "languages": [
+          "uk",
+          "en"
+        ],
+        "cities": [
+          "Kyiv, UA"
+        ],
+        "features": [
+          "meetups"
+        ],
+        "links": {
+          "web": "https://kyivethereum.com/",
+          "twitter": "https://twitter.com/kyiv_ethereum"
+        }
+      },
+      {
+        "slug": "dod",
+        "name": "Department of Decentralization",
+        "abbreviations": [
+          "DoD"
+        ],
+        "countries": [
+          "de"
+        ],
+        "languages": [
+          "de",
+          "en"
+        ],
+        "cities": [
+          "Berlin, DE"
+        ],
+        "founded": "2018",
+        "features": [
+          "non-profit"
+        ],
+        "description": "Collective of people from various crypto, decentralization and peer-to-peer communities in and around Berlin. The group assembled in 2018 to organize ETHBerlin and has been active since.\n",
+        "links": {
+          "url": "https://dod.ngo/",
+          "twitter": "https://twitter.com/ETHBerlin"
+        }
+      }
+    ],
+    "companies": [
+      {
+        "slug": "ef",
+        "name": "Ethereum Foundation",
+        "links": {
+          "web": "https://ethereum.foundation"
+        }
+      },
+      {
+        "slug": "pse",
+        "name": "Privacy & Scaling Explorations",
+        "abbreviations": [
+          "PSE"
+        ],
+        "links": {
+          "web": "https://pse.dev/",
+          "twitter": "https://twitter.com/privacyscaling",
+          "discord": "https://discord.com/invite/sF5CT5rzrR",
+          "git": "https://github.com/privacy-scaling-explorations",
+          "mirror": "https://mirror.xyz/privacy-scaling-explorations.eth"
+        }
+      },
+      {
+        "slug": "arbitrum-foundation",
+        "name": "Arbitrum Foundation",
+        "links": {
+          "web": "https://arbitrum.foundation/"
+        }
+      }
+    ],
+    "people": [
+      {
+        "slug": "tree",
+        "name": "Tree",
+        "positions": [
+          {
+            "where": "~collective:fa8",
+            "role": "Founder"
+          },
+          {
+            "where": "~collective:ee4",
+            "role": "Events"
+          },
+          {
+            "where": "~collective:ee0",
+            "role": "Gardener"
+          }
+        ],
+        "links": {
+          "farcaster": "https://warpcast.com/tree"
+        }
+      },
+      {
+        "eegid": "20b",
+        "slug": "vitalik-buterin",
+        "name": "Vitalik Buterin",
+        "links": {
+          "twitter": "https://twitter.com/VitalikButerin"
+        }
+      },
+      {
+        "slug": "mario-havel",
+        "name": "Mario Havel",
+        "links": {
+          "twitter": "https://twitter.com/TMIYChao"
+        }
+      }
+    ],
+    "projects": [
+      {
+        "slug": "gnosis-chain",
+        "name": "Gnosis Chain"
+      },
+      {
+        "slug": "railgun",
+        "name": "RAILGUN",
+        "links": {
+          "web": "https://www.railgun.org/",
+          "twitter": "https://twitter.com/railgun_project"
+        }
+      }
+    ]
+  },
+  "time": "2023-10-24T01:22:43.761Z"
+}
