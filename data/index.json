@@ -3531,13 +3531,6 @@
         ]
       },
       {
-        "slug": "senor-doggo",
-        "name": "Señor Doggo",
-        "links": {
-          "github": "https://github.com/fubuloubu"
-        }
-      },
-      {
         "slug": "druzy-downs",
         "name": "Druzy Downs",
         "links": {
@@ -3945,13 +3938,6 @@
         ]
       },
       {
-        "slug": "phd",
-        "name": "PhD",
-        "emails": [
-          "david@iob.fi"
-        ]
-      },
-      {
         "slug": "luka-kacil",
         "name": "Luka Kacil",
         "emails": [
@@ -4083,13 +4069,6 @@
         ]
       },
       {
-        "slug": "qizhou",
-        "name": "qizhou",
-        "links": {
-          "github": "https://github.com/qizhou"
-        }
-      },
-      {
         "slug": "rj-catalano",
         "name": "RJ Catalano",
         "links": {
@@ -4138,13 +4117,6 @@
         "eips": [
           5791
         ]
-      },
-      {
-        "slug": "fubuloubu",
-        "name": "fubuloubu",
-        "links": {
-          "github": "https://github.com/fubuloubu"
-        }
       },
       {
         "slug": "joey-santoro",
@@ -6434,13 +6406,6 @@
         ]
       },
       {
-        "slug": "matt-garnett",
-        "name": "Matt Garnett",
-        "links": {
-          "github": "https://github.com/lightclient"
-        }
-      },
-      {
         "slug": "tom-carchrae",
         "name": "Tom Carchrae",
         "links": {
@@ -6859,13 +6824,6 @@
         "eips": [
           4361
         ]
-      },
-      {
-        "slug": "lion",
-        "name": "Lion",
-        "links": {
-          "github": "https://github.com/dapplion"
-        }
       },
       {
         "slug": "liszechung",
@@ -8560,10 +8518,6 @@
         ]
       },
       {
-        "slug": "portal-network-team",
-        "name": "Portal Network Team"
-      },
-      {
         "slug": "sean-ng",
         "name": "Sean NG",
         "links": {
@@ -8997,5 +8951,5 @@
       }
     ]
   },
-  "time": "2023-10-24T11:53:25.960Z"
+  "time": "2023-10-24T12:02:46.160Z"
 }
