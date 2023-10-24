@@ -334,6 +334,14 @@
           "peterke@gmail.com",
           "peter@ethereum.org"
         ]
+      },
+      {
+        "slug": "hudson-jameson",
+        "name": "Hudson Jameson",
+        "emails": [
+          "hudson@ethereum.org",
+          "hudson@hudsonjameson.com"
+        ]
       }
     ],
     "projects": [
@@ -361,5 +369,5 @@
       }
     ]
   },
-  "time": "2023-10-24T09:00:44.402Z"
+  "time": "2023-10-24T09:35:51.054Z"
 }
