@@ -1,0 +1,916 @@
+{
+  "members": [
+    {
+      "team": "Consensys DDS",
+      "name": "Chenyi Zhang",
+      "link": "https://github.com/czhang-fm",
+      "eegslug": "chenyi-zhang"
+    },
+    {
+      "team": "Consensys DDS",
+      "name": "Roberto Saltini",
+      "link": "https://github.com/saltiniroberto",
+      "eegslug": "roberto-saltini"
+    },
+    {
+      "team": "EF DevOps",
+      "name": "Andrew Davis",
+      "link": "https://github.com/Savid",
+      "eegslug": "andrew-davis"
+    },
+    {
+      "team": "EF DevOps",
+      "name": "Barnabas Busa",
+      "link": "https://github.com/barnabasbusa",
+      "eegslug": "barnabas-busa"
+    },
+    {
+      "team": "EF DevOps",
+      "name": "Parithosh Jayanthi",
+      "link": "https://github.com/parithosh",
+      "eegslug": "parithosh-jayanthi"
+    },
+    {
+      "team": "EF DevOps",
+      "name": "Rafael Matias",
+      "link": "https://github.com/skylenet",
+      "eegslug": "rafael-matias"
+    },
+    {
+      "team": "EF DevOps",
+      "name": "Sam Calder-Mason",
+      "link": "https://github.com/samcm",
+      "eegslug": "sam-calder-mason"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Felix Lange",
+      "link": "https://github.com/fjl",
+      "eegslug": "felix-lange"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Gary Rong",
+      "link": "https://github.com/rjl493456442",
+      "eegslug": "gary-rong"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Jared Wasinger",
+      "link": "https://github.com/jwasinger",
+      "eegslug": "jared-wasinger"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Marius van der Wijden",
+      "link": "https://github.com/MariusVanDerWijden",
+      "eegslug": "marius-van-der-wijden"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Martin Swende",
+      "link": "https://github.com/holiman",
+      "eegslug": "martin-holst-swende"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Matt Garnett",
+      "link": "https://github.com/lightclient",
+      "eegslug": "matt-garnett"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Peter Szilagyi",
+      "link": "https://github.com/karalabe",
+      "eegslug": "peter-szilagyi"
+    },
+    {
+      "team": "EF Geth",
+      "name": "Sina Mahmoodi",
+      "link": "https://github.com/s1na",
+      "eegslug": "sina-mahmoodi"
+    },
+    {
+      "team": "EF Ipsilon",
+      "name": "Alex Beregszaszi",
+      "link": "https://github.com/axic",
+      "eegslug": "alex-beregszaszi"
+    },
+    {
+      "team": "EF Ipsilon",
+      "name": "Andrei Maiboroda",
+      "link": "https://github.com/gumb0",
+      "eegslug": "andrei-maiboroda"
+    },
+    {
+      "team": "EF Ipsilon",
+      "name": "Jose Hugo de la cruz Romero",
+      "link": "https://github.com/hugo-dc",
+      "eegslug": "hugo-de-la-cruz"
+    },
+    {
+      "team": "EF Ipsilon",
+      "name": "Paweł Bylica",
+      "link": "https://github.com/chfast",
+      "eegslug": "pawel-bylica"
+    },
+    {
+      "team": "EF Ipsilon",
+      "name": "Radosław Zagórowicz",
+      "link": "https://github.com/rodiazet",
+      "eegslug": "radoslaw-zagorowicz"
+    },
+    {
+      "team": "EF JavaScript",
+      "name": "Amir Ghorbanian",
+      "link": "https://github.com/scorbajio",
+      "eegslug": "amir-ghorbanian"
+    },
+    {
+      "team": "EF JavaScript",
+      "name": "Andrew Day",
+      "link": "https://github.com/acolytec3",
+      "eegslug": "andrew-day"
+    },
+    {
+      "team": "EF JavaScript",
+      "name": "Gabriel",
+      "link": "https://github.com/gabrocheleau",
+      "eegslug": "gabriel"
+    },
+    {
+      "team": "EF JavaScript",
+      "name": "Holger Drewes",
+      "link": "https://github.com/holgerd77",
+      "eegslug": "holger-drewes"
+    },
+    {
+      "team": "EF JavaScript",
+      "name": "Jochem",
+      "link": "https://github.com/jochem-brouwer",
+      "eegslug": "jochem"
+    },
+    {
+      "team": "EF JavaScript",
+      "name": "Scotty Poi",
+      "link": "https://github.com/ScottyPoi",
+      "eegslug": "scotty-poi"
+    },
+    {
+      "team": "EF Portal",
+      "name": "Jacob Kaufmann",
+      "link": "https://github.com/jacobkaufmann",
+      "eegslug": "jacob-kaufmann"
+    },
+    {
+      "team": "EF Portal",
+      "name": "Jason Carver",
+      "link": "https://github.com/carver",
+      "eegslug": "jason-carver"
+    },
+    {
+      "team": "EF Portal",
+      "name": "Mike Ferris",
+      "link": "https://github.com/mrferris",
+      "eegslug": "mike-ferris"
+    },
+    {
+      "team": "EF Portal",
+      "name": "Nick Gheorghita",
+      "link": "https://github.com/njgheorghita",
+      "eegslug": "nick-gheorghita"
+    },
+    {
+      "team": "EF Portal",
+      "name": "Ognyan Genev",
+      "link": "https://github.com/ogenev",
+      "eegslug": "ognyan-genev"
+    },
+    {
+      "team": "EF Portal",
+      "name": "Piper Merriam",
+      "link": "https://github.com/pipermerriam",
+      "eegslug": "piper-merriam"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Danny Ryan",
+      "link": "https://github.com/djrtwo",
+      "eegslug": "danny-ryan"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Guru",
+      "link": "https://github.com/gurukamath",
+      "eegslug": "guru"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Mario Havel",
+      "link": "https://github.com/taxmeifyoucan",
+      "eegslug": "mario-havel"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Peter Davies",
+      "link": "https://github.com/petertdavies",
+      "eegslug": "peter-davies"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Sam Wilson",
+      "link": "https://github.com/SamWilsn",
+      "eegslug": "sam-wilson"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Tim Beiko",
+      "link": "https://github.com/timbeiko",
+      "eegslug": "tim-beiko"
+    },
+    {
+      "team": "EF Protocol Support",
+      "name": "Trenton Van Epps",
+      "link": "https://github.com/tvanepps",
+      "eegslug": "trenton-van-epps"
+    },
+    {
+      "team": "EF Research",
+      "name": "Aditya Asgaonkar",
+      "link": "https://github.com/adiasg",
+      "eegslug": "aditya"
+    },
+    {
+      "team": "EF Research",
+      "name": "Alex Stokes",
+      "link": "https://github.com/ralexstokes",
+      "eegslug": "alex-stokes"
+    },
+    {
+      "team": "EF Research",
+      "name": "Ansgar Dietrichs",
+      "link": "https://github.com/adietrichs",
+      "eegslug": "ansgar-dietrichs"
+    },
+    {
+      "team": "EF Research",
+      "name": "Antonio Sanso",
+      "link": "https://github.com/asanso",
+      "eegslug": "antonio-sanso"
+    },
+    {
+      "team": "EF Research",
+      "name": "Carl Beekhuizen",
+      "link": "https://github.com/CarlBeek",
+      "eegslug": "carl-beekhuizen"
+    },
+    {
+      "team": "EF Research",
+      "name": "Dankrad Feist",
+      "link": "https://github.com/dankrad",
+      "eegslug": "dankrad-feist"
+    },
+    {
+      "team": "EF Research",
+      "name": "Dmitry Khovratovich",
+      "link": "https://github.com/khovratovich",
+      "eegslug": "dmitry-khovratovich"
+    },
+    {
+      "team": "EF Research",
+      "name": "Domothy",
+      "link": "https://github.com/domothyb",
+      "eegslug": "domothy"
+    },
+    {
+      "team": "EF Research",
+      "name": "Francesco d’Amato",
+      "link": "https://github.com/fradamt",
+      "eegslug": "francesco"
+    },
+    {
+      "team": "EF Research",
+      "name": "George Kadianakis",
+      "link": "https://github.com/asn-d6",
+      "eegslug": "george-kadianakis"
+    },
+    {
+      "team": "EF Research",
+      "name": "Hsiao-Wei Wang",
+      "link": "https://github.com/hwwhww",
+      "eegslug": "hsiao-wei-wang"
+    },
+    {
+      "team": "EF Research",
+      "name": "Justin Drake",
+      "link": "https://github.com/justindrake",
+      "eegslug": "justin-drake"
+    },
+    {
+      "team": "EF Research",
+      "name": "Luca Zanolini",
+      "link": "https://github.com/luca-zanolini",
+      "eegslug": "luca-zanolini"
+    },
+    {
+      "team": "EF Research",
+      "name": "Mark Simkin",
+      "link": "https://msimkin.github.io/",
+      "eegslug": "mark-simkin"
+    },
+    {
+      "team": "EF Research",
+      "name": "Pop",
+      "link": "https://github.com/ppopth",
+      "eegslug": "pop"
+    },
+    {
+      "team": "EF Research",
+      "name": "Zhenfei Zhang",
+      "link": "https://github.com/zhenfeizhang",
+      "eegslug": "zhenfei-zhang"
+    },
+    {
+      "team": "EF Robust Incentives Group (RIG)",
+      "name": "Anders",
+      "link": "https://github.com/anderselowsson",
+      "eegslug": "anders-elowsson"
+    },
+    {
+      "team": "EF Robust Incentives Group (RIG)",
+      "name": "Barnabé Monnot",
+      "link": "https://github.com/barnabemonnot",
+      "eegslug": "barnabe-monnot"
+    },
+    {
+      "team": "EF Robust Incentives Group (RIG)",
+      "name": "Caspar Schwarz-Schilling",
+      "link": "https://github.com/casparschwa",
+      "eegslug": "caspar-schwarz-schilling"
+    },
+    {
+      "team": "EF Robust Incentives Group (RIG)",
+      "name": "Davide Crapis",
+      "link": "https://github.com/dcrapis",
+      "eegslug": "davide-crapis"
+    },
+    {
+      "team": "EF Robust Incentives Group (RIG)",
+      "name": "Julian Ma",
+      "link": "https://github.com/Ma-Julian",
+      "eegslug": "julian-ma"
+    },
+    {
+      "team": "EF Security",
+      "name": "David Theodore",
+      "link": "https://github.com/infosecual",
+      "eegslug": "david-theodore"
+    },
+    {
+      "team": "EF Security",
+      "name": "Fredrik Svantes",
+      "link": "https://github.com/fredriksvantes",
+      "eegslug": "fredrik-svantes"
+    },
+    {
+      "team": "EF Security",
+      "name": "Justin Traglia",
+      "link": "https://github.com/jtraglia",
+      "eegslug": "justin-traglia"
+    },
+    {
+      "team": "EF Security",
+      "name": "Tyler Holmes",
+      "link": "https://github.com/z3n-chada",
+      "eegslug": "tyler-holmes"
+    },
+    {
+      "team": "EF Security",
+      "name": "Yoav Weiss",
+      "link": "https://github.com/yoavw",
+      "eegslug": "yoav-weiss"
+    },
+    {
+      "team": "EF Testing",
+      "name": "Mario Vega",
+      "link": "https://github.com/marioevz",
+      "eegslug": "mario-vega"
+    },
+    {
+      "team": "Erigon",
+      "name": "Alex Sharov",
+      "link": "https://github.com/AskAlexSharov",
+      "eegslug": "alex-sharov"
+    },
+    {
+      "team": "Erigon",
+      "name": "Andrey Ashikhmin",
+      "link": "https://github.com/yperbasis",
+      "eegslug": "andrey-ashikhmin"
+    },
+    {
+      "team": "Erigon",
+      "name": "Giulio rebuffo",
+      "link": "https://github.com/Giulio2002",
+      "eegslug": "giulio-rebuffo"
+    },
+    {
+      "team": "Erigon",
+      "name": "Michelangelo Riccobene",
+      "link": "https://github.com/mriccobene",
+      "eegslug": "michelangelo-riccobene"
+    },
+    {
+      "team": "Erigon",
+      "name": "Tullio Canepa",
+      "link": "https://github.com/canepat",
+      "eegslug": "tullio-canepa"
+    },
+    {
+      "team": "Ethereum Cat Herders",
+      "name": "Pooja Ranjan",
+      "link": "https://github.com/poojaranjan",
+      "eegslug": "pooja-ranjan"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Ameziane Hamlat",
+      "link": "https://github.com/ahamlat",
+      "eegslug": "ameziane-hamlat"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Daniel Lehrner",
+      "link": "https://github.com/daniellehrner",
+      "eegslug": "daniel-lehrner"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Danno Ferrin",
+      "link": "https://github.com/shemnon",
+      "eegslug": "danno-ferrin"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Fabio di Fabio",
+      "link": "https://github.com/fab-10",
+      "eegslug": "fabio-di-fabio"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Gabriel Fukushima",
+      "link": "https://github.com/gfukushima",
+      "eegslug": "gabriel-fukushima"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Gabriel Ziegler Trintinalia",
+      "link": "https://github.com/Gabriel-Trintinalia",
+      "eegslug": "gabriel-ziegler-trintinalia"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Gary Schulte",
+      "link": "https://github.com/garyschulte",
+      "eegslug": "gary-schulte"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Jason Frame",
+      "link": "https://github.com/jframe",
+      "eegslug": "jason-frame"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Jiri Peinlich",
+      "link": "https://github.com/gezero",
+      "eegslug": "jiri-peinlich"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Justin Florentine",
+      "link": "https://github.com/jflo",
+      "eegslug": "justin-florentine"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Sally MacFarlane",
+      "link": "https://github.com/macfarla",
+      "eegslug": "sally-macfarlane"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Simon Dudley",
+      "link": "https://github.com/siladu",
+      "eegslug": "simon-dudley"
+    },
+    {
+      "team": "Hyperledger Besu",
+      "name": "Stefan Pingel",
+      "link": "https://github.com/pinges",
+      "eegslug": "stefan-pingel"
+    },
+    {
+      "team": "Independent",
+      "name": "cheeky-gorilla",
+      "link": "https://github.com/cheeky-gorilla",
+      "eegslug": "cheeky-gorilla"
+    },
+    {
+      "team": "Independent",
+      "name": "Jim McDonald",
+      "link": "https://github.com/mcdee",
+      "eegslug": "jim-mcdonald"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Adrian Manning",
+      "link": "https://github.com/AgeManning",
+      "eegslug": "adrian-manning"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Anton Delaruelle",
+      "link": "https://github.com/antondlr",
+      "eegslug": "anton-delaruelle"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Mac Ladson",
+      "link": "https://github.com/macladson",
+      "eegslug": "mac-ladson"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Mark Mackey",
+      "link": "https://github.com/ethDreamer",
+      "eegslug": "mark-mackey"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Mehdi Zerouali",
+      "link": "https://github.com/zedt3ster",
+      "eegslug": "mehdi-zerouali"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Michael Sproul",
+      "link": "https://github.com/michaelsproul",
+      "eegslug": "michael-sproul"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Paul Hauner",
+      "link": "https://github.com/paulhauner",
+      "eegslug": "paul-hauner"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Pawan Dhananjay Ravi",
+      "link": "https://github.com/pawanjay176",
+      "eegslug": "pawan-dhananjay-ravi"
+    },
+    {
+      "team": "Lighthouse",
+      "name": "Sean Anderson",
+      "link": "https://github.com/realbigsean",
+      "eegslug": "sean-anderson"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Afri",
+      "link": "https://github.com/q9f",
+      "eegslug": "afri-schoedon"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Cayman Nava",
+      "link": "https://github.com/wemeetagain",
+      "eegslug": "cayman-nava"
+    },
+    {
+      "team": "Lodestar",
+      "name": "dapplion",
+      "link": "https://github.com/dapplion",
+      "eegslug": "dapplion"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Gajinder Singh",
+      "link": "https://github.com/g11tech",
+      "eegslug": "gajinder-singh"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Nazar Hussain",
+      "link": "https://github.com/nazarhussain",
+      "eegslug": "nazar-hussain"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Nico Flaig",
+      "link": "https://github.com/nflaig",
+      "eegslug": "nico-flaig"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Phil Ngo",
+      "link": "https://github.com/philknows",
+      "eegslug": "phil-ngo"
+    },
+    {
+      "team": "Lodestar",
+      "name": "Tuyen Nguyen",
+      "link": "https://github.com/tuyennhv",
+      "eegslug": "tuyen-nguyen"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Alexey Osipov",
+      "link": "https://github.com/flcl42",
+      "eegslug": "alexey-osipov"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Ayman Bouchared",
+      "link": "https://github.com/Demuirgos",
+      "eegslug": "ayman-bouchared"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Daniel Celeda",
+      "link": "https://github.com/dceleda",
+      "eegslug": "daniel-celeda"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Jorge Mederos",
+      "link": "https://github.com/jmederosalvarado",
+      "eegslug": "jorge-mederos"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Kamil Chodoła",
+      "link": "https://github.com/kamilchodola",
+      "eegslug": "kamil-chodola"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Łukasz Rozmej",
+      "link": "https://github.com/LukaszRozmej",
+      "eegslug": "lukasz-rozmej"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Marcin Sobczak",
+      "link": "https://github.com/marcindsobczak",
+      "eegslug": "marcin-sobczak"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Marek Moraczyński",
+      "link": "https://github.com/MarekM25",
+      "eegslug": "marek-moraczynski"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Mateusz Jędrzejewski",
+      "link": "https://github.com/matilote",
+      "eegslug": "mateusz-jedrzejewski"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Muhammad Amirul Ashraf",
+      "link": "https://github.com/asdacap",
+      "eegslug": "muhammad-amirul-ashraf"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Ruben Buniatyan",
+      "link": "https://github.com/rubo",
+      "eegslug": "ruben-buniatyan"
+    },
+    {
+      "team": "Nethermind",
+      "name": "smartprogrammer",
+      "link": "https://github.com/smartprogrammer93",
+      "eegslug": "ahmad-bitar"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Tanishq Jasoria",
+      "link": "https://github.com/tanishqjasoria",
+      "eegslug": "tanishq-jasoria"
+    },
+    {
+      "team": "Nethermind",
+      "name": "Tomasz Stanczak",
+      "link": "https://github.com/tkstanczak",
+      "eegslug": "tomasz-kajetan-stanczak"
+    },
+    {
+      "team": "Prysm",
+      "name": "James He",
+      "link": "https://github.com/james-prysm",
+      "eegslug": "james-he"
+    },
+    {
+      "team": "Prysm",
+      "name": "Kasey Kirkham",
+      "link": "https://github.com/kasey",
+      "eegslug": "kasey-kirkham"
+    },
+    {
+      "team": "Prysm",
+      "name": "Nishant Das",
+      "link": "https://github.com/nisdas",
+      "eegslug": "nishant-das"
+    },
+    {
+      "team": "Prysm",
+      "name": "potuz",
+      "link": "https://github.com/potuz",
+      "eegslug": "potuz"
+    },
+    {
+      "team": "Prysm",
+      "name": "Preston Van Loon",
+      "link": "https://github.com/prestonvanloon",
+      "eegslug": "preston-van-loon"
+    },
+    {
+      "team": "Prysm",
+      "name": "Radosław Kapka",
+      "link": "https://github.com/rkapka",
+      "eegslug": "radoslaw-kapka"
+    },
+    {
+      "team": "Prysm",
+      "name": "Raul Jordan",
+      "link": "https://github.com/rauljordan",
+      "eegslug": "raul-jordan"
+    },
+    {
+      "team": "Prysm",
+      "name": "Sammy Rosso",
+      "link": "https://github.com/Saolyn",
+      "eegslug": "sammy-rosso"
+    },
+    {
+      "team": "Prysm",
+      "name": "Taran Singh",
+      "link": "https://github.com/Taranpreet26311",
+      "eegslug": "taran-singh"
+    },
+    {
+      "team": "Prysm",
+      "name": "Terence Tsao",
+      "link": "https://github.com/terencechain",
+      "eegslug": "terence-tsao"
+    },
+    {
+      "team": "Stateless Consensus",
+      "name": "Guillaume Ballet",
+      "link": "https://github.com/gballet",
+      "eegslug": "guillaume-ballet"
+    },
+    {
+      "team": "Stateless Consensus",
+      "name": "Ignacio Hagiopan",
+      "link": "https://github.com/jsign",
+      "eegslug": "ignacio-hagiopan"
+    },
+    {
+      "team": "Stateless Consensus",
+      "name": "Kevaundray Wedderburn",
+      "link": "https://github.com/kevaundray",
+      "eegslug": "kevaundray-wedderburn"
+    },
+    {
+      "team": "Status",
+      "name": "Csaba Kiraly",
+      "link": "https://github.com/cskiraly",
+      "eegslug": "csaba-kiraly"
+    },
+    {
+      "team": "Status",
+      "name": "Dustin Brody",
+      "link": "https://github.com/tersec",
+      "eegslug": "dustin-brody"
+    },
+    {
+      "team": "Status",
+      "name": "Etan Kissling",
+      "link": "https://github.com/etan-status",
+      "eegslug": "etan-kissling"
+    },
+    {
+      "team": "Status",
+      "name": "Eugene Kabanov",
+      "link": "https://github.com/cheatfate",
+      "eegslug": "eugene-kabanov"
+    },
+    {
+      "team": "Status",
+      "name": "Henri Dubois-Ferriere",
+      "link": "https://github.com/henridf",
+      "eegslug": "henri-dubois-ferriere"
+    },
+    {
+      "team": "Status",
+      "name": "Jacek Sieka",
+      "link": "https://github.com/arnetheduck",
+      "eegslug": "jacek-sieka"
+    },
+    {
+      "team": "Status",
+      "name": "Jordan Hrycaj",
+      "link": "https://github.com/mjfh",
+      "eegslug": "jordan-hrycaj"
+    },
+    {
+      "team": "Status",
+      "name": "Kim De Mey",
+      "link": "https://github.com/kdeme",
+      "eegslug": "kim-de-mey"
+    },
+    {
+      "team": "Status",
+      "name": "Leonardo Bautista-Gomez",
+      "link": "https://github.com/leobago",
+      "eegslug": "leonardo-bautista-gomez"
+    },
+    {
+      "team": "Status",
+      "name": "Zahary Karadzhov",
+      "link": "https://github.com/zah",
+      "eegslug": "zahary-karadjov"
+    },
+    {
+      "team": "Teku",
+      "name": "Ben Edgington",
+      "link": "https://github.com/benjaminion",
+      "eegslug": "ben-edgington"
+    },
+    {
+      "team": "Teku",
+      "name": "Courtney Hunter",
+      "link": "https://github.com/courtneyeh",
+      "eegslug": "courtney-hunter"
+    },
+    {
+      "team": "Teku",
+      "name": "Dmitry Shmatko",
+      "link": "https://github.com/zilm13",
+      "eegslug": "dmitry-shmatko"
+    },
+    {
+      "team": "Teku",
+      "name": "Enrico Del Fante",
+      "link": "https://github.com/tbenr",
+      "eegslug": "enrico-del-fante"
+    },
+    {
+      "team": "Teku",
+      "name": "Lucas Saldanha",
+      "link": "https://github.com/lucassaldanha",
+      "eegslug": "lucas-saldanha"
+    },
+    {
+      "team": "Teku",
+      "name": "Mehdi Aouadi",
+      "link": "https://github.com/mehdi-aouadi",
+      "eegslug": "mehdi-aouadi"
+    },
+    {
+      "team": "Teku",
+      "name": "Paul Harris",
+      "link": "https://github.com/rolfyone",
+      "eegslug": "paul-harris"
+    },
+    {
+      "team": "Teku",
+      "name": "Stefan Bratanov",
+      "link": "https://github.com/StefanBratanov",
+      "eegslug": "stefan-bratanov"
+    },
+    {
+      "team": "TXRX",
+      "name": "Alex Vlasov",
+      "link": "https://github.com/ericsson49",
+      "eegslug": "alex-vlasov"
+    },
+    {
+      "team": "TXRX",
+      "name": "Anton Nashatyrev",
+      "link": "https://github.com/Nashatyrev",
+      "eegslug": "anton-nashatyrev"
+    },
+    {
+      "team": "TXRX",
+      "name": "Mikhail Kalinin",
+      "link": "https://github.com/mkalinin",
+      "eegslug": "mikhail-kalinin"
+    }
+  ]
+}
