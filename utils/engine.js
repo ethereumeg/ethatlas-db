@@ -39,6 +39,13 @@ export default class Engine {
     }
 
     // load collections
+    await this.loadCollections();
+
+    console.log(`db loaded: ${this.path()}`);
+    //console.log(`models: ${Object.keys(this.config.models).join(', ')}`)
+  }
+
+  async loadCollections() {
     for (const colId in this.config.collections) {
       const colParams = this.config.collections[colId];
       const arr = [];
@@ -55,9 +62,6 @@ export default class Engine {
       }
       this.collections[colId] = arr;
     }
-
-    console.log(`db loaded: ${this.path()}`);
-    //console.log(`models: ${Object.keys(this.config.models).join(', ')}`)
   }
 
   async itemLoad(colId, dir, dirName) {
@@ -109,6 +113,8 @@ export default class Engine {
     }
     await ensureDir(dir);
     await Deno.writeTextFile(indexFn, yaml.stringify(index));
+    await this.loadCollections();
+    return this.collections[colId].find((i) => i.index.slug === slug);
   }
 
   path(...paths) {
