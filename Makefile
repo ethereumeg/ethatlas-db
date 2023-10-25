@@ -18,6 +18,7 @@ consolidate:
 	cp -R ./web/dist ./output
 	mkdir ./output/data
 	cp ./dist/bundle.json ./output/data/index.json
+	cp -R ./static ./output/data
 
 extend:
 	deno run --unstable --allow-read --allow-write --allow-net utils/extend.js
