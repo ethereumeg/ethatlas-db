@@ -2,3 +2,4 @@ dist
 .sl
 output
 .cache
+.DS_Store
