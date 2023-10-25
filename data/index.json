@@ -869,6 +869,16 @@
         ]
       },
       {
+        "slug": "robert-chen",
+        "name": "Robert Chen",
+        "links": {
+          "github": "https://github.com/chen-robert"
+        },
+        "eips": [
+          7512
+        ]
+      },
+      {
         "slug": "joseph-stockermans",
         "name": "Joseph Stockermans",
         "links": {
@@ -1281,16 +1291,6 @@
           2334,
           2335,
           7516
-        ]
-      },
-      {
-        "slug": "robert-chen-ottersec",
-        "name": "Robert Chen - OtterSec",
-        "links": {
-          "github": "https://github.com/chen-robert"
-        },
-        "eips": [
-          7512
         ]
       },
       {
@@ -4853,16 +4853,6 @@
         ],
         "eips": [
           1337
-        ]
-      },
-      {
-        "slug": "michael-lewellen-openzeppelin",
-        "name": "Michael Lewellen - OpenZeppelin",
-        "links": {
-          "github": "https://github.com/cylon56"
-        },
-        "eips": [
-          7512
         ]
       },
       {
@@ -9116,18 +9106,6 @@
         ]
       },
       {
-        "slug": "alex-papageorgiou-omniscia",
-        "name": "Alex Papageorgiou - Omniscia",
-        "links": {
-          "github": "https://github.com/alex-ppg"
-        },
-        "eips": [
-          3508,
-          3520,
-          7512
-        ]
-      },
-      {
         "slug": "sachin-tomar",
         "name": "Sachin Tomar",
         "links": {
@@ -9198,6 +9176,18 @@
         },
         "eips": [
           5744
+        ]
+      },
+      {
+        "slug": "alex-papageorgiou",
+        "name": "Alex Papageorgiou",
+        "links": {
+          "github": "https://github.com/alex-ppg"
+        },
+        "eips": [
+          3508,
+          3520,
+          7512
         ]
       },
       {
@@ -9708,6 +9698,16 @@
         },
         "eips": [
           6492
+        ]
+      },
+      {
+        "slug": "michael-lewellen",
+        "name": "Michael Lewellen",
+        "links": {
+          "github": "https://github.com/cylon56"
+        },
+        "eips": [
+          7512
         ]
       },
       {
@@ -10310,5 +10310,5 @@
       }
     ]
   },
-  "time": "2023-10-25T16:23:16.168Z"
+  "time": "2023-10-25T16:28:10.331Z"
 }
