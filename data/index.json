@@ -2,6 +2,14 @@
   "data": {
     "collectives": [
       {
+        "slug": "protocol-guild",
+        "name": "Protocol Guild",
+        "links": {
+          "web": "https://protocol-guild.readthedocs.io/",
+          "twitter": "https://twitter.com/ProtocolGuild"
+        }
+      },
+      {
         "slug": "w3blab",
         "name": "W3B Lab",
         "abbreviations": [
@@ -327,6 +335,17 @@
         ]
       },
       {
+        "slug": "david-theodore",
+        "name": "David Theodore",
+        "links": {
+          "github": "https://github.com/infosecual"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Security"
+        }
+      },
+      {
         "slug": "jim-mcdonald",
         "name": "Jim McDonald",
         "links": {
@@ -335,6 +354,10 @@
         "emails": [
           "Jim@mcdee.net"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "Independent"
+        },
         "eips": [
           1185,
           2386,
@@ -363,10 +386,26 @@
         ]
       },
       {
+        "slug": "tuyen-nguyen",
+        "name": "Tuyen Nguyen",
+        "links": {
+          "github": "https://github.com/tuyennhv"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
+        }
+      },
+      {
         "slug": "alex-vlasov",
         "name": "Alex Vlasov",
         "links": {
-          "github": "https://github.com/shamatar"
+          "github": "https://github.com/shamatar",
+          "github:protocol-guild": "https://github.com/ericsson49"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "TXRX"
         },
         "eips": [
           1962,
@@ -471,6 +510,17 @@
         ]
       },
       {
+        "slug": "courtney-hunter",
+        "name": "Courtney Hunter",
+        "links": {
+          "github": "https://github.com/courtneyeh"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "lucas-cullen",
         "name": "Lucas Cullen",
         "links": {
@@ -509,6 +559,17 @@
         "eips": [
           7231
         ]
+      },
+      {
+        "slug": "jason-frame",
+        "name": "Jason Frame",
+        "links": {
+          "github": "https://github.com/jframe"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "alan-scarpellini",
@@ -687,6 +748,10 @@
         "links": {
           "github": "https://github.com/gumb0"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Ipsilon"
+        },
         "eips": [
           3540,
           3541,
@@ -730,6 +795,28 @@
         "eips": [
           6150
         ]
+      },
+      {
+        "slug": "mehdi-zerouali",
+        "name": "Mehdi Zerouali",
+        "links": {
+          "github": "https://github.com/zedt3ster"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
+      },
+      {
+        "slug": "ruben-buniatyan",
+        "name": "Ruben Buniatyan",
+        "links": {
+          "github": "https://github.com/rubo"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
       },
       {
         "slug": "pk910",
@@ -820,6 +907,17 @@
         "eips": [
           3416
         ]
+      },
+      {
+        "slug": "mario-vega",
+        "name": "Mario Vega",
+        "links": {
+          "github": "https://github.com/marioevz"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Testing"
+        }
       },
       {
         "slug": "kevin-seagraves",
@@ -990,6 +1088,10 @@
         "emails": [
           "pawel@ethereum.org"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Ipsilon"
+        },
         "eips": [
           145,
           615,
@@ -1014,6 +1116,17 @@
           7069,
           7480
         ]
+      },
+      {
+        "slug": "cheeky-gorilla",
+        "name": "cheeky-gorilla",
+        "links": {
+          "github": "https://github.com/cheeky-gorilla"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Independent"
+        }
       },
       {
         "slug": "julian-svirsky",
@@ -1099,6 +1212,17 @@
         ]
       },
       {
+        "slug": "kim-de-mey",
+        "name": "Kim De Mey",
+        "links": {
+          "github": "https://github.com/kdeme"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
+      },
+      {
         "slug": "andy-chorlian",
         "name": "Andy Chorlian",
         "emails": [
@@ -1119,6 +1243,17 @@
         ]
       },
       {
+        "slug": "alex-sharov",
+        "name": "Alex Sharov",
+        "links": {
+          "github": "https://github.com/AskAlexSharov"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Erigon"
+        }
+      },
+      {
         "slug": "yale-reisoleil",
         "name": "Yale ReiSoleil",
         "links": {
@@ -1137,6 +1272,10 @@
         "emails": [
           "carl@ethereum.org"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           2333,
           2334,
@@ -1206,9 +1345,24 @@
         "links": {
           "github": "https://github.com/fradamt"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           7251
         ]
+      },
+      {
+        "slug": "lukasz-rozmej",
+        "name": "Łukasz Rozmej",
+        "links": {
+          "github": "https://github.com/LukaszRozmej"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
       },
       {
         "slug": "jan-bures",
@@ -1219,6 +1373,17 @@
         "eips": [
           5501
         ]
+      },
+      {
+        "slug": "leonardo-bautista-gomez",
+        "name": "Leonardo Bautista-Gomez",
+        "links": {
+          "github": "https://github.com/leobago"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
       },
       {
         "slug": "alex-van-de-sande",
@@ -1244,6 +1409,10 @@
         "links": {
           "github": "https://github.com/etan-status"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        },
         "eips": [
           6404,
           6465,
@@ -1264,6 +1433,17 @@
         ]
       },
       {
+        "slug": "mehdi-aouadi",
+        "name": "Mehdi Aouadi",
+        "links": {
+          "github": "https://github.com/mehdi-aouadi"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "chris-whinfrey",
         "name": "Chris Whinfrey",
         "links": {
@@ -1282,6 +1462,17 @@
         "eips": [
           4361
         ]
+      },
+      {
+        "slug": "ignacio-hagiopan",
+        "name": "Ignacio Hagiopan",
+        "links": {
+          "github": "https://github.com/jsign"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Stateless Consensus"
+        }
       },
       {
         "slug": "gabriel-barros",
@@ -1398,6 +1589,17 @@
         ]
       },
       {
+        "slug": "pop",
+        "name": "Pop",
+        "links": {
+          "github": "https://github.com/ppopth"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        }
+      },
+      {
         "slug": "victor-munoz",
         "name": "Víctor Muñoz",
         "links": {
@@ -1451,10 +1653,25 @@
         ]
       },
       {
+        "slug": "alexey-osipov",
+        "name": "Alexey Osipov",
+        "links": {
+          "github": "https://github.com/flcl42"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
+      },
+      {
         "slug": "dapplion",
         "name": "dapplion",
         "links": {
           "github": "https://github.com/dapplion"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
         },
         "eips": [
           6914,
@@ -1492,6 +1709,17 @@
         ]
       },
       {
+        "slug": "barnabe-monnot",
+        "name": "Barnabé Monnot",
+        "links": {
+          "github": "https://github.com/barnabemonnot"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Robust Incentives Group (RIG)"
+        }
+      },
+      {
         "slug": "charles-lehner",
         "name": "Charles Lehner",
         "links": {
@@ -1522,6 +1750,17 @@
         ]
       },
       {
+        "slug": "zhenfei-zhang",
+        "name": "Zhenfei Zhang",
+        "links": {
+          "github": "https://github.com/zhenfeizhang"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        }
+      },
+      {
         "slug": "weiwu-zhang",
         "name": "Weiwu Zhang",
         "emails": [
@@ -1539,6 +1778,10 @@
         "name": "Peter Davies",
         "links": {
           "github": "https://github.com/petertdavies"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
         },
         "eips": [
           4747,
@@ -1571,6 +1814,10 @@
         "name": "Danny Ryan",
         "links": {
           "github": "https://github.com/djrtwo"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
         },
         "eips": [
           1011,
@@ -1719,6 +1966,17 @@
         ]
       },
       {
+        "slug": "anders-elowsson",
+        "name": "Anders",
+        "links": {
+          "github": "https://github.com/anderselowsson"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Robust Incentives Group (RIG)"
+        }
+      },
+      {
         "slug": "weiji-guo",
         "name": "Weiji Guo",
         "eipname": "Weiji Guo",
@@ -1762,6 +2020,17 @@
         ]
       },
       {
+        "slug": "kasey-kirkham",
+        "name": "Kasey Kirkham",
+        "links": {
+          "github": "https://github.com/kasey"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
         "slug": "jeff-leung",
         "name": "Jeff Leung",
         "emails": [
@@ -1780,6 +2049,17 @@
         "eips": [
           3525
         ]
+      },
+      {
+        "slug": "jiri-peinlich",
+        "name": "Jiri Peinlich",
+        "links": {
+          "github": "https://github.com/gezero"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "christian-reitwiessner",
@@ -1843,6 +2123,17 @@
           1155,
           1761
         ]
+      },
+      {
+        "slug": "anton-nashatyrev",
+        "name": "Anton Nashatyrev",
+        "links": {
+          "github": "https://github.com/Nashatyrev"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "TXRX"
+        }
       },
       {
         "slug": "tom-brand",
@@ -2034,10 +2325,25 @@
         ]
       },
       {
+        "slug": "ben-edgington",
+        "name": "Ben Edgington",
+        "links": {
+          "github": "https://github.com/benjaminion"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "danno-ferrin",
         "name": "Danno Ferrin",
         "links": {
           "github": "https://github.com/shemnon"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
         },
         "eips": [
           1872,
@@ -2120,6 +2426,28 @@
         ]
       },
       {
+        "slug": "csaba-kiraly",
+        "name": "Csaba Kiraly",
+        "links": {
+          "github": "https://github.com/cskiraly"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
+      },
+      {
+        "slug": "gabriel",
+        "name": "Gabriel",
+        "links": {
+          "github": "https://github.com/gabrocheleau"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF JavaScript"
+        }
+      },
+      {
         "slug": "andrea-brancaleoni",
         "name": "Andrea  Brancaleoni",
         "links": {
@@ -2138,6 +2466,17 @@
         "eips": [
           2315
         ]
+      },
+      {
+        "slug": "caspar-schwarz-schilling",
+        "name": "Caspar Schwarz-Schilling",
+        "links": {
+          "github": "https://github.com/casparschwa"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Robust Incentives Group (RIG)"
+        }
       },
       {
         "slug": "gottfried-herold",
@@ -2413,6 +2752,17 @@
         ]
       },
       {
+        "slug": "justin-florentine",
+        "name": "Justin Florentine",
+        "links": {
+          "github": "https://github.com/jflo"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
+      },
+      {
         "slug": "lauren-ho",
         "name": "Lauren Ho",
         "emails": [
@@ -2454,6 +2804,17 @@
         ]
       },
       {
+        "slug": "paul-harris",
+        "name": "Paul Harris",
+        "links": {
+          "github": "https://github.com/rolfyone"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "martin-lundfall",
         "name": "Martin Lundfall",
         "links": {
@@ -2479,6 +2840,10 @@
         "name": "Zahary Karadjov",
         "links": {
           "github": "https://github.com/zah"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
         },
         "eips": [
           6475
@@ -2513,6 +2878,17 @@
         "eips": [
           1193
         ]
+      },
+      {
+        "slug": "henri-dubois-ferriere",
+        "name": "Henri Dubois-Ferriere",
+        "links": {
+          "github": "https://github.com/henridf"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
       },
       {
         "slug": "austin-zhu",
@@ -2566,6 +2942,17 @@
         ]
       },
       {
+        "slug": "holger-drewes",
+        "name": "Holger Drewes",
+        "links": {
+          "github": "https://github.com/holgerd77"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF JavaScript"
+        }
+      },
+      {
         "slug": "luc-falempin",
         "name": "Luc Falempin",
         "links": {
@@ -2584,6 +2971,17 @@
         "eips": [
           3770
         ]
+      },
+      {
+        "slug": "jason-carver",
+        "name": "Jason Carver",
+        "links": {
+          "github": "https://github.com/carver"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Portal"
+        }
       },
       {
         "slug": "joshua-trujillo",
@@ -2625,6 +3023,17 @@
           6811,
           6944
         ]
+      },
+      {
+        "slug": "gary-schulte",
+        "name": "Gary Schulte",
+        "links": {
+          "github": "https://github.com/garyschulte"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "iluminada-baturone",
@@ -2669,6 +3078,17 @@
           2266,
           5521
         ]
+      },
+      {
+        "slug": "fabio-di-fabio",
+        "name": "Fabio di Fabio",
+        "links": {
+          "github": "https://github.com/fab-10"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "filipp-makarov",
@@ -2860,7 +3280,12 @@
         "slug": "gajinder-singh",
         "name": "Gajinder Singh",
         "links": {
-          "github": "https://github.com/g11in"
+          "github": "https://github.com/g11in",
+          "github:protocol-guild": "https://github.com/g11tech"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
         },
         "eips": [
           3584
@@ -3028,6 +3453,17 @@
         ]
       },
       {
+        "slug": "sean-anderson",
+        "name": "Sean Anderson",
+        "links": {
+          "github": "https://github.com/realbigsean"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
+      },
+      {
         "slug": "roiv",
         "name": "RoiV",
         "links": {
@@ -3040,10 +3476,17 @@
       {
         "slug": "gary-rong",
         "name": "Gary Rong",
+        "links": {
+          "github": "https://github.com/rjl493456442"
+        },
         "emails": [
           "garyrong0905@gmail.com",
           "garyrong@ethereum.org"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           2464,
           4938
@@ -3081,6 +3524,17 @@
         "eips": [
           5593
         ]
+      },
+      {
+        "slug": "domothy",
+        "name": "Domothy",
+        "links": {
+          "github": "https://github.com/domothyb"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        }
       },
       {
         "slug": "viktor-pernjek",
@@ -3292,6 +3746,17 @@
         ]
       },
       {
+        "slug": "luca-zanolini",
+        "name": "Luca Zanolini",
+        "links": {
+          "github": "https://github.com/luca-zanolini"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        }
+      },
+      {
         "slug": "yuefei-tan",
         "name": "Yuefei Tan",
         "links": {
@@ -3483,6 +3948,17 @@
         ]
       },
       {
+        "slug": "lucas-saldanha",
+        "name": "Lucas Saldanha",
+        "links": {
+          "github": "https://github.com/lucassaldanha"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "patrick-gallagher",
         "name": "Patrick Gallagher",
         "emails": [
@@ -3551,6 +4027,28 @@
         ]
       },
       {
+        "slug": "nishant-das",
+        "name": "Nishant Das",
+        "links": {
+          "github": "https://github.com/nisdas"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
+        "slug": "giulio-rebuffo",
+        "name": "Giulio rebuffo",
+        "links": {
+          "github": "https://github.com/Giulio2002"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Erigon"
+        }
+      },
+      {
         "slug": "matt-lockyer",
         "name": "Matt Lockyer",
         "emails": [
@@ -3559,6 +4057,17 @@
         "eips": [
           998
         ]
+      },
+      {
+        "slug": "sally-macfarlane",
+        "name": "Sally MacFarlane",
+        "links": {
+          "github": "https://github.com/macfarla"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "agustin-aguilar",
@@ -3645,6 +4154,17 @@
         "eips": [
           5639
         ]
+      },
+      {
+        "slug": "anton-delaruelle",
+        "name": "Anton Delaruelle",
+        "links": {
+          "github": "https://github.com/antondlr"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
       },
       {
         "slug": "derek-zhou",
@@ -3751,10 +4271,25 @@
         ]
       },
       {
+        "slug": "sammy-rosso",
+        "name": "Sammy Rosso",
+        "links": {
+          "github": "https://github.com/Saolyn"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
         "slug": "tomasz-kajetan-stanczak",
         "name": "Tomasz Kajetan Stanczak",
         "links": {
           "github": "https://github.com/tkstanczak"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
         },
         "eips": [
           2935,
@@ -3811,6 +4346,17 @@
         "eips": [
           2780
         ]
+      },
+      {
+        "slug": "mark-simkin",
+        "name": "Mark Simkin",
+        "links": {
+          "github": "https://msimkin.github.io/"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        }
       },
       {
         "slug": "shane-hampton",
@@ -3904,9 +4450,16 @@
       {
         "slug": "daniel-lehrner",
         "name": "Daniel Lehrner",
+        "links": {
+          "github": "https://github.com/daniellehrner"
+        },
         "emails": [
           "daniel@io.builders"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        },
         "eips": [
           1996,
           2009,
@@ -3946,6 +4499,17 @@
         "eips": [
           1337
         ]
+      },
+      {
+        "slug": "jacek-sieka",
+        "name": "Jacek Sieka",
+        "links": {
+          "github": "https://github.com/arnetheduck"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
       },
       {
         "slug": "bikem-bengisu",
@@ -4069,6 +4633,17 @@
         ]
       },
       {
+        "slug": "muhammad-amirul-ashraf",
+        "name": "Muhammad Amirul Ashraf",
+        "links": {
+          "github": "https://github.com/asdacap"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
+      },
+      {
         "slug": "rj-catalano",
         "name": "RJ Catalano",
         "links": {
@@ -4087,6 +4662,28 @@
         "eips": [
           6551
         ]
+      },
+      {
+        "slug": "kamil-chodola",
+        "name": "Kamil Chodoła",
+        "links": {
+          "github": "https://github.com/kamilchodola"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
+      },
+      {
+        "slug": "fredrik-svantes",
+        "name": "Fredrik Svantes",
+        "links": {
+          "github": "https://github.com/fredriksvantes"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Security"
+        }
       },
       {
         "slug": "timi",
@@ -4117,6 +4714,17 @@
         "eips": [
           5791
         ]
+      },
+      {
+        "slug": "jorge-mederos",
+        "name": "Jorge Mederos",
+        "links": {
+          "github": "https://github.com/jmederosalvarado"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
       },
       {
         "slug": "joey-santoro",
@@ -4207,6 +4815,17 @@
         ]
       },
       {
+        "slug": "taran-singh",
+        "name": "Taran Singh",
+        "links": {
+          "github": "https://github.com/Taranpreet26311"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
         "slug": "artem-chystiakov",
         "name": "Artem Chystiakov",
         "links": {
@@ -4252,6 +4871,10 @@
         "links": {
           "github": "https://github.com/ralexstokes"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           2537,
           4444,
@@ -4287,6 +4910,10 @@
         "links": {
           "github": "https://github.com/asn-d6"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           4444,
           4844,
@@ -4308,6 +4935,10 @@
         "name": "Dankrad Feist",
         "links": {
           "github": "https://github.com/dankrad"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
         },
         "eips": [
           2565,
@@ -4354,6 +4985,17 @@
         ]
       },
       {
+        "slug": "trenton-van-epps",
+        "name": "Trenton Van Epps",
+        "links": {
+          "github": "https://github.com/tvanepps"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
+        }
+      },
+      {
         "slug": "gerhard-wagner",
         "name": "Gerhard Wagner",
         "links": {
@@ -4392,6 +5034,10 @@
         "emails": [
           "martin@swende.se"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           3,
           191,
@@ -4422,6 +5068,10 @@
           "felix@ethdev.com",
           "fjl@ethereum.org"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           8,
           778,
@@ -4441,6 +5091,17 @@
         "eips": [
           6806
         ]
+      },
+      {
+        "slug": "jordan-hrycaj",
+        "name": "Jordan Hrycaj",
+        "links": {
+          "github": "https://github.com/mjfh"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
       },
       {
         "slug": "dradiant",
@@ -4475,6 +5136,17 @@
         ]
       },
       {
+        "slug": "marcin-sobczak",
+        "name": "Marcin Sobczak",
+        "links": {
+          "github": "https://github.com/marcindsobczak"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
+      },
+      {
         "slug": "christoph-jentzsch",
         "name": "Christoph Jentzsch",
         "emails": [
@@ -4490,9 +5162,24 @@
         "links": {
           "github": "https://github.com/kevaundray"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "Stateless Consensus"
+        },
         "eips": [
           6800
         ]
+      },
+      {
+        "slug": "antonio-sanso",
+        "name": "Antonio Sanso",
+        "links": {
+          "github": "https://github.com/asanso"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        }
       },
       {
         "slug": "hadrien-croubois",
@@ -4826,6 +5513,17 @@
         ]
       },
       {
+        "slug": "jochem",
+        "name": "Jochem",
+        "links": {
+          "github": "https://github.com/jochem-brouwer"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF JavaScript"
+        }
+      },
+      {
         "slug": "joachim-lebrun",
         "name": "Joachim Lebrun",
         "links": {
@@ -4866,6 +5564,17 @@
         ]
       },
       {
+        "slug": "rafael-matias",
+        "name": "Rafael Matias",
+        "links": {
+          "github": "https://github.com/skylenet"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF DevOps"
+        }
+      },
+      {
         "slug": "jean-m-cyr",
         "name": "Jean M. Cyr",
         "links": {
@@ -4884,6 +5593,28 @@
         "eips": [
           4931
         ]
+      },
+      {
+        "slug": "terence-tsao",
+        "name": "Terence Tsao",
+        "links": {
+          "github": "https://github.com/terencechain"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
+        "slug": "justin-traglia",
+        "name": "Justin Traglia",
+        "links": {
+          "github": "https://github.com/jtraglia"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Security"
+        }
       },
       {
         "slug": "philipp-bolte",
@@ -4971,6 +5702,10 @@
         "links": {
           "github": "https://github.com/hwwhww"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           7002
         ]
@@ -5004,6 +5739,17 @@
         "eips": [
           1753
         ]
+      },
+      {
+        "slug": "daniel-celeda",
+        "name": "Daniel Celeda",
+        "links": {
+          "github": "https://github.com/dceleda"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
       },
       {
         "slug": "t11s",
@@ -5090,6 +5836,17 @@
         ]
       },
       {
+        "slug": "enrico-del-fante",
+        "name": "Enrico Del Fante",
+        "links": {
+          "github": "https://github.com/tbenr"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "greg-colvin",
         "name": "Greg Colvin",
         "links": {
@@ -5145,6 +5902,10 @@
         "links": {
           "github": "https://github.com/michaelsproul"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        },
         "eips": [
           3076
         ]
@@ -5168,6 +5929,17 @@
         "eips": [
           6596
         ]
+      },
+      {
+        "slug": "raul-jordan",
+        "name": "Raul Jordan",
+        "links": {
+          "github": "https://github.com/rauljordan"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
       },
       {
         "slug": "francesco-sullo",
@@ -5199,6 +5971,17 @@
         "eips": [
           6787
         ]
+      },
+      {
+        "slug": "stefan-bratanov",
+        "name": "Stefan Bratanov",
+        "links": {
+          "github": "https://github.com/StefanBratanov"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
       },
       {
         "slug": "dexaran",
@@ -5284,6 +6067,17 @@
         ]
       },
       {
+        "slug": "parithosh-jayanthi",
+        "name": "Parithosh Jayanthi",
+        "links": {
+          "github": "https://github.com/parithosh"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF DevOps"
+        }
+      },
+      {
         "slug": "stanley-wu",
         "name": "Stanley Wu",
         "links": {
@@ -5302,6 +6096,17 @@
         "eips": [
           1444
         ]
+      },
+      {
+        "slug": "adrian-manning",
+        "name": "Adrian Manning",
+        "links": {
+          "github": "https://github.com/AgeManning"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
       },
       {
         "slug": "louis-guthmann",
@@ -5467,6 +6272,10 @@
         "name": "Marius van der Wijden",
         "links": {
           "github": "https://github.com/MariusVanDerWijden"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
         },
         "eips": [
           1571,
@@ -5691,6 +6500,17 @@
         ]
       },
       {
+        "slug": "stefan-pingel",
+        "name": "Stefan Pingel",
+        "links": {
+          "github": "https://github.com/pinges"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
+      },
+      {
         "slug": "ben-difrancesco",
         "name": "Ben DiFrancesco",
         "links": {
@@ -5710,6 +6530,17 @@
         "eips": [
           4337
         ]
+      },
+      {
+        "slug": "andrew-day",
+        "name": "Andrew Day",
+        "links": {
+          "github": "https://github.com/acolytec3"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF JavaScript"
+        }
       },
       {
         "slug": "noah-litvin",
@@ -5924,6 +6755,28 @@
         ]
       },
       {
+        "slug": "cayman-nava",
+        "name": "Cayman Nava",
+        "links": {
+          "github": "https://github.com/wemeetagain"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
+        }
+      },
+      {
+        "slug": "andrew-davis",
+        "name": "Andrew Davis",
+        "links": {
+          "github": "https://github.com/Savid"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF DevOps"
+        }
+      },
+      {
         "slug": "archie-chang",
         "name": "Archie Chang",
         "links": {
@@ -5977,6 +6830,17 @@
         ]
       },
       {
+        "slug": "potuz",
+        "name": "potuz",
+        "links": {
+          "github": "https://github.com/potuz"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
         "slug": "nalin-bhardwaj",
         "name": "Nalin Bhardwaj",
         "links": {
@@ -5992,6 +6856,10 @@
         "eipname": "Afri Schoedon",
         "links": {
           "github": "https://github.com/q9f"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
         },
         "eips": [
           649,
@@ -6074,6 +6942,17 @@
         ]
       },
       {
+        "slug": "pawan-dhananjay-ravi",
+        "name": "Pawan Dhananjay Ravi",
+        "links": {
+          "github": "https://github.com/pawanjay176"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
+      },
+      {
         "slug": "dieter-shirley",
         "name": "Dieter Shirley",
         "emails": [
@@ -6082,6 +6961,17 @@
         "eips": [
           721
         ]
+      },
+      {
+        "slug": "mike-ferris",
+        "name": "Mike Ferris",
+        "links": {
+          "github": "https://github.com/mrferris"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Portal"
+        }
       },
       {
         "slug": "steven-pineda",
@@ -6115,6 +7005,10 @@
         "name": "Nick Gheorghita",
         "links": {
           "github": "https://github.com/njgheorghita"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Portal"
         },
         "eips": [
           1123,
@@ -6181,9 +7075,24 @@
         "links": {
           "github": "https://github.com/s1na"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           2926
         ]
+      },
+      {
+        "slug": "nazar-hussain",
+        "name": "Nazar Hussain",
+        "links": {
+          "github": "https://github.com/nazarhussain"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
+        }
       },
       {
         "slug": "keegan-lee",
@@ -6298,6 +7207,17 @@
         ]
       },
       {
+        "slug": "dmitry-shmatko",
+        "name": "Dmitry Shmatko",
+        "links": {
+          "github": "https://github.com/zilm13"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Teku"
+        }
+      },
+      {
         "slug": "marta-belles",
         "name": "Marta Bellés",
         "links": {
@@ -6387,6 +7307,10 @@
         "links": {
           "github": "https://github.com/lightclient"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           2733,
           2780,
@@ -6445,6 +7369,10 @@
         "emails": [
           "yoav@tabookey.com"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Security"
+        },
         "eips": [
           1613,
           1706,
@@ -6545,6 +7473,17 @@
         ]
       },
       {
+        "slug": "sam-calder-mason",
+        "name": "Sam Calder-Mason",
+        "links": {
+          "github": "https://github.com/samcm"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF DevOps"
+        }
+      },
+      {
         "slug": "bruno-barbieri",
         "name": "Bruno Barbieri",
         "links": {
@@ -6603,6 +7542,17 @@
         ]
       },
       {
+        "slug": "roberto-saltini",
+        "name": "Roberto Saltini",
+        "links": {
+          "github": "https://github.com/saltiniroberto"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Consensys DDS"
+        }
+      },
+      {
         "slug": "tomas-janca",
         "name": "Tomáš Janča",
         "emails": [
@@ -6622,6 +7572,17 @@
           1153,
           5792
         ]
+      },
+      {
+        "slug": "chenyi-zhang",
+        "name": "Chenyi Zhang",
+        "links": {
+          "github": "https://github.com/czhang-fm"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Consensys DDS"
+        }
       },
       {
         "slug": "kevin-riedl",
@@ -6711,6 +7672,17 @@
         ]
       },
       {
+        "slug": "marek-moraczynski",
+        "name": "Marek Moraczyński",
+        "links": {
+          "github": "https://github.com/MarekM25"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
+      },
+      {
         "slug": "amir-kahoori",
         "name": "Amir Kahoori",
         "emails": [
@@ -6774,6 +7746,10 @@
         "emails": [
           "piper@ethereum.org"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Portal"
+        },
         "eips": [
           190,
           1123,
@@ -6795,6 +7771,28 @@
         ]
       },
       {
+        "slug": "michelangelo-riccobene",
+        "name": "Michelangelo Riccobene",
+        "links": {
+          "github": "https://github.com/mriccobene"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Erigon"
+        }
+      },
+      {
+        "slug": "radoslaw-zagorowicz",
+        "name": "Radosław Zagórowicz",
+        "links": {
+          "github": "https://github.com/rodiazet"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Ipsilon"
+        }
+      },
+      {
         "slug": "sillytuna",
         "name": "Sillytuna",
         "links": {
@@ -6814,6 +7812,17 @@
           1261,
           1417
         ]
+      },
+      {
+        "slug": "davide-crapis",
+        "name": "Davide Crapis",
+        "links": {
+          "github": "https://github.com/dcrapis"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Robust Incentives Group (RIG)"
+        }
       },
       {
         "slug": "brantly-millegan",
@@ -6965,6 +7974,28 @@
         "eips": [
           7007
         ]
+      },
+      {
+        "slug": "phil-ngo",
+        "name": "Phil Ngo",
+        "links": {
+          "github": "https://github.com/philknows"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
+        }
+      },
+      {
+        "slug": "tullio-canepa",
+        "name": "Tullio Canepa",
+        "links": {
+          "github": "https://github.com/canepat"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Erigon"
+        }
       },
       {
         "slug": "dogan-alpaslan",
@@ -7138,6 +8169,10 @@
         "links": {
           "github": "https://github.com/jwasinger"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           5656,
           6690
@@ -7187,10 +8222,25 @@
         ]
       },
       {
+        "slug": "james-he",
+        "name": "James He",
+        "links": {
+          "github": "https://github.com/james-prysm"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
         "slug": "sam-wilson",
         "name": "Sam Wilson",
         "links": {
           "github": "https://github.com/SamWilsn"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
         },
         "eips": [
           2938,
@@ -7249,6 +8299,10 @@
         "links": {
           "github": "https://github.com/mkalinin"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "TXRX"
+        },
         "eips": [
           3675,
           4399,
@@ -7300,6 +8354,17 @@
         ]
       },
       {
+        "slug": "amir-ghorbanian",
+        "name": "Amir Ghorbanian",
+        "links": {
+          "github": "https://github.com/scorbajio"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF JavaScript"
+        }
+      },
+      {
         "slug": "cody-burns",
         "name": "Cody Burns",
         "emails": [
@@ -7347,9 +8412,24 @@
           "twitter": "https://twitter.com/TMIYChao",
           "github": "https://github.com/taxmeifyoucan"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
+        },
         "eips": [
           6916
         ]
+      },
+      {
+        "slug": "simon-dudley",
+        "name": "Simon Dudley",
+        "links": {
+          "github": "https://github.com/siladu"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "eric-conner",
@@ -7387,6 +8467,10 @@
         "name": "Dmitry Khovratovich",
         "links": {
           "github": "https://github.com/khovratovich"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
         },
         "eips": [
           3607
@@ -7560,6 +8644,17 @@
         ]
       },
       {
+        "slug": "tanishq-jasoria",
+        "name": "Tanishq Jasoria",
+        "links": {
+          "github": "https://github.com/tanishqjasoria"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
+      },
+      {
         "slug": "zhongfu",
         "name": "zhongfu",
         "links": {
@@ -7584,6 +8679,10 @@
         "name": "Alex Beregszaszi",
         "links": {
           "github": "https://github.com/axic"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Ipsilon"
         },
         "eips": [
           140,
@@ -7703,6 +8802,17 @@
         ]
       },
       {
+        "slug": "julian-ma",
+        "name": "Julian Ma",
+        "links": {
+          "github": "https://github.com/Ma-Julian"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Robust Incentives Group (RIG)"
+        }
+      },
+      {
         "slug": "d-wang",
         "name": "D Wang",
         "eipname": "D Wang",
@@ -7723,6 +8833,17 @@
         "eips": [
           5131
         ]
+      },
+      {
+        "slug": "gabriel-ziegler-trintinalia",
+        "name": "Gabriel Ziegler Trintinalia",
+        "links": {
+          "github": "https://github.com/Gabriel-Trintinalia"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
       },
       {
         "slug": "sean-papanikolas",
@@ -7755,6 +8876,10 @@
           "peterke@gmail.com",
           "peter@ethereum.org"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Geth"
+        },
         "eips": [
           225,
           706,
@@ -7797,10 +8922,25 @@
         ]
       },
       {
+        "slug": "mac-ladson",
+        "name": "Mac Ladson",
+        "links": {
+          "github": "https://github.com/macladson"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
+      },
+      {
         "slug": "hugo-de-la-cruz",
         "name": "Hugo De la cruz",
         "links": {
           "github": "https://github.com/hugo-dc"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Ipsilon"
         },
         "eips": [
           3855
@@ -7855,10 +8995,36 @@
         ]
       },
       {
+        "slug": "paul-hauner",
+        "name": "Paul Hauner",
+        "links": {
+          "github": "https://github.com/paulhauner"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        }
+      },
+      {
+        "slug": "ameziane-hamlat",
+        "name": "Ameziane Hamlat",
+        "links": {
+          "github": "https://github.com/ahamlat"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
+      },
+      {
         "slug": "tim-beiko",
         "name": "Tim Beiko",
         "links": {
           "github": "https://github.com/timbeiko"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
         },
         "eips": [
           2364,
@@ -7867,6 +9033,17 @@
           6953,
           7514
         ]
+      },
+      {
+        "slug": "mateusz-jedrzejewski",
+        "name": "Mateusz Jędrzejewski",
+        "links": {
+          "github": "https://github.com/matilote"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
       },
       {
         "slug": "mihir-faujdar",
@@ -7965,6 +9142,10 @@
         "name": "Ansgar Dietrichs",
         "links": {
           "github": "https://github.com/adietrichs"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
         },
         "eips": [
           2938,
@@ -8070,6 +9251,28 @@
         ]
       },
       {
+        "slug": "preston-van-loon",
+        "name": "Preston Van Loon",
+        "links": {
+          "github": "https://github.com/prestonvanloon"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
+        "slug": "jacob-kaufmann",
+        "name": "Jacob Kaufmann",
+        "links": {
+          "github": "https://github.com/jacobkaufmann"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Portal"
+        }
+      },
+      {
         "slug": "gianluca-perletti",
         "name": "Gianluca Perletti",
         "links": {
@@ -8088,6 +9291,17 @@
         "eips": [
           7231
         ]
+      },
+      {
+        "slug": "dustin-brody",
+        "name": "Dustin Brody",
+        "links": {
+          "github": "https://github.com/tersec"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
       },
       {
         "slug": "joel-thorstensson",
@@ -8234,10 +9448,25 @@
         ]
       },
       {
+        "slug": "eugene-kabanov",
+        "name": "Eugene Kabanov",
+        "links": {
+          "github": "https://github.com/cheatfate"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Status"
+        }
+      },
+      {
         "slug": "pooja-ranjan",
         "name": "Pooja Ranjan",
         "links": {
           "github": "https://github.com/poojaranjan"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Ethereum Cat Herders"
         },
         "eips": [
           5069
@@ -8350,6 +9579,17 @@
         ]
       },
       {
+        "slug": "andrey-ashikhmin",
+        "name": "Andrey Ashikhmin",
+        "links": {
+          "github": "https://github.com/yperbasis"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Erigon"
+        }
+      },
+      {
         "slug": "infernal-toast",
         "name": "Infernal_toast",
         "emails": [
@@ -8394,6 +9634,10 @@
         "name": "Guillaume Ballet",
         "links": {
           "github": "https://github.com/gballet"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Stateless Consensus"
         },
         "eips": [
           2584,
@@ -8558,6 +9802,17 @@
         ]
       },
       {
+        "slug": "barnabas-busa",
+        "name": "Barnabas Busa",
+        "links": {
+          "github": "https://github.com/barnabasbusa"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF DevOps"
+        }
+      },
+      {
         "slug": "george-zhang",
         "name": "George Zhang",
         "links": {
@@ -8609,6 +9864,10 @@
         "links": {
           "github": "https://github.com/justindrake"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           2565,
           7251,
@@ -8655,9 +9914,46 @@
         "links": {
           "github": "https://github.com/adiasg"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Research"
+        },
         "eips": [
           7251
         ]
+      },
+      {
+        "slug": "gabriel-fukushima",
+        "name": "Gabriel Fukushima",
+        "links": {
+          "github": "https://github.com/gfukushima"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Hyperledger Besu"
+        }
+      },
+      {
+        "slug": "scotty-poi",
+        "name": "Scotty Poi",
+        "links": {
+          "github": "https://github.com/ScottyPoi"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF JavaScript"
+        }
+      },
+      {
+        "slug": "ognyan-genev",
+        "name": "Ognyan Genev",
+        "links": {
+          "github": "https://github.com/ogenev"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Portal"
+        }
       },
       {
         "slug": "jason-cheng",
@@ -8703,6 +9999,10 @@
         "links": {
           "github": "https://github.com/ethDreamer"
         },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lighthouse"
+        },
         "eips": [
           4881
         ]
@@ -8726,6 +10026,28 @@
         "eips": [
           7066
         ]
+      },
+      {
+        "slug": "radoslaw-kapka",
+        "name": "Radosław Kapka",
+        "links": {
+          "github": "https://github.com/rkapka"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Prysm"
+        }
+      },
+      {
+        "slug": "ayman-bouchared",
+        "name": "Ayman Bouchared",
+        "links": {
+          "github": "https://github.com/Demuirgos"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        }
       },
       {
         "slug": "zergity",
@@ -8778,6 +10100,17 @@
         ]
       },
       {
+        "slug": "tyler-holmes",
+        "name": "Tyler Holmes",
+        "links": {
+          "github": "https://github.com/z3n-chada"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Security"
+        }
+      },
+      {
         "slug": "kai-yu",
         "name": "Kai Yu",
         "links": {
@@ -8812,6 +10145,17 @@
         ]
       },
       {
+        "slug": "nico-flaig",
+        "name": "Nico Flaig",
+        "links": {
+          "github": "https://github.com/nflaig"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "Lodestar"
+        }
+      },
+      {
         "slug": "ahmad-bitar",
         "name": "Ahmad Bitar",
         "links": {
@@ -8820,6 +10164,10 @@
         "emails": [
           "smartprogrammer@windowslive.com"
         ],
+        "protocolGuild": {
+          "member": true,
+          "team": "Nethermind"
+        },
         "eips": [
           7542
         ]
@@ -8896,6 +10244,17 @@
         ]
       },
       {
+        "slug": "guru",
+        "name": "Guru",
+        "links": {
+          "github": "https://github.com/gurukamath"
+        },
+        "protocolGuild": {
+          "member": true,
+          "team": "EF Protocol Support"
+        }
+      },
+      {
         "slug": "hudson-jameson",
         "name": "Hudson Jameson",
         "emails": [
@@ -8951,5 +10310,5 @@
       }
     ]
   },
-  "time": "2023-10-24T23:26:53.690Z"
+  "time": "2023-10-25T16:23:16.168Z"
 }
