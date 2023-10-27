@@ -10,4 +10,5 @@ collections:
   projects: {}
 extenders:
   eips: {}
-  protocol-guild: {}
+  #protocol-guild: {}
+  #github: {}

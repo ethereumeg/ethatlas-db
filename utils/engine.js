@@ -5,6 +5,7 @@ import { ensureDir } from "https://deno.land/std@0.204.0/fs/ensure_dir.ts";
 import { exists } from "https://deno.land/std@0.204.0/fs/exists.ts";
 import Ajv from "https://esm.sh/ajv@8.8.1?pin=v58";
 import addFormats from "https://esm.sh/ajv-formats@2.1.1";
+import "https://deno.land/std@0.204.0/dotenv/load.ts";
 
 const CONFIG_DEFAULTS = {
   dataDir: "./data",

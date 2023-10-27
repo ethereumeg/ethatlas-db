@@ -3,12 +3,12 @@
 all: test build-data
 
 test:
-	deno test --unstable --allow-read utils/exec.js
+	deno test --unstable --allow-read utils/exec.js --allow-env
 
 build-all: test build-data build-web consolidate
 
 build-data:
-	deno run --unstable --allow-read --allow-write utils/exec.js build
+	deno run --unstable --allow-read --allow-write --allow-env utils/exec.js build
 
 build-web:
 	cd web && npm run build
@@ -21,7 +21,7 @@ consolidate:
 	cp -R ./static ./output/data
 
 extend:
-	deno run --unstable --allow-read --allow-write --allow-net utils/extend.js
+	deno run --unstable --allow-read --allow-write --allow-env --allow-net --allow-run utils/extend.js
 
 fmt:
 	deno fmt utils/*.js utils/extenders/*.js
