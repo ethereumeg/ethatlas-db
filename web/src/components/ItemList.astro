@@ -17,9 +17,20 @@ if (cat === 'people') {
 
     <div class="">
         {items.map((item) => (
-            <div class="border p-3 mb-4">
+            <div class="border p-3 mb-4 flex gap-2">
                 <div class="text-lg">
                     <a href={`/${item.slug}`} class="hover:underline">{item.name}</a>
+                </div>
+                <div class="">
+                    {item.protocolGuild?.member === true &&
+                        <div class="inline-block border bg-red-100 px-1 py-0.5 text-xs">CORE</div>
+                    }
+                    {item.eips && item.eips.length > 0 &&
+                        <div class="inline-block border bg-yellow-100 px-1 py-0.5 text-xs">EIP</div>
+                    }
+                    {item.ercs && item.ercs.length > 0 &&
+                        <div class="inline-block border bg-blue-100 px-1 py-0.5 text-xs">ERC</div>
+                    }
                 </div>
             </div>
         ))}
