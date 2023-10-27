@@ -50,12 +50,15 @@ const tools = {
     }
 
     console.log(`Getting ${url}`);
-    const resp = await fetch(url, Object.assign({
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15",
-      },
-    }, params));
+    const resp = await fetch(
+      url,
+      Object.assign({
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15",
+        },
+      }, params),
+    );
     const output = await resp.text();
     await Deno.writeTextFile(cacheFn, output);
     return output;

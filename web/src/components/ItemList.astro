@@ -7,7 +7,7 @@ let catData = config.categories.find(c => c.col === cat)
 let items = bundle.data[cat]
 
 if (cat === 'people') {
-    items = items.sort((x, y) => (x.eips?.length || 0) > (y.eips?.length || 0) ? -1 : 1 )
+    items = items.sort((x, y) => ((x.eips?.length || 0) + (x.ercs?.length || 0)) > ((y.eips?.length || 0) + (y.ercs?.length || 0)) ? -1 : 1 )
 }
 
 ---

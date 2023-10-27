@@ -19,14 +19,21 @@ export async function process(db, _) {
         ).includes(link.toLowerCase())
       ) {
         return true;
+      } else if (p.index.pgname && p.index.pgname === name) {
+        return true;
       }
     });
     if (!person) {
-      person = await db.itemCreate(
-        "people",
-        _.slugify(name).toLowerCase().replace(".", ""),
-        { name, links: { github: link } },
-      );
+      try {
+        person = await db.itemCreate(
+          "people",
+          _.slugify(name).toLowerCase().replace(".", ""),
+          { name, links: { github: link } },
+        );
+      } catch (e) {
+        console.log({ name, link });
+        throw e;
+      }
       console.log(`${name} not exists!`);
     } else {
       console.log(`${name} => ${person.index.slug} (auto)`);
