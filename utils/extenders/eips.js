@@ -116,6 +116,9 @@ export async function process(db, _) {
           ercs: authors[a].ercs,
         };
         matrix.push(matrixItem);
+      } else {
+        matrixItem.eips = matrixItem.eips.concat(authors[a].eips);
+        matrixItem.ercs = matrixItem.ercs.concat(authors[a].ercs);
       }
     } else {
       matrix.push({

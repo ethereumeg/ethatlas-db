@@ -23,7 +23,7 @@ if (cat === 'people') {
                 </div>
                 <div class="">
                     {item.protocolGuild?.member === true &&
-                        <div class="inline-block border bg-red-100 px-1 py-0.5 text-xs">CORE</div>
+                        <div class="inline-block border bg-red-100 px-1 py-0.5 text-xs">{item.protocolGuild.team}</div>
                     }
                     {item.eips && item.eips.length > 0 &&
                         <div class="inline-block border bg-yellow-100 px-1 py-0.5 text-xs">EIP</div>
